@@ -15,11 +15,6 @@ through open-source collaboration, patents, and strategic execution.
 - **[{{.Name}}]({{.URL}})** - {{.Description}}
 {{- end}}
 
-#### 🍴 Recently forked repositories
-{{range recentForks 6}}
-- **[{{.Name}}]({{.URL}})** - {{.Description}}
-{{- end}}
-
 #### 📦 Latest releases I've contributed to
 {{range recentReleases 8}}
 - **[{{.Name}}]({{.URL}})** ([{{.LastRelease.TagName}}]({{.LastRelease.URL}})) - {{.Description}} *({{humanize .LastRelease.PublishedAt}})*
