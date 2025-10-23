@@ -38,7 +38,7 @@ through open-source collaboration, patents, and strategic execution.
 ---
 
 #### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gab-arrobo&show_icons=true&theme=radical)
 
 #### 🛠️ Technologies & Tools
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
