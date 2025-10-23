@@ -1,0 +1,42 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore: # Don't run if only README was updated (avoid infinite loops)
+      - 'README.md'
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate README
+        uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.README_TOKEN }}
+        with:
+          template: "templates/README.md.tpl"
+          writeTo: "README.md"
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: update generated README"
+          branch: main
+          commit_user_name: readme-scribe[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_author: readme-scribe[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          skip_dirty_check: false
+          skip_fetch: false
