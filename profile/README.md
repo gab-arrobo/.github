@@ -7,14 +7,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(today)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(today)*
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(today)*
-- **[gab-arrobo/.github](https://github.com/gab-arrobo/.github)** -  *(today)*
-- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(1 week ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(1 day ago)*
+- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(1 day ago)*
+- **[gab-arrobo/.github](https://github.com/gab-arrobo/.github)** -  *(1 day ago)*
 - **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 week ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 week ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 week ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(1 week ago)*
 
 #### 💡 My latest projects
 
@@ -22,7 +22,7 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.5.6](https://github.com/omec-project/util/releases/tag/v1.5.6)) -  *(today)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.5.6](https://github.com/omec-project/util/releases/tag/v1.5.6)) -  *(1 day ago)*
 - **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v1.6.1](https://github.com/omec-project/ngap/releases/tag/v1.6.1)) -  *(3 weeks ago)*
 - **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.6.3](https://github.com/omec-project/nas/releases/tag/v1.6.3)) -  *(3 weeks ago)*
 - **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v1.6.4](https://github.com/omec-project/openapi/releases/tag/v1.6.4)) -  *(3 weeks ago)*
@@ -33,14 +33,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Remove github.com/stretchr/testify and rely only in GO testing package](https://github.com/omec-project/util/pull/201) on **[omec-project/util](https://github.com/omec-project/util)** *(1 day ago)*
-- [Create patch release](https://github.com/omec-project/util/pull/199) on **[omec-project/util](https://github.com/omec-project/util)** *(1 day ago)*
-- [Revert VERSION change due to issues with GHAs](https://github.com/omec-project/util/pull/198) on **[omec-project/util](https://github.com/omec-project/util)** *(1 day ago)*
-- [Replace unmaintained dependency git.cs.nctu.edu.tw/calee/sctp with github.com/ishidawataru/sctp](https://github.com/omec-project/amf/pull/538) on **[omec-project/amf](https://github.com/omec-project/amf)** *(2 days ago)*
+- [Remove github.com/yerden/go-util dependency that is only used in gnbsim repo](https://github.com/omec-project/gnbsim/pull/376) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(1 day ago)*
+- [Update extension to the same extension as the other GHAs files](https://github.com/omec-project/nas/pull/128) on **[omec-project/nas](https://github.com/omec-project/nas)** *(1 day ago)*
+- [Remove github.com/stretchr/testify and rely only in GO testing package](https://github.com/omec-project/util/pull/201) on **[omec-project/util](https://github.com/omec-project/util)** *(2 days ago)*
+- [Create patch release](https://github.com/omec-project/util/pull/199) on **[omec-project/util](https://github.com/omec-project/util)** *(2 days ago)*
+- [Revert VERSION change due to issues with GHAs](https://github.com/omec-project/util/pull/198) on **[omec-project/util](https://github.com/omec-project/util)** *(2 days ago)*
+- [Replace unmaintained dependency git.cs.nctu.edu.tw/calee/sctp with github.com/ishidawataru/sctp](https://github.com/omec-project/amf/pull/538) on **[omec-project/amf](https://github.com/omec-project/amf)** *(3 days ago)*
 - [Refactor tests and remove github.com/stretchr/testify package](https://github.com/omec-project/upf/pull/948) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 week ago)*
 - [Refactor tests and remove github.com/stretchr/testify package](https://github.com/omec-project/udr/pull/230) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 week ago)*
-- [Refactor tests and remove github.com/stretchr/testify package](https://github.com/omec-project/udm/pull/252) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 week ago)*
-- [Refactor tests and remove github.com/stretchr/testify package](https://github.com/omec-project/smf/pull/469) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 week ago)*
 
 #### ⭐ Recently starred repositories
 
