@@ -7,12 +7,12 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(4 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(4 days ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(4 days ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(5 days ago)*
-- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(5 days ago)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(6 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(5 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(5 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(5 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(6 days ago)*
+- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(6 days ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 week ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** -  *(1 week ago)*
 - **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(1 week ago)*
 
@@ -22,8 +22,8 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.6.4](https://github.com/omec-project/nas/releases/tag/v1.6.4)) -  *(4 days ago)*
-- **[omec-project/pcf](https://github.com/omec-project/pcf)** ([v2.0.1](https://github.com/omec-project/pcf/releases/tag/v2.0.1)) -  *(4 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.6.4](https://github.com/omec-project/nas/releases/tag/v1.6.4)) -  *(5 days ago)*
+- **[omec-project/pcf](https://github.com/omec-project/pcf)** ([v2.0.1](https://github.com/omec-project/pcf/releases/tag/v2.0.1)) -  *(5 days ago)*
 - **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.1](https://github.com/omec-project/.github/releases/tag/v0.0.1)) -  *(1 week ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** ([v1.5.7](https://github.com/omec-project/util/releases/tag/v1.5.7)) -  *(1 week ago)*
 - **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v1.6.1](https://github.com/omec-project/ngap/releases/tag/v1.6.1)) -  *(1 month ago)*
@@ -33,11 +33,11 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Run a test by disabling the results upload](https://github.com/omec-project/.github/pull/63) on **[omec-project/.github](https://github.com/omec-project/.github)** *(3 days ago)*
-- [Pin dependency by hash following OpenSSF recommendation](https://github.com/omec-project/amf/pull/543) on **[omec-project/amf](https://github.com/omec-project/amf)** *(3 days ago)*
-- [Add security file following OpenSSF recommendation](https://github.com/omec-project/amf/pull/542) on **[omec-project/amf](https://github.com/omec-project/amf)** *(3 days ago)*
-- [Address incorrect IMEISV setting when building security mode complete payload](https://github.com/omec-project/nas/pull/129) on **[omec-project/nas](https://github.com/omec-project/nas)** *(4 days ago)*
-- [Making several improvements to the logging to avoid redundancies](https://github.com/omec-project/smf/pull/473) on **[omec-project/smf](https://github.com/omec-project/smf)** *(5 days ago)*
+- [Run a test by disabling the results upload](https://github.com/omec-project/.github/pull/63) on **[omec-project/.github](https://github.com/omec-project/.github)** *(4 days ago)*
+- [Pin dependency by hash following OpenSSF recommendation](https://github.com/omec-project/amf/pull/543) on **[omec-project/amf](https://github.com/omec-project/amf)** *(4 days ago)*
+- [Add security file following OpenSSF recommendation](https://github.com/omec-project/amf/pull/542) on **[omec-project/amf](https://github.com/omec-project/amf)** *(4 days ago)*
+- [Address incorrect IMEISV setting when building security mode complete payload](https://github.com/omec-project/nas/pull/129) on **[omec-project/nas](https://github.com/omec-project/nas)** *(5 days ago)*
+- [Making several improvements to the logging to avoid redundancies](https://github.com/omec-project/smf/pull/473) on **[omec-project/smf](https://github.com/omec-project/smf)** *(6 days ago)*
 - [Remove dependency from github.com/google/gopacket which latest release is from 2020](https://github.com/omec-project/ausf/pull/224) on **[omec-project/ausf](https://github.com/omec-project/ausf)** *(1 week ago)*
 - [Create patch release to be used when the reusable workflows are called](https://github.com/omec-project/.github/pull/61) on **[omec-project/.github](https://github.com/omec-project/.github)** *(1 week ago)*
 - [Add GHA for tagging releases in self-repository](https://github.com/omec-project/.github/pull/60) on **[omec-project/.github](https://github.com/omec-project/.github)** *(1 week ago)*
