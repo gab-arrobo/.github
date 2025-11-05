@@ -7,18 +7,16 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
+- **[gab-arrobo/.github](https://github.com/gab-arrobo/.github)** -  *(today)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
 - **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
 - **[omec-project/.github](https://github.com/omec-project/.github)** -  *(6 days ago)*
 - **[omec-project/nas](https://github.com/omec-project/nas)** -  *(6 days ago)*
 - **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 week ago)*
 - **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(1 week ago)*
 - **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 week ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 week ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(1 week ago)*
 
-#### 💡 My latest projects
 
-- **[gab-arrobo/.github](https://github.com/gab-arrobo/.github)** - 
 
 #### 📦 Latest releases I've contributed to
 
@@ -42,7 +40,6 @@ through open-source collaboration, patents, and strategic execution.
 - [Add security file following OpenSSF recommendation](https://github.com/omec-project/amf/pull/542) on **[omec-project/amf](https://github.com/omec-project/amf)** *(5 days ago)*
 - [Address incorrect IMEISV setting when building security mode complete payload](https://github.com/omec-project/nas/pull/129) on **[omec-project/nas](https://github.com/omec-project/nas)** *(6 days ago)*
 
-#### ⭐ Recently starred repositories
 
 
 #### 👥 Recent followers
@@ -59,9 +56,13 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🛠️ Technologies & Tools
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 #### 📫 How to reach me
