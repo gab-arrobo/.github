@@ -55,9 +55,9 @@ through open-source collaboration, patents, and strategic execution.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gab-arrobo&show_icons=true&theme=radical)
 
 #### 🛠️ Technologies & Tools
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
