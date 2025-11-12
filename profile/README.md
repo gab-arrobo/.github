@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(4 days ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(5 days ago)*
-- **[gab-arrobo/.github](https://github.com/gab-arrobo/.github)** -  *(5 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(2 days ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(5 days ago)*
+- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(6 days ago)*
+- **[gab-arrobo/.github](https://github.com/gab-arrobo/.github)** -  *(6 days ago)*
 - **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 week ago)*
 - **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 week ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 week ago)*
-- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(1 week ago)*
+- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(2 weeks ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v1.7.0](https://github.com/omec-project/gnbsim/releases/tag/v1.7.0)) - gNB simulator *(4 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.1.2](https://github.com/omec-project/upf/releases/tag/v2.1.2)) - 4G/5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v1.7.0](https://github.com/omec-project/gnbsim/releases/tag/v1.7.0)) - gNB simulator *(5 days ago)*
 - **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.6.4](https://github.com/omec-project/nas/releases/tag/v1.6.4)) -  *(1 week ago)*
 - **[omec-project/pcf](https://github.com/omec-project/pcf)** ([v2.0.1](https://github.com/omec-project/pcf/releases/tag/v2.0.1)) -  *(1 week ago)*
 - **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.1](https://github.com/omec-project/.github/releases/tag/v0.0.1)) -  *(2 weeks ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** ([v1.5.7](https://github.com/omec-project/util/releases/tag/v1.5.7)) -  *(2 weeks ago)*
 - **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v1.6.1](https://github.com/omec-project/ngap/releases/tag/v1.6.1)) -  *(1 month ago)*
 - **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v1.6.4](https://github.com/omec-project/openapi/releases/tag/v1.6.4)) -  *(1 month ago)*
-- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** ([v1.7.0](https://github.com/omec-project/metricfunc/releases/tag/v1.7.0)) - Metric Function *(1 month ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Use latest `gnbsim` image that addresses an issue with IMEISV](https://github.com/opennetworkinglab/aether-onramp/pull/118) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(4 days ago)*
-- [Create minor release](https://github.com/omec-project/gnbsim/pull/381) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(5 days ago)*
-- [Add openSSF score badge](https://github.com/omec-project/amf/pull/553) on **[omec-project/amf](https://github.com/omec-project/amf)** *(5 days ago)*
-- [Add pre-commit-config file and make appropriate changes](https://github.com/omec-project/amf/pull/552) on **[omec-project/amf](https://github.com/omec-project/amf)** *(5 days ago)*
-- [Make several minor formatting fixes](https://github.com/omec-project/gnbsim/pull/380) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(5 days ago)*
+- [Create patch release](https://github.com/omec-project/upf/pull/960) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Use latest `gnbsim` image that addresses an issue with IMEISV](https://github.com/opennetworkinglab/aether-onramp/pull/118) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(5 days ago)*
+- [Create minor release](https://github.com/omec-project/gnbsim/pull/381) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(6 days ago)*
+- [Add openSSF score badge](https://github.com/omec-project/amf/pull/553) on **[omec-project/amf](https://github.com/omec-project/amf)** *(6 days ago)*
+- [Add pre-commit-config file and make appropriate changes](https://github.com/omec-project/amf/pull/552) on **[omec-project/amf](https://github.com/omec-project/amf)** *(6 days ago)*
+- [Make several minor formatting fixes](https://github.com/omec-project/gnbsim/pull/380) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(6 days ago)*
 - [Address issue with remaining token permissions in the GHAs](https://github.com/omec-project/amf/pull/548) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 week ago)*
 - [Update SD-Core Helm Chart version to its latest version (3.1.2)](https://github.com/opennetworkinglab/aether-onramp/pull/117) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 week ago)*
-- [Address token permissions issue as suggested by openSSF scorecard GHA](https://github.com/omec-project/amf/pull/547) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 week ago)*
 
 
 
