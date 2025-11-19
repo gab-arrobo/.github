@@ -7,20 +7,20 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(5 days ago)*
-- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(5 days ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(6 days ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(6 days ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(6 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
+- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(6 days ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(6 days ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 week ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(1 week ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 week ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 week ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 week ago)*
 - **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(1 week ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v1.6.5](https://github.com/omec-project/openapi/releases/tag/v1.6.5)) -  *(6 days ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v1.6.5](https://github.com/omec-project/openapi/releases/tag/v1.6.5)) -  *(1 week ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.1.2](https://github.com/omec-project/upf/releases/tag/v2.1.2)) - 4G/5G Mobile Core User Plane *(1 week ago)*
 - **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v1.7.0](https://github.com/omec-project/gnbsim/releases/tag/v1.7.0)) - gNB simulator *(1 week ago)*
 - **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.6.4](https://github.com/omec-project/nas/releases/tag/v1.6.4)) -  *(2 weeks ago)*
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Upgrade openapi dependency version](https://github.com/omec-project/ngap/pull/42) on **[omec-project/ngap](https://github.com/omec-project/ngap)** *(5 days ago)*
-- [Use the latest version of the SD-Core](https://github.com/opennetworkinglab/aether-onramp/pull/119) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(6 days ago)*
+- [Update hyperlink to properly work under different views/sections](https://github.com/omec-project/amf/pull/557) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [Upgrade openapi dependency version](https://github.com/omec-project/ngap/pull/42) on **[omec-project/ngap](https://github.com/omec-project/ngap)** *(6 days ago)*
+- [Use the latest version of the SD-Core](https://github.com/opennetworkinglab/aether-onramp/pull/119) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 week ago)*
 - [Create patch release](https://github.com/omec-project/upf/pull/960) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 week ago)*
 - [Use latest `gnbsim` image that addresses an issue with IMEISV](https://github.com/opennetworkinglab/aether-onramp/pull/118) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 week ago)*
 - [Create minor release](https://github.com/omec-project/gnbsim/pull/381) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(1 week ago)*
 - [Add openSSF score badge](https://github.com/omec-project/amf/pull/553) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 week ago)*
 - [Add pre-commit-config file and make appropriate changes](https://github.com/omec-project/amf/pull/552) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 week ago)*
-- [Make several minor formatting fixes](https://github.com/omec-project/gnbsim/pull/380) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(1 week ago)*
 
 
 
