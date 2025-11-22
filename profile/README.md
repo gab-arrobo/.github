@@ -7,14 +7,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(2 days ago)*
 - **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(1 week ago)*
 - **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(1 week ago)*
 - **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 week ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(1 week ago)*
 - **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 week ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(1 week ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 week ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(2 weeks ago)*
 
 
 
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Address likely race condition](https://github.com/omec-project/amf/pull/565) on **[omec-project/amf](https://github.com/omec-project/amf)** *(today)*
-- [Add preliminary Fuzz testing](https://github.com/omec-project/amf/pull/558) on **[omec-project/amf](https://github.com/omec-project/amf)** *(2 days ago)*
-- [Update hyperlink to properly work under different views/sections](https://github.com/omec-project/amf/pull/557) on **[omec-project/amf](https://github.com/omec-project/amf)** *(3 days ago)*
+- [Upgrade SCTP dependency](https://github.com/omec-project/amf/pull/566) on **[omec-project/amf](https://github.com/omec-project/amf)** *(today)*
+- [Refactor setting the logging level](https://github.com/omec-project/smf/pull/483) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Address likely race condition](https://github.com/omec-project/amf/pull/565) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [Add preliminary Fuzz testing](https://github.com/omec-project/amf/pull/558) on **[omec-project/amf](https://github.com/omec-project/amf)** *(3 days ago)*
+- [Update hyperlink to properly work under different views/sections](https://github.com/omec-project/amf/pull/557) on **[omec-project/amf](https://github.com/omec-project/amf)** *(4 days ago)*
 - [Upgrade openapi dependency version](https://github.com/omec-project/ngap/pull/42) on **[omec-project/ngap](https://github.com/omec-project/ngap)** *(1 week ago)*
 - [Use the latest version of the SD-Core](https://github.com/opennetworkinglab/aether-onramp/pull/119) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 week ago)*
 - [Create patch release](https://github.com/omec-project/upf/pull/960) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 week ago)*
-- [Use latest `gnbsim` image that addresses an issue with IMEISV](https://github.com/opennetworkinglab/aether-onramp/pull/118) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(2 weeks ago)*
-- [Create minor release](https://github.com/omec-project/gnbsim/pull/381) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(2 weeks ago)*
 
 
 
