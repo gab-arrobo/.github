@@ -7,8 +7,8 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(2 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(2 days ago)*
 - **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(1 week ago)*
 - **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(1 week ago)*
 - **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 week ago)*
@@ -26,16 +26,16 @@ through open-source collaboration, patents, and strategic execution.
 - **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.6.4](https://github.com/omec-project/nas/releases/tag/v1.6.4)) -  *(3 weeks ago)*
 - **[omec-project/pcf](https://github.com/omec-project/pcf)** ([v2.0.1](https://github.com/omec-project/pcf/releases/tag/v2.0.1)) -  *(3 weeks ago)*
 - **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.1](https://github.com/omec-project/.github/releases/tag/v0.0.1)) -  *(3 weeks ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.5.7](https://github.com/omec-project/util/releases/tag/v1.5.7)) -  *(4 weeks ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.5.7](https://github.com/omec-project/util/releases/tag/v1.5.7)) -  *(1 month ago)*
 - **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v1.6.1](https://github.com/omec-project/ngap/releases/tag/v1.6.1)) -  *(1 month ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Upgrade SCTP dependency](https://github.com/omec-project/amf/pull/566) on **[omec-project/amf](https://github.com/omec-project/amf)** *(today)*
-- [Refactor setting the logging level](https://github.com/omec-project/smf/pull/483) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
-- [Address likely race condition](https://github.com/omec-project/amf/pull/565) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
-- [Add preliminary Fuzz testing](https://github.com/omec-project/amf/pull/558) on **[omec-project/amf](https://github.com/omec-project/amf)** *(3 days ago)*
-- [Update hyperlink to properly work under different views/sections](https://github.com/omec-project/amf/pull/557) on **[omec-project/amf](https://github.com/omec-project/amf)** *(4 days ago)*
+- [Upgrade SCTP dependency](https://github.com/omec-project/amf/pull/566) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [Refactor setting the logging level](https://github.com/omec-project/smf/pull/483) on **[omec-project/smf](https://github.com/omec-project/smf)** *(2 days ago)*
+- [Address likely race condition](https://github.com/omec-project/amf/pull/565) on **[omec-project/amf](https://github.com/omec-project/amf)** *(2 days ago)*
+- [Add preliminary Fuzz testing](https://github.com/omec-project/amf/pull/558) on **[omec-project/amf](https://github.com/omec-project/amf)** *(4 days ago)*
+- [Update hyperlink to properly work under different views/sections](https://github.com/omec-project/amf/pull/557) on **[omec-project/amf](https://github.com/omec-project/amf)** *(5 days ago)*
 - [Upgrade openapi dependency version](https://github.com/omec-project/ngap/pull/42) on **[omec-project/ngap](https://github.com/omec-project/ngap)** *(1 week ago)*
 - [Use the latest version of the SD-Core](https://github.com/opennetworkinglab/aether-onramp/pull/119) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 week ago)*
 - [Create patch release](https://github.com/omec-project/upf/pull/960) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 week ago)*
