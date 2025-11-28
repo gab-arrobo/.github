@@ -7,11 +7,11 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(3 days ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(3 days ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(3 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(5 days ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(6 days ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(4 days ago)*
+- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(4 days ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(4 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(6 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 week ago)*
 - **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(2 weeks ago)*
 - **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(2 weeks ago)*
 - **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(2 weeks ago)*
@@ -22,7 +22,7 @@ through open-source collaboration, patents, and strategic execution.
 
 - **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v1.6.5](https://github.com/omec-project/openapi/releases/tag/v1.6.5)) -  *(2 weeks ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.1.2](https://github.com/omec-project/upf/releases/tag/v2.1.2)) - 4G/5G Mobile Core User Plane *(2 weeks ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v1.7.0](https://github.com/omec-project/gnbsim/releases/tag/v1.7.0)) - gNB simulator *(2 weeks ago)*
+- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v1.7.0](https://github.com/omec-project/gnbsim/releases/tag/v1.7.0)) - gNB simulator *(3 weeks ago)*
 - **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.6.4](https://github.com/omec-project/nas/releases/tag/v1.6.4)) -  *(4 weeks ago)*
 - **[omec-project/pcf](https://github.com/omec-project/pcf)** ([v2.0.1](https://github.com/omec-project/pcf/releases/tag/v2.0.1)) -  *(4 weeks ago)*
 - **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.1](https://github.com/omec-project/.github/releases/tag/v0.0.1)) -  *(1 month ago)*
@@ -31,12 +31,12 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Upgrade SCTP dependency](https://github.com/omec-project/n3iwf/pull/103) on **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** *(3 days ago)*
-- [Upgrade SCTP dependency](https://github.com/omec-project/sctplb/pull/182) on **[omec-project/sctplb](https://github.com/omec-project/sctplb)** *(3 days ago)*
-- [Upgrade SCTP dependency](https://github.com/omec-project/gnbsim/pull/392) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(3 days ago)*
-- [Upgrade SCTP dependency](https://github.com/omec-project/amf/pull/566) on **[omec-project/amf](https://github.com/omec-project/amf)** *(5 days ago)*
-- [Refactor setting the logging level](https://github.com/omec-project/smf/pull/483) on **[omec-project/smf](https://github.com/omec-project/smf)** *(6 days ago)*
-- [Address likely race condition](https://github.com/omec-project/amf/pull/565) on **[omec-project/amf](https://github.com/omec-project/amf)** *(6 days ago)*
+- [Upgrade SCTP dependency](https://github.com/omec-project/n3iwf/pull/103) on **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** *(4 days ago)*
+- [Upgrade SCTP dependency](https://github.com/omec-project/sctplb/pull/182) on **[omec-project/sctplb](https://github.com/omec-project/sctplb)** *(4 days ago)*
+- [Upgrade SCTP dependency](https://github.com/omec-project/gnbsim/pull/392) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(4 days ago)*
+- [Upgrade SCTP dependency](https://github.com/omec-project/amf/pull/566) on **[omec-project/amf](https://github.com/omec-project/amf)** *(6 days ago)*
+- [Refactor setting the logging level](https://github.com/omec-project/smf/pull/483) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 week ago)*
+- [Address likely race condition](https://github.com/omec-project/amf/pull/565) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 week ago)*
 - [Add preliminary Fuzz testing](https://github.com/omec-project/amf/pull/558) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 week ago)*
 - [Update hyperlink to properly work under different views/sections](https://github.com/omec-project/amf/pull/557) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 week ago)*
 
