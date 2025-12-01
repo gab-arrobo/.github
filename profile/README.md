@@ -7,9 +7,9 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(6 days ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(6 days ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(6 days ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(1 week ago)*
+- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(1 week ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 week ago)*
 - **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 week ago)*
 - **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 week ago)*
 - **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(2 weeks ago)*
@@ -31,9 +31,9 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Upgrade SCTP dependency](https://github.com/omec-project/n3iwf/pull/103) on **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** *(6 days ago)*
-- [Upgrade SCTP dependency](https://github.com/omec-project/sctplb/pull/182) on **[omec-project/sctplb](https://github.com/omec-project/sctplb)** *(6 days ago)*
-- [Upgrade SCTP dependency](https://github.com/omec-project/gnbsim/pull/392) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(6 days ago)*
+- [Upgrade SCTP dependency](https://github.com/omec-project/n3iwf/pull/103) on **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** *(1 week ago)*
+- [Upgrade SCTP dependency](https://github.com/omec-project/sctplb/pull/182) on **[omec-project/sctplb](https://github.com/omec-project/sctplb)** *(1 week ago)*
+- [Upgrade SCTP dependency](https://github.com/omec-project/gnbsim/pull/392) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(1 week ago)*
 - [Upgrade SCTP dependency](https://github.com/omec-project/amf/pull/566) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 week ago)*
 - [Refactor setting the logging level](https://github.com/omec-project/smf/pull/483) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 week ago)*
 - [Address likely race condition](https://github.com/omec-project/amf/pull/565) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 week ago)*
