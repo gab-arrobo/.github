@@ -7,14 +7,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(2 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(3 days ago)*
 - **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(1 week ago)*
 - **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 week ago)*
 - **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(1 week ago)*
 - **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 week ago)*
 - **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 week ago)*
-- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(2 weeks ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(2 weeks ago)*
+- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(3 weeks ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(3 weeks ago)*
 
 
 
@@ -31,8 +31,8 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Pin dependencies in Dockerfile(s)](https://github.com/omec-project/upf/pull/973) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
-- [Upgrade GRPC dependency](https://github.com/omec-project/upf/pull/972) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
+- [Pin dependencies in Dockerfile(s)](https://github.com/omec-project/upf/pull/973) on **[omec-project/upf](https://github.com/omec-project/upf)** *(3 days ago)*
+- [Upgrade GRPC dependency](https://github.com/omec-project/upf/pull/972) on **[omec-project/upf](https://github.com/omec-project/upf)** *(3 days ago)*
 - [Upgrade SCTP dependency](https://github.com/omec-project/n3iwf/pull/103) on **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** *(1 week ago)*
 - [Upgrade SCTP dependency](https://github.com/omec-project/sctplb/pull/182) on **[omec-project/sctplb](https://github.com/omec-project/sctplb)** *(1 week ago)*
 - [Upgrade SCTP dependency](https://github.com/omec-project/gnbsim/pull/392) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(1 week ago)*
