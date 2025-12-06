@@ -7,14 +7,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(4 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 day ago)*
+- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(5 days ago)*
 - **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(1 week ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 week ago)*
 - **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(1 week ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 week ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 week ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(2 weeks ago)*
 - **[omec-project/smf](https://github.com/omec-project/smf)** -  *(2 weeks ago)*
-- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(3 weeks ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(3 weeks ago)*
 
 
 
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Pin dependencies in Dockerfile(s)](https://github.com/omec-project/upf/pull/973) on **[omec-project/upf](https://github.com/omec-project/upf)** *(4 days ago)*
-- [Upgrade GRPC dependency](https://github.com/omec-project/upf/pull/972) on **[omec-project/upf](https://github.com/omec-project/upf)** *(4 days ago)*
+- [Fix issue with README file and update link to https](https://github.com/omec-project/sdcore-docs/pull/70) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(1 day ago)*
+- [Fix issue with GH action](https://github.com/omec-project/.github/pull/72) on **[omec-project/.github](https://github.com/omec-project/.github)** *(1 day ago)*
+- [Pin dependencies in Dockerfile(s)](https://github.com/omec-project/upf/pull/973) on **[omec-project/upf](https://github.com/omec-project/upf)** *(5 days ago)*
+- [Upgrade GRPC dependency](https://github.com/omec-project/upf/pull/972) on **[omec-project/upf](https://github.com/omec-project/upf)** *(5 days ago)*
 - [Upgrade SCTP dependency](https://github.com/omec-project/n3iwf/pull/103) on **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** *(1 week ago)*
 - [Upgrade SCTP dependency](https://github.com/omec-project/sctplb/pull/182) on **[omec-project/sctplb](https://github.com/omec-project/sctplb)** *(1 week ago)*
 - [Upgrade SCTP dependency](https://github.com/omec-project/gnbsim/pull/392) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(1 week ago)*
-- [Upgrade SCTP dependency](https://github.com/omec-project/amf/pull/566) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 week ago)*
-- [Refactor setting the logging level](https://github.com/omec-project/smf/pull/483) on **[omec-project/smf](https://github.com/omec-project/smf)** *(2 weeks ago)*
-- [Address likely race condition](https://github.com/omec-project/amf/pull/565) on **[omec-project/amf](https://github.com/omec-project/amf)** *(2 weeks ago)*
+- [Upgrade SCTP dependency](https://github.com/omec-project/amf/pull/566) on **[omec-project/amf](https://github.com/omec-project/amf)** *(2 weeks ago)*
 
 
 
