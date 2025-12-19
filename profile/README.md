@@ -14,7 +14,7 @@ through open-source collaboration, patents, and strategic execution.
 - **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(1 week ago)*
 - **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(1 week ago)*
 - **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 week ago)*
-- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(1 week ago)*
+- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(2 weeks ago)*
 
 
 
