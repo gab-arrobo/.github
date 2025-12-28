@@ -44,6 +44,7 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 👥 Recent followers
 
+- [vhPedroGitHub](https://github.com/vhPedroGitHub)
 - [gatici](https://github.com/gatici)
 - [senthil28](https://github.com/senthil28)
 - [linouxis9](https://github.com/linouxis9)
