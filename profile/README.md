@@ -12,8 +12,8 @@ through open-source collaboration, patents, and strategic execution.
 - **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(2 weeks ago)*
 - **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(2 weeks ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(2 weeks ago)*
-- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(2 weeks ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(2 weeks ago)*
+- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(3 weeks ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(3 weeks ago)*
 - **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(3 weeks ago)*
 
 
@@ -27,7 +27,7 @@ through open-source collaboration, patents, and strategic execution.
 - **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.6.4](https://github.com/omec-project/nas/releases/tag/v1.6.4)) -  *(2 months ago)*
 - **[omec-project/pcf](https://github.com/omec-project/pcf)** ([v2.0.1](https://github.com/omec-project/pcf/releases/tag/v2.0.1)) -  *(2 months ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** ([v1.5.7](https://github.com/omec-project/util/releases/tag/v1.5.7)) -  *(2 months ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v1.6.1](https://github.com/omec-project/ngap/releases/tag/v1.6.1)) -  *(2 months ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v1.6.1](https://github.com/omec-project/ngap/releases/tag/v1.6.1)) -  *(3 months ago)*
 
 #### 🔧 Recent Pull Requests
 
@@ -37,8 +37,8 @@ through open-source collaboration, patents, and strategic execution.
 - [Update scorecard workflow to address issue with multiple orgs](https://github.com/omec-project/.github/pull/77) on **[omec-project/.github](https://github.com/omec-project/.github)** *(2 weeks ago)*
 - [Update dependency version](https://github.com/omec-project/upf/pull/990) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 weeks ago)*
 - [Modernize code and improve logging](https://github.com/omec-project/simapp/pull/186) on **[omec-project/simapp](https://github.com/omec-project/simapp)** *(2 weeks ago)*
-- [Update GHA for OpenSSF score analysis](https://github.com/omec-project/.github/pull/75) on **[omec-project/.github](https://github.com/omec-project/.github)** *(2 weeks ago)*
-- [Update charts by removing outdated log and add missing log](https://github.com/omec-project/sdcore-helm-charts/pull/93) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(2 weeks ago)*
+- [Update GHA for OpenSSF score analysis](https://github.com/omec-project/.github/pull/75) on **[omec-project/.github](https://github.com/omec-project/.github)** *(3 weeks ago)*
+- [Update charts by removing outdated log and add missing log](https://github.com/omec-project/sdcore-helm-charts/pull/93) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(3 weeks ago)*
 
 
 
