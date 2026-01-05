@@ -8,12 +8,12 @@ through open-source collaboration, patents, and strategic execution.
 #### 🚀 What I'm currently working on
 
 - **[omec-project/amf](https://github.com/omec-project/amf)** -  *(3 weeks ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(3 weeks ago)*
 - **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(3 weeks ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(3 weeks ago)*
 - **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(3 weeks ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(3 weeks ago)*
-- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(3 weeks ago)*
 - **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(3 weeks ago)*
+- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(3 weeks ago)*
 - **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(1 month ago)*
 
 
