@@ -7,10 +7,10 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(2 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(2 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(2 days ago)*
+- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(2 days ago)*
 - **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(1 month ago)*
 - **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(1 month ago)*
 - **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(1 month ago)*
@@ -20,8 +20,8 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.4](https://github.com/omec-project/.github/releases/tag/v0.0.4)) -  *(today)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v1.6.5](https://github.com/omec-project/openapi/releases/tag/v1.6.5)) -  *(1 month ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.4](https://github.com/omec-project/.github/releases/tag/v0.0.4)) -  *(1 day ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v1.6.5](https://github.com/omec-project/openapi/releases/tag/v1.6.5)) -  *(2 months ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.1.2](https://github.com/omec-project/upf/releases/tag/v2.1.2)) - 4G/5G Mobile Core User Plane *(2 months ago)*
 - **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v1.7.0](https://github.com/omec-project/gnbsim/releases/tag/v1.7.0)) - gNB simulator *(2 months ago)*
 - **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.6.4](https://github.com/omec-project/nas/releases/tag/v1.6.4)) -  *(2 months ago)*
@@ -31,10 +31,10 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Remove outdated links and replace them with current ones](https://github.com/omec-project/sdcore-docs/pull/82) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(today)*
-- [Make configurable the Python version and set default to Python 3.12](https://github.com/omec-project/.github/pull/86) on **[omec-project/.github](https://github.com/omec-project/.github)** *(1 day ago)*
-- [Add OpenSSF Best Practices badge](https://github.com/omec-project/amf/pull/588) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
-- [Upgrade GRPC and Protobuf versions](https://github.com/omec-project/upf/pull/1009) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Remove outdated links and replace them with current ones](https://github.com/omec-project/sdcore-docs/pull/82) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(1 day ago)*
+- [Make configurable the Python version and set default to Python 3.12](https://github.com/omec-project/.github/pull/86) on **[omec-project/.github](https://github.com/omec-project/.github)** *(2 days ago)*
+- [Add OpenSSF Best Practices badge](https://github.com/omec-project/amf/pull/588) on **[omec-project/amf](https://github.com/omec-project/amf)** *(2 days ago)*
+- [Upgrade GRPC and Protobuf versions](https://github.com/omec-project/upf/pull/1009) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
 - [Group github-action PRs](https://github.com/omec-project/amf/pull/576) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 month ago)*
 - [Address OpenSSF alert](https://github.com/omec-project/pfcpsim/pull/221) on **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** *(1 month ago)*
 - [Add another location for dependabot to also monitor](https://github.com/omec-project/pfcpsim/pull/214) on **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** *(1 month ago)*
