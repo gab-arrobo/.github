@@ -7,21 +7,21 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(3 days ago)*
-- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(3 days ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(4 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(4 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(4 days ago)*
-- **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(4 days ago)*
-- **[opennetworkinglab/aether-k8s](https://github.com/opennetworkinglab/aether-k8s)** -  *(5 days ago)*
-- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(5 days ago)*
+- **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(4 days ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(5 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(5 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(5 days ago)*
+- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(6 days ago)*
+- **[opennetworkinglab/aether-k8s](https://github.com/opennetworkinglab/aether-k8s)** -  *(6 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.9](https://github.com/omec-project/.github/releases/tag/v0.0.9)) -  *(3 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v2.1.0](https://github.com/omec-project/amf/releases/tag/v2.1.0)) -  *(4 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.9](https://github.com/omec-project/.github/releases/tag/v0.0.9)) -  *(4 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v2.1.0](https://github.com/omec-project/amf/releases/tag/v2.1.0)) -  *(5 days ago)*
 - **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v1.6.5](https://github.com/omec-project/openapi/releases/tag/v1.6.5)) -  *(2 months ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.1.2](https://github.com/omec-project/upf/releases/tag/v2.1.2)) - 4G/5G Mobile Core User Plane *(2 months ago)*
 - **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v1.7.0](https://github.com/omec-project/gnbsim/releases/tag/v1.7.0)) - gNB simulator *(2 months ago)*
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Update location from where to get the BESS build image](https://github.com/omec-project/upf/pull/1016) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
-- [Add missing permission to GHA workflow such that it can create packages](https://github.com/omec-project/bess/pull/90) on **[omec-project/bess](https://github.com/omec-project/bess)** *(3 days ago)*
-- [This PR partially revert some changes in rebuild_images.py script](https://github.com/omec-project/bess/pull/89) on **[omec-project/bess](https://github.com/omec-project/bess)** *(3 days ago)*
-- [Make `nodeSelector` visible and configurable through override files](https://github.com/opennetworkinglab/aether-5gc/pull/53) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(3 days ago)*
-- [Enable nodeSelector feature and standardize it across the different Helm Charts including kafka/mongodb](https://github.com/omec-project/sdcore-helm-charts/pull/107) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(3 days ago)*
-- [Fix issue with BESS release image](https://github.com/omec-project/.github/pull/99) on **[omec-project/.github](https://github.com/omec-project/.github)** *(4 days ago)*
-- [Address issue with broken links](https://github.com/omec-project/sdcore-docs/pull/90) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(4 days ago)*
-- [Address issue by avoiding &#34;writing&#34; Kubeconfig file in worker nodes](https://github.com/opennetworkinglab/aether-k8s/pull/9) on **[opennetworkinglab/aether-k8s](https://github.com/opennetworkinglab/aether-k8s)** *(5 days ago)*
+- [Chart version is ignored when using local charts. This PR makes that clear](https://github.com/opennetworkinglab/aether-5gc/pull/54) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(today)*
+- [Add service-specific TLS certificate generation and WebUI certificate support](https://github.com/omec-project/sdcore-helm-charts/pull/108) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 day ago)*
+- [Address racing condition that shows up with the TestUPFBasedUeIPAllocation test](https://github.com/omec-project/upf/pull/1022) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Update location from where to get the BESS build image](https://github.com/omec-project/upf/pull/1016) on **[omec-project/upf](https://github.com/omec-project/upf)** *(3 days ago)*
+- [Add missing permission to GHA workflow such that it can create packages](https://github.com/omec-project/bess/pull/90) on **[omec-project/bess](https://github.com/omec-project/bess)** *(4 days ago)*
+- [This PR partially revert some changes in rebuild_images.py script](https://github.com/omec-project/bess/pull/89) on **[omec-project/bess](https://github.com/omec-project/bess)** *(4 days ago)*
+- [Make `nodeSelector` visible and configurable through override files](https://github.com/opennetworkinglab/aether-5gc/pull/53) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(4 days ago)*
+- [Enable nodeSelector feature and standardize it across the different Helm Charts including kafka/mongodb](https://github.com/omec-project/sdcore-helm-charts/pull/107) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(4 days ago)*
 
 
 
