@@ -7,21 +7,21 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
+- **[opennetworkinglab/aether-gnbsim](https://github.com/opennetworkinglab/aether-gnbsim)** -  *(1 day ago)*
+- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(1 day ago)*
 - **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(1 day ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 day ago)*
-- **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(2 days ago)*
-- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(5 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(6 days ago)*
-- **[opennetworkinglab/aether-k8s](https://github.com/opennetworkinglab/aether-k8s)** -  *(1 week ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(2 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(2 days ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(2 days ago)*
+- **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(3 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 week ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.10](https://github.com/omec-project/.github/releases/tag/v0.0.10)) -  *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v2.1.0](https://github.com/omec-project/amf/releases/tag/v2.1.0)) -  *(6 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.10](https://github.com/omec-project/.github/releases/tag/v0.0.10)) -  *(2 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v2.1.0](https://github.com/omec-project/amf/releases/tag/v2.1.0)) -  *(1 week ago)*
 - **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v1.6.5](https://github.com/omec-project/openapi/releases/tag/v1.6.5)) -  *(2 months ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.1.2](https://github.com/omec-project/upf/releases/tag/v2.1.2)) - 4G/5G Mobile Core User Plane *(2 months ago)*
 - **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v1.7.0](https://github.com/omec-project/gnbsim/releases/tag/v1.7.0)) - gNB simulator *(2 months ago)*
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Refactor code to avoid using `github.com/google/gopacket` dependency](https://github.com/omec-project/upf/pull/1023) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
-- [Test update to Ubuntu 24.04](https://github.com/gab-arrobo/bess/pull/1) on **[gab-arrobo/bess](https://github.com/gab-arrobo/bess)** *(1 day ago)*
-- [Add missing permissions to publish pages](https://github.com/omec-project/sdcore-docs/pull/93) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(1 day ago)*
-- [Update apiVersion to v2 and use current nodeSelector label for architecture](https://github.com/omec-project/sdcore-helm-charts/pull/109) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 day ago)*
-- [Address issue with publishing documentation due to an issue with variable expansion](https://github.com/omec-project/.github/pull/102) on **[omec-project/.github](https://github.com/omec-project/.github)** *(1 day ago)*
-- [Remove multiversion support due to deprecation/incompatibility of extensions that support this capability](https://github.com/omec-project/sdcore-docs/pull/91) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(1 day ago)*
-- [Chart version is ignored when using local charts. This PR makes that clear](https://github.com/opennetworkinglab/aether-5gc/pull/54) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(1 day ago)*
-- [Add service-specific TLS certificate generation and WebUI certificate support](https://github.com/omec-project/sdcore-helm-charts/pull/108) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(2 days ago)*
+- [Improve documentation index](https://github.com/omec-project/sdcore-docs/pull/95) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(today)*
+- [Use Furo theme for documentation due its multiple benefits](https://github.com/omec-project/sdcore-docs/pull/94) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(today)*
+- [Make iptables entries persistent across reboots](https://github.com/opennetworkinglab/aether-gnbsim/pull/22) on **[opennetworkinglab/aether-gnbsim](https://github.com/opennetworkinglab/aether-gnbsim)** *(1 day ago)*
+- [Enable capability to skip test if there is not enough memory in host machine](https://github.com/omec-project/bess/pull/93) on **[omec-project/bess](https://github.com/omec-project/bess)** *(1 day ago)*
+- [Address a bug with null pointer in leaf-&gt;task()](https://github.com/omec-project/bess/pull/92) on **[omec-project/bess](https://github.com/omec-project/bess)** *(1 day ago)*
+- [Refactor code to avoid using `github.com/google/gopacket` dependency](https://github.com/omec-project/upf/pull/1023) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Test update to Ubuntu 24.04](https://github.com/gab-arrobo/bess/pull/1) on **[gab-arrobo/bess](https://github.com/gab-arrobo/bess)** *(2 days ago)*
+- [Add missing permissions to publish pages](https://github.com/omec-project/sdcore-docs/pull/93) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(2 days ago)*
 
 
 
