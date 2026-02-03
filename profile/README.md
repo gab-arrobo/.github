@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(4 days ago)*
-- **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(4 days ago)*
-- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(5 days ago)*
-- **[opennetworkinglab/aether-gnbsim](https://github.com/opennetworkinglab/aether-gnbsim)** -  *(5 days ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(6 days ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(6 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(6 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 week ago)*
+- **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** - Dockerfile that incorporates and packages K8S CNI plugins used in OMEC *(1 day ago)*
+- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(5 days ago)*
+- **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(5 days ago)*
+- **[opennetworkinglab/aether-gnbsim](https://github.com/opennetworkinglab/aether-gnbsim)** -  *(6 days ago)*
+- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(6 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 week ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 week ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 week ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[onosproject/sdcore-adapter](https://github.com/onosproject/sdcore-adapter)** ([v0.4.9](https://github.com/onosproject/sdcore-adapter/releases/tag/v0.4.9)) - Adapter for receiving gNMI messages from aether-config and configuring sd-core components, e.g. SPGW *(2 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.10](https://github.com/omec-project/.github/releases/tag/v0.0.10)) -  *(6 days ago)*
+- **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** ([v1.1.8](https://github.com/omec-project/aether-cni/releases/tag/v1.1.8)) - Dockerfile that incorporates and packages K8S CNI plugins used in OMEC *(today)*
+- **[onosproject/sdcore-adapter](https://github.com/onosproject/sdcore-adapter)** ([v0.4.9](https://github.com/onosproject/sdcore-adapter/releases/tag/v0.4.9)) - Adapter for receiving gNMI messages from aether-config and configuring sd-core components, e.g. SPGW *(3 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.10](https://github.com/omec-project/.github/releases/tag/v0.0.10)) -  *(1 week ago)*
 - **[omec-project/amf](https://github.com/omec-project/amf)** ([v2.1.0](https://github.com/omec-project/amf/releases/tag/v2.1.0)) -  *(1 week ago)*
 - **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v1.6.5](https://github.com/omec-project/openapi/releases/tag/v1.6.5)) -  *(2 months ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.1.2](https://github.com/omec-project/upf/releases/tag/v2.1.2)) - 4G/5G Mobile Core User Plane *(2 months ago)*
 - **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v1.7.0](https://github.com/omec-project/gnbsim/releases/tag/v1.7.0)) - gNB simulator *(2 months ago)*
 - **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.6.4](https://github.com/omec-project/nas/releases/tag/v1.6.4)) -  *(3 months ago)*
-- **[omec-project/pcf](https://github.com/omec-project/pcf)** ([v2.0.1](https://github.com/omec-project/pcf/releases/tag/v2.0.1)) -  *(3 months ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Improve developer documentation](https://github.com/omec-project/sdcore-docs/pull/103) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(3 days ago)*
-- [Improve design documentation](https://github.com/omec-project/sdcore-docs/pull/102) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(3 days ago)*
-- [Improve deployment documentation](https://github.com/omec-project/sdcore-docs/pull/101) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(3 days ago)*
-- [Fix JSON issue](https://github.com/omec-project/sdcore-docs/pull/100) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(3 days ago)*
-- [Improve configuration documentation](https://github.com/omec-project/sdcore-docs/pull/99) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(4 days ago)*
-- [Improve overview documentation](https://github.com/omec-project/sdcore-docs/pull/98) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(4 days ago)*
-- [Flatten file structure for the templates in the router role to avoid unnecessary subdirectories](https://github.com/opennetworkinglab/aether-5gc/pull/55) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(4 days ago)*
-- [Improve developer documentation](https://github.com/omec-project/sdcore-docs/pull/97) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(4 days ago)*
+- [Create patch release for cni plugin](https://github.com/omec-project/aether-cni/pull/42) on **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** *(1 day ago)*
+- [Improve developer documentation](https://github.com/omec-project/sdcore-docs/pull/103) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(4 days ago)*
+- [Improve design documentation](https://github.com/omec-project/sdcore-docs/pull/102) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(4 days ago)*
+- [Improve deployment documentation](https://github.com/omec-project/sdcore-docs/pull/101) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(4 days ago)*
+- [Fix JSON issue](https://github.com/omec-project/sdcore-docs/pull/100) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(4 days ago)*
+- [Improve configuration documentation](https://github.com/omec-project/sdcore-docs/pull/99) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(5 days ago)*
+- [Improve overview documentation](https://github.com/omec-project/sdcore-docs/pull/98) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(5 days ago)*
+- [Flatten file structure for the templates in the router role to avoid unnecessary subdirectories](https://github.com/opennetworkinglab/aether-5gc/pull/55) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(5 days ago)*
 
 
 
