@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(3 days ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(3 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(3 days ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(3 days ago)*
-- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(3 days ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(4 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(5 days ago)*
-- **[opennetworkinglab/aether-oai](https://github.com/opennetworkinglab/aether-oai)** - OAI RAN with Aether Core *(5 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 day ago)*
+- **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(4 days ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(4 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(4 days ago)*
+- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(4 days ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(5 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(6 days ago)*
+- **[opennetworkinglab/aether-oai](https://github.com/opennetworkinglab/aether-oai)** - OAI RAN with Aether Core *(6 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.12](https://github.com/omec-project/.github/releases/tag/v0.0.12)) -  *(3 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v2.1.1](https://github.com/omec-project/amf/releases/tag/v2.1.1)) -  *(5 days ago)*
-- **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** ([v1.1.8](https://github.com/omec-project/aether-cni/releases/tag/v1.1.8)) - Dockerfile that incorporates and packages K8S CNI plugins used in OMEC *(6 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.12](https://github.com/omec-project/.github/releases/tag/v0.0.12)) -  *(4 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v2.1.1](https://github.com/omec-project/amf/releases/tag/v2.1.1)) -  *(6 days ago)*
+- **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** ([v1.1.8](https://github.com/omec-project/aether-cni/releases/tag/v1.1.8)) - Dockerfile that incorporates and packages K8S CNI plugins used in OMEC *(1 week ago)*
 - **[onosproject/sdcore-adapter](https://github.com/onosproject/sdcore-adapter)** ([v0.4.9](https://github.com/onosproject/sdcore-adapter/releases/tag/v0.4.9)) - Adapter for receiving gNMI messages from aether-config and configuring sd-core components, e.g. SPGW *(1 week ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v1.6.5](https://github.com/omec-project/openapi/releases/tag/v1.6.5)) -  *(2 months ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v1.6.5](https://github.com/omec-project/openapi/releases/tag/v1.6.5)) -  *(3 months ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.1.2](https://github.com/omec-project/upf/releases/tag/v2.1.2)) - 4G/5G Mobile Core User Plane *(3 months ago)*
 - **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v1.7.0](https://github.com/omec-project/gnbsim/releases/tag/v1.7.0)) - gNB simulator *(3 months ago)*
 - **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.6.4](https://github.com/omec-project/nas/releases/tag/v1.6.4)) -  *(3 months ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Update Dockefile to use latest bess_build image and made a few more changes](https://github.com/omec-project/upf/pull/1032) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
-- [Use newest SD-Core Helm Charts and sync-up 5gc module](https://github.com/opennetworkinglab/aether-onramp/pull/125) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(3 days ago)*
-- [Properly update mongodb URL based on mongodb deployment architecture (replicaset)](https://github.com/opennetworkinglab/aether-5gc/pull/57) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(3 days ago)*
-- [Update bess test GHA to align with latest changes](https://github.com/omec-project/.github/pull/107) on **[omec-project/.github](https://github.com/omec-project/.github)** *(3 days ago)*
-- [Address issue with base BESS release image](https://github.com/omec-project/bess/pull/101) on **[omec-project/bess](https://github.com/omec-project/bess)** *(3 days ago)*
-- [Make necessary changes to use newer protoc/grpc versions and better management of the build and testing processes](https://github.com/omec-project/bess/pull/97) on **[omec-project/bess](https://github.com/omec-project/bess)** *(3 days ago)*
-- [Correctly update mongodb url](https://github.com/omec-project/sdcore-helm-charts/pull/115) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(4 days ago)*
-- [Revert readiness and liveness probes due to issues with webui getting restarted by K8s](https://github.com/omec-project/sdcore-helm-charts/pull/114) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(4 days ago)*
+- [Remove NTF (experimental) feature](https://github.com/omec-project/upf/pull/1039) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Update Dockefile to use latest bess_build image and made a few more changes](https://github.com/omec-project/upf/pull/1032) on **[omec-project/upf](https://github.com/omec-project/upf)** *(3 days ago)*
+- [Use newest SD-Core Helm Charts and sync-up 5gc module](https://github.com/opennetworkinglab/aether-onramp/pull/125) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(4 days ago)*
+- [Properly update mongodb URL based on mongodb deployment architecture (replicaset)](https://github.com/opennetworkinglab/aether-5gc/pull/57) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(4 days ago)*
+- [Update bess test GHA to align with latest changes](https://github.com/omec-project/.github/pull/107) on **[omec-project/.github](https://github.com/omec-project/.github)** *(4 days ago)*
+- [Address issue with base BESS release image](https://github.com/omec-project/bess/pull/101) on **[omec-project/bess](https://github.com/omec-project/bess)** *(4 days ago)*
+- [Make necessary changes to use newer protoc/grpc versions and better management of the build and testing processes](https://github.com/omec-project/bess/pull/97) on **[omec-project/bess](https://github.com/omec-project/bess)** *(4 days ago)*
+- [Correctly update mongodb url](https://github.com/omec-project/sdcore-helm-charts/pull/115) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(5 days ago)*
 
 
 
