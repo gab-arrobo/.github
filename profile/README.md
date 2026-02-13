@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
 - **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(1 day ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 day ago)*
 - **[opennetworkinglab/aether-gnbsim](https://github.com/opennetworkinglab/aether-gnbsim)** -  *(1 day ago)*
-- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(2 days ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(3 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(6 days ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 week ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 day ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(1 day ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(1 day ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/smf](https://github.com/omec-project/smf)** ([v3.1.0](https://github.com/omec-project/smf/releases/tag/v3.1.0)) -  *(today)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.12](https://github.com/omec-project/.github/releases/tag/v0.0.12)) -  *(6 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.13](https://github.com/omec-project/.github/releases/tag/v0.0.13)) -  *(today)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.0](https://github.com/omec-project/util/releases/tag/v1.7.0)) -  *(today)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.8.0](https://github.com/omec-project/nas/releases/tag/v1.8.0)) -  *(1 day ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v1.8.0](https://github.com/omec-project/ngap/releases/tag/v1.8.0)) -  *(1 day ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v1.7.0](https://github.com/omec-project/openapi/releases/tag/v1.7.0)) -  *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** ([v3.1.0](https://github.com/omec-project/smf/releases/tag/v3.1.0)) -  *(1 day ago)*
 - **[omec-project/amf](https://github.com/omec-project/amf)** ([v2.1.1](https://github.com/omec-project/amf/releases/tag/v2.1.1)) -  *(1 week ago)*
 - **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** ([v1.1.8](https://github.com/omec-project/aether-cni/releases/tag/v1.1.8)) - Dockerfile that incorporates and packages K8S CNI plugins used in OMEC *(1 week ago)*
-- **[onosproject/sdcore-adapter](https://github.com/onosproject/sdcore-adapter)** ([v0.4.9](https://github.com/onosproject/sdcore-adapter/releases/tag/v0.4.9)) - Adapter for receiving gNMI messages from aether-config and configuring sd-core components, e.g. SPGW *(1 week ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v1.6.5](https://github.com/omec-project/openapi/releases/tag/v1.6.5)) -  *(3 months ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.1.2](https://github.com/omec-project/upf/releases/tag/v2.1.2)) - 4G/5G Mobile Core User Plane *(3 months ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v1.7.0](https://github.com/omec-project/gnbsim/releases/tag/v1.7.0)) - gNB simulator *(3 months ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Add validation for DNN and SNSSAI fields in gnbsim](https://github.com/omec-project/gnbsim/pull/418) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(1 day ago)*
-- [Fix potential panic when accessing an empty slice](https://github.com/omec-project/amf/pull/619) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
-- [Update yaml files to be compliant with YAML schema](https://github.com/opennetworkinglab/aether-onramp/pull/128) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
-- [Update yaml files to be compliant with YAML schema](https://github.com/opennetworkinglab/aether-gnbsim/pull/23) on **[opennetworkinglab/aether-gnbsim](https://github.com/opennetworkinglab/aether-gnbsim)** *(1 day ago)*
-- [Update yaml files to be compliant with YAML schema](https://github.com/opennetworkinglab/aether-5gc/pull/59) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(1 day ago)*
-- [Address issue with web GUI due to newer protobuf version](https://github.com/omec-project/bess/pull/103) on **[omec-project/bess](https://github.com/omec-project/bess)** *(2 days ago)*
-- [Remove NTF (experimental) feature](https://github.com/omec-project/upf/pull/1039) on **[omec-project/upf](https://github.com/omec-project/upf)** *(3 days ago)*
-- [Update Dockefile to use latest bess_build image and made a few more changes](https://github.com/omec-project/upf/pull/1032) on **[omec-project/upf](https://github.com/omec-project/upf)** *(5 days ago)*
+- [Fix issue with E2E reusable workflow](https://github.com/omec-project/.github/pull/112) on **[omec-project/.github](https://github.com/omec-project/.github)** *(today)*
+- [Address warning due to empty uninstall task(s)](https://github.com/opennetworkinglab/aether-gnbsim/pull/24) on **[opennetworkinglab/aether-gnbsim](https://github.com/opennetworkinglab/aether-gnbsim)** *(today)*
+- [Address warning  when local helm charts is false](https://github.com/opennetworkinglab/aether-5gc/pull/60) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(today)*
+- [[DO NOT MERGE] Dummy PR for testing E2E workflow](https://github.com/omec-project/nrf/pull/295) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(1 day ago)*
+- [Address issue with creating subscriptions](https://github.com/omec-project/nrf/pull/294) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(1 day ago)*
+- [Add deep copy function to utils](https://github.com/omec-project/util/pull/243) on **[omec-project/util](https://github.com/omec-project/util)** *(1 day ago)*
+- [Create minor release to align dependencies](https://github.com/omec-project/nas/pull/161) on **[omec-project/nas](https://github.com/omec-project/nas)** *(1 day ago)*
+- [Create minor release to align dependencies](https://github.com/omec-project/ngap/pull/72) on **[omec-project/ngap](https://github.com/omec-project/ngap)** *(1 day ago)*
 
 
 
