@@ -8,37 +8,37 @@ through open-source collaboration, patents, and strategic execution.
 #### 🚀 What I'm currently working on
 
 - **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(2 days ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(2 days ago)*
-- **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(2 days ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(3 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(3 days ago)*
-- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(3 days ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(3 days ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(3 days ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(3 days ago)*
+- **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(3 days ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(4 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(4 days ago)*
+- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(4 days ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(4 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.2.0](https://github.com/omec-project/upf/releases/tag/v2.2.0)) - 4G/5G Mobile Core User Plane *(2 days ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v2.1.0](https://github.com/omec-project/webconsole/releases/tag/v2.1.0)) -  *(2 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.17](https://github.com/omec-project/.github/releases/tag/v0.0.17)) -  *(3 days ago)*
-- **[omec-project/aether-pod-init](https://github.com/omec-project/aether-pod-init)** ([v1.2.1](https://github.com/omec-project/aether-pod-init/releases/tag/v1.2.1)) -  *(3 days ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** ([v1.1.0](https://github.com/omec-project/n3iwf/releases/tag/v1.1.0)) -  *(3 days ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.0](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.0)) - PFCP client simulator used for UPF testing *(3 days ago)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** ([v2.1.0](https://github.com/omec-project/ausf/releases/tag/v2.1.0)) -  *(3 days ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.7.0](https://github.com/omec-project/simapp/releases/tag/v1.7.0)) - Sim subscription app for Aether *(3 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.2.0](https://github.com/omec-project/upf/releases/tag/v2.2.0)) - 4G/5G Mobile Core User Plane *(3 days ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v2.1.0](https://github.com/omec-project/webconsole/releases/tag/v2.1.0)) -  *(3 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.17](https://github.com/omec-project/.github/releases/tag/v0.0.17)) -  *(4 days ago)*
+- **[omec-project/aether-pod-init](https://github.com/omec-project/aether-pod-init)** ([v1.2.1](https://github.com/omec-project/aether-pod-init/releases/tag/v1.2.1)) -  *(4 days ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** ([v1.1.0](https://github.com/omec-project/n3iwf/releases/tag/v1.1.0)) -  *(4 days ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.0](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.0)) - PFCP client simulator used for UPF testing *(4 days ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** ([v2.1.0](https://github.com/omec-project/ausf/releases/tag/v2.1.0)) -  *(4 days ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.7.0](https://github.com/omec-project/simapp/releases/tag/v1.7.0)) - Sim subscription app for Aether *(4 days ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Fix issue with UPF crashing when NodeID is missing](https://github.com/omec-project/upf/pull/1052) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
-- [Fix issue with `-simulate delete` when trying to delete rules from UPF and UPF was deployed in simulation mode](https://github.com/omec-project/upf/pull/1051) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
-- [Upgrade SD-Core Helm Charts and sync-up sub-modules](https://github.com/opennetworkinglab/aether-onramp/pull/133) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(2 days ago)*
-- [Comment out images section from different values.yaml files](https://github.com/opennetworkinglab/aether-5gc/pull/61) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(2 days ago)*
-- [Update charts to use images from ghcr.io registry](https://github.com/omec-project/sdcore-helm-charts/pull/122) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(2 days ago)*
-- [Update codebase to be compliant with clang-format-14](https://github.com/omec-project/bess/pull/106) on **[omec-project/bess](https://github.com/omec-project/bess)** *(2 days ago)*
-- [Remove gopacket dependency, update code accordingly and add unit test](https://github.com/omec-project/n3iwf/pull/136) on **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** *(3 days ago)*
-- [clang-format action is failing. This PR replaces the action with clang-format from apt](https://github.com/omec-project/.github/pull/120) on **[omec-project/.github](https://github.com/omec-project/.github)** *(3 days ago)*
+- [Group all python packages into a single PR](https://github.com/omec-project/upf/pull/1057) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Fix issue with UPF crashing when NodeID is missing](https://github.com/omec-project/upf/pull/1052) on **[omec-project/upf](https://github.com/omec-project/upf)** *(3 days ago)*
+- [Fix issue with `-simulate delete` when trying to delete rules from UPF and UPF was deployed in simulation mode](https://github.com/omec-project/upf/pull/1051) on **[omec-project/upf](https://github.com/omec-project/upf)** *(3 days ago)*
+- [Upgrade SD-Core Helm Charts and sync-up sub-modules](https://github.com/opennetworkinglab/aether-onramp/pull/133) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(3 days ago)*
+- [Comment out images section from different values.yaml files](https://github.com/opennetworkinglab/aether-5gc/pull/61) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(3 days ago)*
+- [Update charts to use images from ghcr.io registry](https://github.com/omec-project/sdcore-helm-charts/pull/122) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(3 days ago)*
+- [Update codebase to be compliant with clang-format-14](https://github.com/omec-project/bess/pull/106) on **[omec-project/bess](https://github.com/omec-project/bess)** *(3 days ago)*
+- [Remove gopacket dependency, update code accordingly and add unit test](https://github.com/omec-project/n3iwf/pull/136) on **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** *(4 days ago)*
 
 
 
