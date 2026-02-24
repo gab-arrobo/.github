@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(2 days ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(4 days ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(4 days ago)*
-- **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(4 days ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(5 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(5 days ago)*
-- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(5 days ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(5 days ago)*
+- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(1 day ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(1 day ago)*
+- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 day ago)*
+- **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(6 days ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(6 days ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(6 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.2.0](https://github.com/omec-project/upf/releases/tag/v2.2.0)) - 4G/5G Mobile Core User Plane *(4 days ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v2.1.0](https://github.com/omec-project/webconsole/releases/tag/v2.1.0)) -  *(4 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.17](https://github.com/omec-project/.github/releases/tag/v0.0.17)) -  *(5 days ago)*
-- **[omec-project/aether-pod-init](https://github.com/omec-project/aether-pod-init)** ([v1.2.1](https://github.com/omec-project/aether-pod-init/releases/tag/v1.2.1)) -  *(5 days ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** ([v1.1.0](https://github.com/omec-project/n3iwf/releases/tag/v1.1.0)) -  *(5 days ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.0](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.0)) - PFCP client simulator used for UPF testing *(5 days ago)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** ([v2.1.0](https://github.com/omec-project/ausf/releases/tag/v2.1.0)) -  *(5 days ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.7.0](https://github.com/omec-project/simapp/releases/tag/v1.7.0)) - Sim subscription app for Aether *(5 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.2.0](https://github.com/omec-project/upf/releases/tag/v2.2.0)) - 4G/5G Mobile Core User Plane *(6 days ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v2.1.0](https://github.com/omec-project/webconsole/releases/tag/v2.1.0)) -  *(6 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.17](https://github.com/omec-project/.github/releases/tag/v0.0.17)) -  *(1 week ago)*
+- **[omec-project/aether-pod-init](https://github.com/omec-project/aether-pod-init)** ([v1.2.1](https://github.com/omec-project/aether-pod-init/releases/tag/v1.2.1)) -  *(1 week ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** ([v1.1.0](https://github.com/omec-project/n3iwf/releases/tag/v1.1.0)) -  *(1 week ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.0](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.0)) - PFCP client simulator used for UPF testing *(1 week ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** ([v2.1.0](https://github.com/omec-project/ausf/releases/tag/v2.1.0)) -  *(1 week ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.7.0](https://github.com/omec-project/simapp/releases/tag/v1.7.0)) - Sim subscription app for Aether *(1 week ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Improve image building in BESS such that it is not built again in the UPF](https://github.com/omec-project/bess/pull/109) on **[omec-project/bess](https://github.com/omec-project/bess)** *(1 day ago)*
-- [Group all python packages into a single PR](https://github.com/omec-project/upf/pull/1057) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
-- [Fix issue with UPF crashing when NodeID is missing](https://github.com/omec-project/upf/pull/1052) on **[omec-project/upf](https://github.com/omec-project/upf)** *(4 days ago)*
-- [Fix issue with `-simulate delete` when trying to delete rules from UPF and UPF was deployed in simulation mode](https://github.com/omec-project/upf/pull/1051) on **[omec-project/upf](https://github.com/omec-project/upf)** *(4 days ago)*
-- [Upgrade SD-Core Helm Charts and sync-up sub-modules](https://github.com/opennetworkinglab/aether-onramp/pull/133) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(4 days ago)*
-- [Comment out images section from different values.yaml files](https://github.com/opennetworkinglab/aether-5gc/pull/61) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(4 days ago)*
-- [Update charts to use images from ghcr.io registry](https://github.com/omec-project/sdcore-helm-charts/pull/122) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(4 days ago)*
-- [Update codebase to be compliant with clang-format-14](https://github.com/omec-project/bess/pull/106) on **[omec-project/bess](https://github.com/omec-project/bess)** *(4 days ago)*
+- [Make improvements to Dockerfile based on latest changes in bess repo](https://github.com/omec-project/upf/pull/1059) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Make improvements to the codebase such that there is no need of some CXXFLAGS](https://github.com/omec-project/bess/pull/112) on **[omec-project/bess](https://github.com/omec-project/bess)** *(1 day ago)*
+- [Simplify creation of container image by reducing one layer and removing unnecessary files](https://github.com/omec-project/bess/pull/111) on **[omec-project/bess](https://github.com/omec-project/bess)** *(1 day ago)*
+- [Remove redundant package installation and comment out SBOM and GRYPE actions due to issues](https://github.com/omec-project/bess/pull/110) on **[omec-project/bess](https://github.com/omec-project/bess)** *(1 day ago)*
+- [Update registry name in script](https://github.com/omec-project/.github/pull/123) on **[omec-project/.github](https://github.com/omec-project/.github)** *(1 day ago)*
+- [Address tests that have race condition](https://github.com/omec-project/udr/pull/275) on **[omec-project/udr](https://github.com/omec-project/udr)** *(2 days ago)*
+- [Improve image building in BESS such that it is not built again in the UPF](https://github.com/omec-project/bess/pull/109) on **[omec-project/bess](https://github.com/omec-project/bess)** *(3 days ago)*
+- [Group all python packages into a single PR](https://github.com/omec-project/upf/pull/1057) on **[omec-project/upf](https://github.com/omec-project/upf)** *(4 days ago)*
 
 
 
