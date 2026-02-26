@@ -7,14 +7,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(2 days ago)*
-- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(2 days ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(2 days ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(2 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(2 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(1 day ago)*
+- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(3 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(3 days ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(3 days ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 week ago)*
 - **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(1 week ago)*
 - **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 week ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 week ago)*
 
 
 
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Make improvements to Dockerfile based on latest changes in bess repo](https://github.com/omec-project/upf/pull/1059) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
-- [Make improvements to the codebase such that there is no need of some CXXFLAGS](https://github.com/omec-project/bess/pull/112) on **[omec-project/bess](https://github.com/omec-project/bess)** *(2 days ago)*
-- [Simplify creation of container image by reducing one layer and removing unnecessary files](https://github.com/omec-project/bess/pull/111) on **[omec-project/bess](https://github.com/omec-project/bess)** *(2 days ago)*
-- [Remove redundant package installation and comment out SBOM and GRYPE actions due to issues](https://github.com/omec-project/bess/pull/110) on **[omec-project/bess](https://github.com/omec-project/bess)** *(2 days ago)*
-- [Update registry name in script](https://github.com/omec-project/.github/pull/123) on **[omec-project/.github](https://github.com/omec-project/.github)** *(2 days ago)*
-- [Address tests that have race condition](https://github.com/omec-project/udr/pull/275) on **[omec-project/udr](https://github.com/omec-project/udr)** *(3 days ago)*
-- [Improve image building in BESS such that it is not built again in the UPF](https://github.com/omec-project/bess/pull/109) on **[omec-project/bess](https://github.com/omec-project/bess)** *(4 days ago)*
-- [Group all python packages into a single PR](https://github.com/omec-project/upf/pull/1057) on **[omec-project/upf](https://github.com/omec-project/upf)** *(5 days ago)*
+- [Migrate codebase to DPDK 23.11 using system packages instead of installing DPDK from source](https://github.com/omec-project/bess/pull/115) on **[omec-project/bess](https://github.com/omec-project/bess)** *(today)*
+- [Migrate codebase to Ubuntu 24.04 (Start using BESS based on Ubuntu 24.04)](https://github.com/omec-project/upf/pull/1060) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Address issue with `ldconfig` missing to discover DPDK libraries](https://github.com/omec-project/bess/pull/114) on **[omec-project/bess](https://github.com/omec-project/bess)** *(1 day ago)*
+- [Migrate codebase to Ubuntu 24.04](https://github.com/omec-project/bess/pull/113) on **[omec-project/bess](https://github.com/omec-project/bess)** *(1 day ago)*
+- [Make improvements to Dockerfile based on latest changes in bess repo](https://github.com/omec-project/upf/pull/1059) on **[omec-project/upf](https://github.com/omec-project/upf)** *(3 days ago)*
+- [Make improvements to the codebase such that there is no need of some CXXFLAGS](https://github.com/omec-project/bess/pull/112) on **[omec-project/bess](https://github.com/omec-project/bess)** *(3 days ago)*
+- [Simplify creation of container image by reducing one layer and removing unnecessary files](https://github.com/omec-project/bess/pull/111) on **[omec-project/bess](https://github.com/omec-project/bess)** *(3 days ago)*
+- [Remove redundant package installation and comment out SBOM and GRYPE actions due to issues](https://github.com/omec-project/bess/pull/110) on **[omec-project/bess](https://github.com/omec-project/bess)** *(3 days ago)*
 
 
 
