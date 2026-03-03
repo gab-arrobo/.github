@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(2 days ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(2 days ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(5 days ago)*
-- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(5 days ago)*
-- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(1 week ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(1 week ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 week ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 week ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(today)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 day ago)*
+- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 day ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(1 day ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(1 day ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.1](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.1)) - PFCP client simulator used for UPF testing *(today)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v1.7.1](https://github.com/omec-project/openapi/releases/tag/v1.7.1)) -  *(today)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.1](https://github.com/omec-project/util/releases/tag/v1.7.1)) -  *(today)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.18](https://github.com/omec-project/.github/releases/tag/v0.0.18)) -  *(today)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.7.1](https://github.com/omec-project/simapp/releases/tag/v1.7.1)) - Sim subscription app for Aether *(today)*
+- **[omec-project/pcf](https://github.com/omec-project/pcf)** ([v2.1.1](https://github.com/omec-project/pcf/releases/tag/v2.1.1)) -  *(1 day ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.2.0](https://github.com/omec-project/upf/releases/tag/v2.2.0)) - 4G/5G Mobile Core User Plane *(1 week ago)*
 - **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v2.1.0](https://github.com/omec-project/webconsole/releases/tag/v2.1.0)) -  *(1 week ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.17](https://github.com/omec-project/.github/releases/tag/v0.0.17)) -  *(1 week ago)*
-- **[omec-project/aether-pod-init](https://github.com/omec-project/aether-pod-init)** ([v1.2.1](https://github.com/omec-project/aether-pod-init/releases/tag/v1.2.1)) -  *(1 week ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** ([v1.1.0](https://github.com/omec-project/n3iwf/releases/tag/v1.1.0)) -  *(1 week ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.0](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.0)) - PFCP client simulator used for UPF testing *(1 week ago)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** ([v2.1.0](https://github.com/omec-project/ausf/releases/tag/v2.1.0)) -  *(1 week ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.7.0](https://github.com/omec-project/simapp/releases/tag/v1.7.0)) - Sim subscription app for Aether *(1 week ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Migrate codebase to DPDK 23.11 using system packages instead of installing DPDK from source](https://github.com/omec-project/bess/pull/115) on **[omec-project/bess](https://github.com/omec-project/bess)** *(4 days ago)*
-- [Migrate codebase to Ubuntu 24.04 (Start using BESS based on Ubuntu 24.04)](https://github.com/omec-project/upf/pull/1060) on **[omec-project/upf](https://github.com/omec-project/upf)** *(5 days ago)*
-- [Address issue with `ldconfig` missing to discover DPDK libraries](https://github.com/omec-project/bess/pull/114) on **[omec-project/bess](https://github.com/omec-project/bess)** *(5 days ago)*
-- [Migrate codebase to Ubuntu 24.04](https://github.com/omec-project/bess/pull/113) on **[omec-project/bess](https://github.com/omec-project/bess)** *(5 days ago)*
-- [Make improvements to Dockerfile based on latest changes in bess repo](https://github.com/omec-project/upf/pull/1059) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 week ago)*
-- [Make improvements to the codebase such that there is no need of some CXXFLAGS](https://github.com/omec-project/bess/pull/112) on **[omec-project/bess](https://github.com/omec-project/bess)** *(1 week ago)*
-- [Simplify creation of container image by reducing one layer and removing unnecessary files](https://github.com/omec-project/bess/pull/111) on **[omec-project/bess](https://github.com/omec-project/bess)** *(1 week ago)*
-- [Remove redundant package installation and comment out SBOM and GRYPE actions due to issues](https://github.com/omec-project/bess/pull/110) on **[omec-project/bess](https://github.com/omec-project/bess)** *(1 week ago)*
+- [Create patch release](https://github.com/omec-project/pfcpsim/pull/254) on **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** *(today)*
+- [Create patch release](https://github.com/omec-project/openapi/pull/134) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
+- [Create patch release](https://github.com/omec-project/util/pull/248) on **[omec-project/util](https://github.com/omec-project/util)** *(today)*
+- [Update golangci-lint to v2.10.1](https://github.com/omec-project/.github/pull/128) on **[omec-project/.github](https://github.com/omec-project/.github)** *(today)*
+- [Make necessary updates to container image such that BESS can be used when DPDK is installed from system packages](https://github.com/omec-project/upf/pull/1063) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Due to the different improvements in BESS, there is no need for these reusable workflows anymore](https://github.com/omec-project/.github/pull/127) on **[omec-project/.github](https://github.com/omec-project/.github)** *(1 day ago)*
+- [Migrate codebase to DPDK 23.11 using system packages instead of installing DPDK from source](https://github.com/omec-project/bess/pull/115) on **[omec-project/bess](https://github.com/omec-project/bess)** *(5 days ago)*
+- [Migrate codebase to Ubuntu 24.04 (Start using BESS based on Ubuntu 24.04)](https://github.com/omec-project/upf/pull/1060) on **[omec-project/upf](https://github.com/omec-project/upf)** *(6 days ago)*
 
 
 
