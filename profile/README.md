@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(1 day ago)*
-- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** -  *(1 day ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 day ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(1 day ago)*
-- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(2 days ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(2 days ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(2 days ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(2 days ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(1 day ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/nssf](https://github.com/omec-project/nssf)** -  *(1 day ago)*
+- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(1 day ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.8.1](https://github.com/omec-project/nas/releases/tag/v1.8.1)) -  *(today)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v1.8.1](https://github.com/omec-project/ngap/releases/tag/v1.8.1)) -  *(today)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.1](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.1)) - PFCP client simulator used for UPF testing *(1 day ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v1.7.1](https://github.com/omec-project/openapi/releases/tag/v1.7.1)) -  *(1 day ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.1](https://github.com/omec-project/util/releases/tag/v1.7.1)) -  *(1 day ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.18](https://github.com/omec-project/.github/releases/tag/v0.0.18)) -  *(1 day ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.7.1](https://github.com/omec-project/simapp/releases/tag/v1.7.1)) - Sim subscription app for Aether *(1 day ago)*
-- **[omec-project/pcf](https://github.com/omec-project/pcf)** ([v2.1.1](https://github.com/omec-project/pcf/releases/tag/v2.1.1)) -  *(2 days ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v2.1.1](https://github.com/omec-project/webconsole/releases/tag/v2.1.1)) -  *(1 day ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.8.1](https://github.com/omec-project/nas/releases/tag/v1.8.1)) -  *(1 day ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v1.8.1](https://github.com/omec-project/ngap/releases/tag/v1.8.1)) -  *(1 day ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.1](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.1)) - PFCP client simulator used for UPF testing *(2 days ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v1.7.1](https://github.com/omec-project/openapi/releases/tag/v1.7.1)) -  *(2 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.1](https://github.com/omec-project/util/releases/tag/v1.7.1)) -  *(2 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.18](https://github.com/omec-project/.github/releases/tag/v0.0.18)) -  *(2 days ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.7.1](https://github.com/omec-project/simapp/releases/tag/v1.7.1)) - Sim subscription app for Aether *(2 days ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Create patch release](https://github.com/omec-project/nas/pull/166) on **[omec-project/nas](https://github.com/omec-project/nas)** *(today)*
-- [Create patch release](https://github.com/omec-project/ngap/pull/77) on **[omec-project/ngap](https://github.com/omec-project/ngap)** *(today)*
-- [Update Go version across codebase and address lint issues](https://github.com/omec-project/upfadapter/pull/76) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(1 day ago)*
-- [Create patch release](https://github.com/omec-project/pfcpsim/pull/254) on **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** *(1 day ago)*
-- [Create patch release](https://github.com/omec-project/openapi/pull/134) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(1 day ago)*
-- [Create patch release](https://github.com/omec-project/util/pull/248) on **[omec-project/util](https://github.com/omec-project/util)** *(1 day ago)*
-- [Update golangci-lint to v2.10.1](https://github.com/omec-project/.github/pull/128) on **[omec-project/.github](https://github.com/omec-project/.github)** *(1 day ago)*
-- [Make necessary updates to container image such that BESS can be used when DPDK is installed from system packages](https://github.com/omec-project/upf/pull/1063) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
+- [Upgrade Go version to 1.25 and group omec-project dependencies](https://github.com/omec-project/webconsole/pull/477) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(today)*
+- [Fix lint issue](https://github.com/omec-project/udm/pull/303) on **[omec-project/udm](https://github.com/omec-project/udm)** *(today)*
+- [Fix lint issues and group omec-project dependencies](https://github.com/omec-project/upf/pull/1067) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
+- [Remove dead code and group omec-project dependencies](https://github.com/omec-project/smf/pull/522) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Fix lint issues and group omec-project dependencies](https://github.com/omec-project/gnbsim/pull/433) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(1 day ago)*
+- [Remove dead code and group omec-project dependencies](https://github.com/omec-project/udm/pull/299) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
+- [Remove dead code and group omec-project dependencies](https://github.com/omec-project/amf/pull/633) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [Remove dead code and group omec-project dependencies](https://github.com/omec-project/nrf/pull/305) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(1 day ago)*
 
 
 
