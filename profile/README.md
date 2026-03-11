@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(1 day ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(1 day ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 day ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(1 day ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 day ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(2 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(2 days ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(2 days ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(2 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(2 days ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(2 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.3.0](https://github.com/omec-project/upf/releases/tag/v2.3.0)) - 4G/5G Mobile Core User Plane *(today)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.8.3](https://github.com/omec-project/nas/releases/tag/v1.8.3)) -  *(1 day ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.19](https://github.com/omec-project/.github/releases/tag/v0.0.19)) -  *(1 day ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.2](https://github.com/omec-project/util/releases/tag/v1.7.2)) -  *(3 days ago)*
-- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.1.1](https://github.com/omec-project/upfadapter/releases/tag/v2.1.1)) -  *(3 days ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.7.2](https://github.com/omec-project/simapp/releases/tag/v1.7.2)) - Sim subscription app for Aether *(3 days ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.2](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.2)) - PFCP client simulator used for UPF testing *(3 days ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v1.8.2](https://github.com/omec-project/ngap/releases/tag/v1.8.2)) -  *(3 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.21](https://github.com/omec-project/.github/releases/tag/v0.0.21)) -  *(today)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.3.1](https://github.com/omec-project/upf/releases/tag/v2.3.1)) - 4G/5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.8.3](https://github.com/omec-project/nas/releases/tag/v1.8.3)) -  *(2 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.2](https://github.com/omec-project/util/releases/tag/v1.7.2)) -  *(4 days ago)*
+- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.1.1](https://github.com/omec-project/upfadapter/releases/tag/v2.1.1)) -  *(4 days ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.7.2](https://github.com/omec-project/simapp/releases/tag/v1.7.2)) - Sim subscription app for Aether *(4 days ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.2](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.2)) - PFCP client simulator used for UPF testing *(4 days ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v1.8.2](https://github.com/omec-project/ngap/releases/tag/v1.8.2)) -  *(4 days ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Create minor release due to migration to Ubuntu 24.04](https://github.com/omec-project/upf/pull/1072) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
-- [Define type AccessType, add tests for NasPdu and delete coverage.out files](https://github.com/omec-project/nas/pull/170) on **[omec-project/nas](https://github.com/omec-project/nas)** *(1 day ago)*
-- [Added a test such as validation of the GUI/pipeline can be automatically done](https://github.com/omec-project/bess/pull/120) on **[omec-project/bess](https://github.com/omec-project/bess)** *(1 day ago)*
-- [Remove dead code and tested changes using OnRamp](https://github.com/omec-project/webconsole/pull/484) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
-- [Remove dead code and tested changes using OnRamp](https://github.com/omec-project/upf/pull/1071) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
-- [Remove dead code and tested changes using OnRamp](https://github.com/omec-project/udr/pull/284) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
-- [Remove dead code and tested changes using OnRamp](https://github.com/omec-project/udm/pull/306) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
-- [Remove dead code and tested changes using OnRamp](https://github.com/omec-project/smf/pull/528) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Simplify reusable workflow for building container images](https://github.com/omec-project/.github/pull/138) on **[omec-project/.github](https://github.com/omec-project/.github)** *(today)*
+- [Consolidate Docker build processes into a single reusable workflow](https://github.com/omec-project/.github/pull/136) on **[omec-project/.github](https://github.com/omec-project/.github)** *(today)*
+- [Rename PFCP image by dropping the `iface` suffix](https://github.com/omec-project/upf/pull/1077) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Address code scanning alerts by pinning pip command in PTF framework/Dockerfile](https://github.com/omec-project/upf/pull/1076) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Update UPF helm charts](https://github.com/omec-project/sdcore-helm-charts/pull/124) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 day ago)*
+- [Fix vulnerability in UPF&#39;s indirect dependency](https://github.com/omec-project/upf/pull/1074) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Create minor release due to migration to Ubuntu 24.04](https://github.com/omec-project/upf/pull/1072) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Define type AccessType, add tests for NasPdu and delete coverage.out files](https://github.com/omec-project/nas/pull/170) on **[omec-project/nas](https://github.com/omec-project/nas)** *(2 days ago)*
 
 
 
