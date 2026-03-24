@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(4 days ago)*
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(5 days ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(5 days ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(6 days ago)*
 - **[opennetworkinglab/aether-gnbsim](https://github.com/opennetworkinglab/aether-gnbsim)** -  *(1 week ago)*
 - **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 week ago)*
 - **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(1 week ago)*
 - **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 week ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 week ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 week ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(2 weeks ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(2 weeks ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.3](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.3)) - PFCP client simulator used for UPF testing *(4 days ago)*
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.7.2](https://github.com/omec-project/sctplb/releases/tag/v1.7.2)) - SCTP Load Balancer *(5 days ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.3](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.3)) - PFCP client simulator used for UPF testing *(5 days ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.7.2](https://github.com/omec-project/sctplb/releases/tag/v1.7.2)) - SCTP Load Balancer *(6 days ago)*
 - **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.8.4](https://github.com/omec-project/nas/releases/tag/v1.8.4)) -  *(1 week ago)*
 - **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.21](https://github.com/omec-project/.github/releases/tag/v0.0.21)) -  *(1 week ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.3.1](https://github.com/omec-project/upf/releases/tag/v2.3.1)) - 4G/5G Mobile Core User Plane *(1 week ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.3.1](https://github.com/omec-project/upf/releases/tag/v2.3.1)) - 4G/5G Mobile Core User Plane *(2 weeks ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.2](https://github.com/omec-project/util/releases/tag/v1.7.2)) -  *(2 weeks ago)*
 - **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.1.1](https://github.com/omec-project/upfadapter/releases/tag/v2.1.1)) -  *(2 weeks ago)*
 - **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.7.2](https://github.com/omec-project/simapp/releases/tag/v1.7.2)) - Sim subscription app for Aether *(2 weeks ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Fix vulnerability due to indirect dependency and create patch release](https://github.com/omec-project/pfcpsim/pull/265) on **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** *(4 days ago)*
-- [Fix vulnerability due to indirect dependency and create patch release](https://github.com/omec-project/sctplb/pull/223) on **[omec-project/sctplb](https://github.com/omec-project/sctplb)** *(5 days ago)*
-- [Fix binary issue and create a patch release](https://github.com/omec-project/sctplb/pull/220) on **[omec-project/sctplb](https://github.com/omec-project/sctplb)** *(6 days ago)*
+- [Create OCUDU blueprint using the srsRAN blueprint as a reference](https://github.com/opennetworkinglab/aether-ocudu/pull/1) on **[opennetworkinglab/aether-ocudu](https://github.com/opennetworkinglab/aether-ocudu)** *(today)*
+- [Address issue when interface name contains dots because `sysctl` treats dots as path separators](https://github.com/opennetworkinglab/aether-5gc/pull/66) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(today)*
+- [Fix vulnerability due to indirect dependency and create patch release](https://github.com/omec-project/pfcpsim/pull/265) on **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** *(5 days ago)*
+- [Fix vulnerability due to indirect dependency and create patch release](https://github.com/omec-project/sctplb/pull/223) on **[omec-project/sctplb](https://github.com/omec-project/sctplb)** *(6 days ago)*
+- [Fix binary issue and create a patch release](https://github.com/omec-project/sctplb/pull/220) on **[omec-project/sctplb](https://github.com/omec-project/sctplb)** *(1 week ago)*
 - [Sync up sub-modules](https://github.com/opennetworkinglab/aether-onramp/pull/140) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 week ago)*
 - [Fix quotes issue in a couple Ansible tasks (name)](https://github.com/opennetworkinglab/aether-gnbsim/pull/27) on **[opennetworkinglab/aether-gnbsim](https://github.com/opennetworkinglab/aether-gnbsim)** *(1 week ago)*
 - [Fix race condition in unit tests](https://github.com/omec-project/amf/pull/643) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 week ago)*
-- [Sync-up sub-modules](https://github.com/opennetworkinglab/aether-onramp/pull/139) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 week ago)*
-- [Improve uninstall task to avoid showing misleading error message](https://github.com/opennetworkinglab/aether-5gc/pull/65) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(1 week ago)*
 
 
 
