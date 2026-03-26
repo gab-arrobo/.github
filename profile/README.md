@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[opennetworkinglab/aether-gnbsim](https://github.com/opennetworkinglab/aether-gnbsim)** -  *(1 day ago)*
-- **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(1 day ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(6 days ago)*
+- **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** - Docker build for srsRAN *(1 day ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 day ago)*
+- **[opennetworkinglab/aether-gnbsim](https://github.com/opennetworkinglab/aether-gnbsim)** -  *(2 days ago)*
+- **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(2 days ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(2 days ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(1 week ago)*
 - **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(1 week ago)*
 - **[omec-project/nas](https://github.com/omec-project/nas)** -  *(2 weeks ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(2 weeks ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(2 weeks ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.3](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.3)) - PFCP client simulator used for UPF testing *(6 days ago)*
+- **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** ([v0.5.0](https://github.com/opennetworkinglab/srsRAN-docker/releases/tag/v0.5.0)) - Docker build for srsRAN *(today)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.22](https://github.com/omec-project/.github/releases/tag/v0.0.22)) -  *(1 day ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.3](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.3)) - PFCP client simulator used for UPF testing *(1 week ago)*
 - **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.7.2](https://github.com/omec-project/sctplb/releases/tag/v1.7.2)) - SCTP Load Balancer *(1 week ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.8.4](https://github.com/omec-project/nas/releases/tag/v1.8.4)) -  *(1 week ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.21](https://github.com/omec-project/.github/releases/tag/v0.0.21)) -  *(2 weeks ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.8.4](https://github.com/omec-project/nas/releases/tag/v1.8.4)) -  *(2 weeks ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.3.1](https://github.com/omec-project/upf/releases/tag/v2.3.1)) - 4G/5G Mobile Core User Plane *(2 weeks ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.2](https://github.com/omec-project/util/releases/tag/v1.7.2)) -  *(2 weeks ago)*
 - **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.1.1](https://github.com/omec-project/upfadapter/releases/tag/v2.1.1)) -  *(2 weeks ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.7.2](https://github.com/omec-project/simapp/releases/tag/v1.7.2)) - Sim subscription app for Aether *(2 weeks ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Sync up dependencies](https://github.com/opennetworkinglab/aether-onramp/pull/143) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(today)*
-- [Properly enable printing logs to terminal as well as file](https://github.com/opennetworkinglab/aether-gnbsim/pull/28) on **[opennetworkinglab/aether-gnbsim](https://github.com/opennetworkinglab/aether-gnbsim)** *(today)*
-- [Sync-up 5GC module](https://github.com/opennetworkinglab/aether-onramp/pull/142) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
-- [Add OCUDU Dockerfile and make improvements to other Dockerfiles](https://github.com/opennetworkinglab/srsRAN-docker/pull/29) on **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** *(1 day ago)*
-- [Create OCUDU blueprint using the srsRAN blueprint as a reference](https://github.com/opennetworkinglab/aether-ocudu/pull/1) on **[opennetworkinglab/aether-ocudu](https://github.com/opennetworkinglab/aether-ocudu)** *(1 day ago)*
-- [Address issue when interface name contains dots because `sysctl` treats dots as path separators](https://github.com/opennetworkinglab/aether-5gc/pull/66) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(1 day ago)*
-- [Fix vulnerability due to indirect dependency and create patch release](https://github.com/omec-project/pfcpsim/pull/265) on **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** *(6 days ago)*
-- [Fix vulnerability due to indirect dependency and create patch release](https://github.com/omec-project/sctplb/pull/223) on **[omec-project/sctplb](https://github.com/omec-project/sctplb)** *(1 week ago)*
+- [Create minor release](https://github.com/opennetworkinglab/srsRAN-docker/pull/31) on **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** *(today)*
+- [Fix broken links, remove outdated dependencies and change theme](https://github.com/opennetworkinglab/aether-docs/pull/59) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
+- [Update GitHub Actions to create and push the OCUDU container image](https://github.com/opennetworkinglab/srsRAN-docker/pull/30) on **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** *(1 day ago)*
+- [Add semantic versioning for sbom-action and create patch release](https://github.com/omec-project/.github/pull/142) on **[omec-project/.github](https://github.com/omec-project/.github)** *(1 day ago)*
+- [Sync up dependencies](https://github.com/opennetworkinglab/aether-onramp/pull/143) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
+- [Properly enable printing logs to terminal as well as file](https://github.com/opennetworkinglab/aether-gnbsim/pull/28) on **[opennetworkinglab/aether-gnbsim](https://github.com/opennetworkinglab/aether-gnbsim)** *(1 day ago)*
+- [Sync-up 5GC module](https://github.com/opennetworkinglab/aether-onramp/pull/142) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(2 days ago)*
+- [Add OCUDU Dockerfile and make improvements to other Dockerfiles](https://github.com/opennetworkinglab/srsRAN-docker/pull/29) on **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** *(2 days ago)*
 
 
 
