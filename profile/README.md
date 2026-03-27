@@ -7,21 +7,21 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** - Docker build for srsRAN *(1 day ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 day ago)*
-- **[opennetworkinglab/aether-gnbsim](https://github.com/opennetworkinglab/aether-gnbsim)** -  *(2 days ago)*
-- **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(2 days ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(2 days ago)*
+- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(1 day ago)*
+- **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** - Docker build for srsRAN *(2 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(2 days ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(3 days ago)*
+- **[opennetworkinglab/aether-gnbsim](https://github.com/opennetworkinglab/aether-gnbsim)** -  *(3 days ago)*
+- **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(3 days ago)*
 - **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(1 week ago)*
 - **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(1 week ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(2 weeks ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** ([v0.5.0](https://github.com/opennetworkinglab/srsRAN-docker/releases/tag/v0.5.0)) - Docker build for srsRAN *(today)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.22](https://github.com/omec-project/.github/releases/tag/v0.0.22)) -  *(1 day ago)*
+- **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** ([v0.5.0](https://github.com/opennetworkinglab/srsRAN-docker/releases/tag/v0.5.0)) - Docker build for srsRAN *(1 day ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.22](https://github.com/omec-project/.github/releases/tag/v0.0.22)) -  *(2 days ago)*
 - **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.3](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.3)) - PFCP client simulator used for UPF testing *(1 week ago)*
 - **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.7.2](https://github.com/omec-project/sctplb/releases/tag/v1.7.2)) - SCTP Load Balancer *(1 week ago)*
 - **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.8.4](https://github.com/omec-project/nas/releases/tag/v1.8.4)) -  *(2 weeks ago)*
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Create minor release](https://github.com/opennetworkinglab/srsRAN-docker/pull/31) on **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** *(today)*
-- [Fix broken links, remove outdated dependencies and change theme](https://github.com/opennetworkinglab/aether-docs/pull/59) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
-- [Update GitHub Actions to create and push the OCUDU container image](https://github.com/opennetworkinglab/srsRAN-docker/pull/30) on **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** *(1 day ago)*
-- [Add semantic versioning for sbom-action and create patch release](https://github.com/omec-project/.github/pull/142) on **[omec-project/.github](https://github.com/omec-project/.github)** *(1 day ago)*
-- [Sync up dependencies](https://github.com/opennetworkinglab/aether-onramp/pull/143) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
-- [Properly enable printing logs to terminal as well as file](https://github.com/opennetworkinglab/aether-gnbsim/pull/28) on **[opennetworkinglab/aether-gnbsim](https://github.com/opennetworkinglab/aether-gnbsim)** *(1 day ago)*
-- [Sync-up 5GC module](https://github.com/opennetworkinglab/aether-onramp/pull/142) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(2 days ago)*
-- [Add OCUDU Dockerfile and make improvements to other Dockerfiles](https://github.com/opennetworkinglab/srsRAN-docker/pull/29) on **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** *(2 days ago)*
+- [Remove unused images](https://github.com/opennetworkinglab/aether-docs/pull/69) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
+- [Update urls to avoid/minimize redirects](https://github.com/opennetworkinglab/aether-docs/pull/68) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
+- [Minimize the use of dep5 file](https://github.com/opennetworkinglab/aether-docs/pull/67) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
+- [Remove unused figures left from a previous cleanup](https://github.com/opennetworkinglab/aether-docs/pull/66) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
+- [Update dictionary to keep only words that are actually used](https://github.com/opennetworkinglab/aether-docs/pull/65) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
+- [Remove unused/old fonts](https://github.com/opennetworkinglab/aether-docs/pull/64) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
+- [Split make target in its individual steps such that it is easier to see what step fails](https://github.com/opennetworkinglab/aether-docs/pull/63) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
+- [Update CODEOWNERS to point to a group/team instead of an individual](https://github.com/opennetworkinglab/aether-docs/pull/62) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
 
 
 
