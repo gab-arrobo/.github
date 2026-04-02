@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(5 days ago)*
-- **[opennetworkinglab/aether-ocudu](https://github.com/opennetworkinglab/aether-ocudu)** - OCUDU Blueprint for Aether OnRamp *(5 days ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(5 days ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
+- **[opennetworkinglab/aether-k8s](https://github.com/opennetworkinglab/aether-k8s)** -  *(1 day ago)*
+- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(1 day ago)*
+- **[opennetworkinglab/aether-ocudu](https://github.com/opennetworkinglab/aether-ocudu)** - OCUDU Blueprint for Aether OnRamp *(6 days ago)*
+- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(6 days ago)*
 - **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** - Docker build for srsRAN *(1 week ago)*
 - **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 week ago)*
-- **[opennetworkinglab/aether-gnbsim](https://github.com/opennetworkinglab/aether-gnbsim)** -  *(1 week ago)*
 - **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(1 week ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(1 week ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** ([v0.5.0](https://github.com/opennetworkinglab/srsRAN-docker/releases/tag/v0.5.0)) - Docker build for srsRAN *(6 days ago)*
+- **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** ([v0.5.0](https://github.com/opennetworkinglab/srsRAN-docker/releases/tag/v0.5.0)) - Docker build for srsRAN *(1 week ago)*
 - **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.22](https://github.com/omec-project/.github/releases/tag/v0.0.22)) -  *(1 week ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.3](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.3)) - PFCP client simulator used for UPF testing *(1 week ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.3](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.3)) - PFCP client simulator used for UPF testing *(2 weeks ago)*
 - **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.7.2](https://github.com/omec-project/sctplb/releases/tag/v1.7.2)) - SCTP Load Balancer *(2 weeks ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.8.4](https://github.com/omec-project/nas/releases/tag/v1.8.4)) -  *(2 weeks ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.8.4](https://github.com/omec-project/nas/releases/tag/v1.8.4)) -  *(3 weeks ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.3.1](https://github.com/omec-project/upf/releases/tag/v2.3.1)) - 4G/5G Mobile Core User Plane *(3 weeks ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.2](https://github.com/omec-project/util/releases/tag/v1.7.2)) -  *(3 weeks ago)*
 - **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.1.1](https://github.com/omec-project/upfadapter/releases/tag/v2.1.1)) -  *(3 weeks ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Add missing changes in ref file](https://github.com/opennetworkinglab/aether-docs/pull/73) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(4 days ago)*
-- [Remove documentation related to Jenkins](https://github.com/opennetworkinglab/aether-docs/pull/72) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(5 days ago)*
-- [Update branch name in GHA workflow](https://github.com/opennetworkinglab/aether-docs/pull/71) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(5 days ago)*
-- [Add OCUDU section to documentation](https://github.com/opennetworkinglab/aether-docs/pull/70) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(5 days ago)*
-- [Add GHA for link checks and dependabot to monitor GHA updates](https://github.com/opennetworkinglab/aether-onramp/pull/145) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(5 days ago)*
-- [Add OCUDU as a submodule](https://github.com/opennetworkinglab/aether-onramp/pull/144) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(5 days ago)*
-- [Remove unused images](https://github.com/opennetworkinglab/aether-docs/pull/69) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(6 days ago)*
-- [Update urls to avoid/minimize redirects](https://github.com/opennetworkinglab/aether-docs/pull/68) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(6 days ago)*
+- [Check for `online` NUMA nodes instead of `possible`](https://github.com/omec-project/bess/pull/131) on **[omec-project/bess](https://github.com/omec-project/bess)** *(1 day ago)*
+- [Address issue with member variable that changed name starting kernel version 6.15.0](https://github.com/omec-project/bess/pull/130) on **[omec-project/bess](https://github.com/omec-project/bess)** *(1 day ago)*
+- [Sync up k8s dependency](https://github.com/opennetworkinglab/aether-onramp/pull/147) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
+- [Fix issue with K8s wait command](https://github.com/opennetworkinglab/aether-k8s/pull/12) on **[opennetworkinglab/aether-k8s](https://github.com/opennetworkinglab/aether-k8s)** *(1 day ago)*
+- [Use IP address from hosts file instead of using default node/host IP](https://github.com/opennetworkinglab/aether-k8s/pull/11) on **[opennetworkinglab/aether-k8s](https://github.com/opennetworkinglab/aether-k8s)** *(1 day ago)*
+- [Add missing changes in ref file](https://github.com/opennetworkinglab/aether-docs/pull/73) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(5 days ago)*
+- [Remove documentation related to Jenkins](https://github.com/opennetworkinglab/aether-docs/pull/72) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(6 days ago)*
+- [Update branch name in GHA workflow](https://github.com/opennetworkinglab/aether-docs/pull/71) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(6 days ago)*
 
 
 
