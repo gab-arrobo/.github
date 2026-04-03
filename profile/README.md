@@ -7,14 +7,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
-- **[opennetworkinglab/aether-k8s](https://github.com/opennetworkinglab/aether-k8s)** -  *(1 day ago)*
-- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(1 day ago)*
-- **[opennetworkinglab/aether-ocudu](https://github.com/opennetworkinglab/aether-ocudu)** - OCUDU Blueprint for Aether OnRamp *(6 days ago)*
-- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(6 days ago)*
-- **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** - Docker build for srsRAN *(1 week ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 day ago)*
+- **[opennetworkinglab/aether-k8s](https://github.com/opennetworkinglab/aether-k8s)** -  *(2 days ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(2 days ago)*
+- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(2 days ago)*
+- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(1 week ago)*
+- **[opennetworkinglab/aether-ocudu](https://github.com/opennetworkinglab/aether-ocudu)** - OCUDU Blueprint for Aether OnRamp *(1 week ago)*
 - **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 week ago)*
-- **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(1 week ago)*
+- **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** - Docker build for srsRAN *(1 week ago)*
 
 
 
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Check for `online` NUMA nodes instead of `possible`](https://github.com/omec-project/bess/pull/131) on **[omec-project/bess](https://github.com/omec-project/bess)** *(1 day ago)*
-- [Address issue with member variable that changed name starting kernel version 6.15.0](https://github.com/omec-project/bess/pull/130) on **[omec-project/bess](https://github.com/omec-project/bess)** *(1 day ago)*
-- [Sync up k8s dependency](https://github.com/opennetworkinglab/aether-onramp/pull/147) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
-- [Fix issue with K8s wait command](https://github.com/opennetworkinglab/aether-k8s/pull/12) on **[opennetworkinglab/aether-k8s](https://github.com/opennetworkinglab/aether-k8s)** *(1 day ago)*
-- [Use IP address from hosts file instead of using default node/host IP](https://github.com/opennetworkinglab/aether-k8s/pull/11) on **[opennetworkinglab/aether-k8s](https://github.com/opennetworkinglab/aether-k8s)** *(1 day ago)*
-- [Add missing changes in ref file](https://github.com/opennetworkinglab/aether-docs/pull/73) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(5 days ago)*
-- [Remove documentation related to Jenkins](https://github.com/opennetworkinglab/aether-docs/pull/72) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(6 days ago)*
-- [Update branch name in GHA workflow](https://github.com/opennetworkinglab/aether-docs/pull/71) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(6 days ago)*
+- [Change reusable workflow to local repo because it is the only place where it is used](https://github.com/omec-project/sdcore-helm-charts/pull/128) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(today)*
+- [Multiple updates](https://github.com/opennetworkinglab/aether-5gc/pull/67) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(today)*
+- [Multiple updates](https://github.com/opennetworkinglab/aether-amp/pull/29) on **[opennetworkinglab/aether-amp](https://github.com/opennetworkinglab/aether-amp)** *(today)*
+- [Multiple updates](https://github.com/opennetworkinglab/aether-gnbsim/pull/29) on **[opennetworkinglab/aether-gnbsim](https://github.com/opennetworkinglab/aether-gnbsim)** *(today)*
+- [Multiple updates](https://github.com/opennetworkinglab/aether-n3iwf/pull/2) on **[opennetworkinglab/aether-n3iwf](https://github.com/opennetworkinglab/aether-n3iwf)** *(today)*
+- [Multiple updates](https://github.com/opennetworkinglab/aether-oai/pull/16) on **[opennetworkinglab/aether-oai](https://github.com/opennetworkinglab/aether-oai)** *(today)*
+- [Multiple updates](https://github.com/opennetworkinglab/aether-ocudu/pull/2) on **[opennetworkinglab/aether-ocudu](https://github.com/opennetworkinglab/aether-ocudu)** *(today)*
+- [Multiple updates](https://github.com/opennetworkinglab/aether-srsran/pull/18) on **[opennetworkinglab/aether-srsran](https://github.com/opennetworkinglab/aether-srsran)** *(today)*
 
 
 
