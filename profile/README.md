@@ -7,14 +7,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 day ago)*
-- **[opennetworkinglab/aether-k8s](https://github.com/opennetworkinglab/aether-k8s)** -  *(2 days ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(2 days ago)*
-- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(2 days ago)*
-- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(1 week ago)*
-- **[opennetworkinglab/aether-ocudu](https://github.com/opennetworkinglab/aether-ocudu)** - OCUDU Blueprint for Aether OnRamp *(1 week ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 week ago)*
-- **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** - Docker build for srsRAN *(1 week ago)*
+- **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(1 day ago)*
+- **[opennetworkinglab/aether-ocudu](https://github.com/opennetworkinglab/aether-ocudu)** - OCUDU Blueprint for Aether OnRamp *(1 day ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
+- **[opennetworkinglab/aether-amp](https://github.com/opennetworkinglab/aether-amp)** -  *(1 day ago)*
+- **[opennetworkinglab/aether-oai](https://github.com/opennetworkinglab/aether-oai)** - OAI RAN with Aether Core *(1 day ago)*
+- **[opennetworkinglab/aether-4gc](https://github.com/opennetworkinglab/aether-4gc)** -  *(1 day ago)*
+- **[opennetworkinglab/aether-n3iwf](https://github.com/opennetworkinglab/aether-n3iwf)** - Non-3GPP Interworking Function *(1 day ago)*
+- **[opennetworkinglab/aether-k8s](https://github.com/opennetworkinglab/aether-k8s)** -  *(1 day ago)*
 
 
 
@@ -26,19 +26,19 @@ through open-source collaboration, patents, and strategic execution.
 - **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.7.2](https://github.com/omec-project/sctplb/releases/tag/v1.7.2)) - SCTP Load Balancer *(2 weeks ago)*
 - **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.8.4](https://github.com/omec-project/nas/releases/tag/v1.8.4)) -  *(3 weeks ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.3.1](https://github.com/omec-project/upf/releases/tag/v2.3.1)) - 4G/5G Mobile Core User Plane *(3 weeks ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.2](https://github.com/omec-project/util/releases/tag/v1.7.2)) -  *(3 weeks ago)*
-- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.1.1](https://github.com/omec-project/upfadapter/releases/tag/v2.1.1)) -  *(3 weeks ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.2](https://github.com/omec-project/util/releases/tag/v1.7.2)) -  *(4 weeks ago)*
+- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.1.1](https://github.com/omec-project/upfadapter/releases/tag/v2.1.1)) -  *(4 weeks ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Change reusable workflow to local repo because it is the only place where it is used](https://github.com/omec-project/sdcore-helm-charts/pull/128) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(today)*
-- [Multiple updates](https://github.com/opennetworkinglab/aether-5gc/pull/67) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(today)*
-- [Multiple updates](https://github.com/opennetworkinglab/aether-amp/pull/29) on **[opennetworkinglab/aether-amp](https://github.com/opennetworkinglab/aether-amp)** *(today)*
-- [Multiple updates](https://github.com/opennetworkinglab/aether-gnbsim/pull/29) on **[opennetworkinglab/aether-gnbsim](https://github.com/opennetworkinglab/aether-gnbsim)** *(today)*
-- [Multiple updates](https://github.com/opennetworkinglab/aether-n3iwf/pull/2) on **[opennetworkinglab/aether-n3iwf](https://github.com/opennetworkinglab/aether-n3iwf)** *(today)*
-- [Multiple updates](https://github.com/opennetworkinglab/aether-oai/pull/16) on **[opennetworkinglab/aether-oai](https://github.com/opennetworkinglab/aether-oai)** *(today)*
-- [Multiple updates](https://github.com/opennetworkinglab/aether-ocudu/pull/2) on **[opennetworkinglab/aether-ocudu](https://github.com/opennetworkinglab/aether-ocudu)** *(today)*
-- [Multiple updates](https://github.com/opennetworkinglab/aether-srsran/pull/18) on **[opennetworkinglab/aether-srsran](https://github.com/opennetworkinglab/aether-srsran)** *(today)*
+- [Remove unused workflow](https://github.com/omec-project/.github/pull/148) on **[omec-project/.github](https://github.com/omec-project/.github)** *(today)*
+- [Sync up sub-module(s)](https://github.com/opennetworkinglab/aether-onramp/pull/154) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
+- [Address warning in reusable workflow](https://github.com/opennetworkinglab/aether-5gc/pull/70) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(1 day ago)*
+- [Update sd-core charts version, helm version and K8s token](https://github.com/opennetworkinglab/aether-onramp/pull/153) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
+- [Update dependencies](https://github.com/opennetworkinglab/aether-k8s/pull/17) on **[opennetworkinglab/aether-k8s](https://github.com/opennetworkinglab/aether-k8s)** *(1 day ago)*
+- [Update dependencies](https://github.com/opennetworkinglab/aether-5gc/pull/69) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(1 day ago)*
+- [Sync up sub-module(s)](https://github.com/opennetworkinglab/aether-onramp/pull/152) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
+- [Update k8s config files for new clusters (In preparation to newer Rancher version)](https://github.com/opennetworkinglab/aether-k8s/pull/16) on **[opennetworkinglab/aether-k8s](https://github.com/opennetworkinglab/aether-k8s)** *(1 day ago)*
 
 
 
