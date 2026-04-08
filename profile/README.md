@@ -7,23 +7,23 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(2 days ago)*
-- **[opennetworkinglab/aether-k8s](https://github.com/opennetworkinglab/aether-k8s)** -  *(4 days ago)*
-- **[opennetworkinglab/aether-n3iwf](https://github.com/opennetworkinglab/aether-n3iwf)** - Non-3GPP Interworking Function *(4 days ago)*
-- **[opennetworkinglab/aether-srsran](https://github.com/opennetworkinglab/aether-srsran)** - srsRAN Blueprint for Aether OnRamp *(4 days ago)*
-- **[opennetworkinglab/aether-ueransim](https://github.com/opennetworkinglab/aether-ueransim)** - Aether UERANSIM *(4 days ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(4 days ago)*
-- **[opennetworkinglab/aether-4gc](https://github.com/opennetworkinglab/aether-4gc)** -  *(4 days ago)*
-- **[opennetworkinglab/aether-oai](https://github.com/opennetworkinglab/aether-oai)** - OAI RAN with Aether Core *(4 days ago)*
+- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(1 day ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
+- **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** -  *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(3 days ago)*
+- **[opennetworkinglab/aether-ueransim](https://github.com/opennetworkinglab/aether-ueransim)** - Aether UERANSIM *(5 days ago)*
+- **[opennetworkinglab/aether-srsran](https://github.com/opennetworkinglab/aether-srsran)** - srsRAN Blueprint for Aether OnRamp *(5 days ago)*
+- **[opennetworkinglab/aether-4gc](https://github.com/opennetworkinglab/aether-4gc)** -  *(5 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
 - **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** ([v0.5.0](https://github.com/opennetworkinglab/srsRAN-docker/releases/tag/v0.5.0)) - Docker build for srsRAN *(1 week ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.22](https://github.com/omec-project/.github/releases/tag/v0.0.22)) -  *(1 week ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.22](https://github.com/omec-project/.github/releases/tag/v0.0.22)) -  *(2 weeks ago)*
 - **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.3](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.3)) - PFCP client simulator used for UPF testing *(2 weeks ago)*
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.7.2](https://github.com/omec-project/sctplb/releases/tag/v1.7.2)) - SCTP Load Balancer *(2 weeks ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.7.2](https://github.com/omec-project/sctplb/releases/tag/v1.7.2)) - SCTP Load Balancer *(3 weeks ago)*
 - **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.8.4](https://github.com/omec-project/nas/releases/tag/v1.8.4)) -  *(3 weeks ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.3.1](https://github.com/omec-project/upf/releases/tag/v2.3.1)) - 4G/5G Mobile Core User Plane *(4 weeks ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.2](https://github.com/omec-project/util/releases/tag/v1.7.2)) -  *(1 month ago)*
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Remove unused workflow](https://github.com/omec-project/.github/pull/148) on **[omec-project/.github](https://github.com/omec-project/.github)** *(3 days ago)*
-- [Sync up sub-module(s)](https://github.com/opennetworkinglab/aether-onramp/pull/154) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(4 days ago)*
-- [Address warning in reusable workflow](https://github.com/opennetworkinglab/aether-5gc/pull/70) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(4 days ago)*
-- [Update sd-core charts version, helm version and K8s token](https://github.com/opennetworkinglab/aether-onramp/pull/153) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(4 days ago)*
-- [Update dependencies](https://github.com/opennetworkinglab/aether-k8s/pull/17) on **[opennetworkinglab/aether-k8s](https://github.com/opennetworkinglab/aether-k8s)** *(4 days ago)*
-- [Update dependencies](https://github.com/opennetworkinglab/aether-5gc/pull/69) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(4 days ago)*
-- [Sync up sub-module(s)](https://github.com/opennetworkinglab/aether-onramp/pull/152) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(4 days ago)*
-- [Update k8s config files for new clusters (In preparation to newer Rancher version)](https://github.com/opennetworkinglab/aether-k8s/pull/16) on **[opennetworkinglab/aether-k8s](https://github.com/opennetworkinglab/aether-k8s)** *(4 days ago)*
+- [Sync up sub-module(s)](https://github.com/opennetworkinglab/aether-onramp/pull/156) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(today)*
+- [UPF needs to have enabled resources when deploying it in DPDK mode](https://github.com/opennetworkinglab/aether-5gc/pull/72) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(today)*
+- [Update documentation for development](https://github.com/omec-project/upf/pull/1095) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
+- [Update documentation to get only dpdk-devbind tool instead of cloning entire DPDK repo](https://github.com/opennetworkinglab/aether-docs/pull/75) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
+- [Sync up sub-module(s)](https://github.com/opennetworkinglab/aether-onramp/pull/155) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
+- [Avoid having to run helm dep up when using local charts and leave that to the developer](https://github.com/opennetworkinglab/aether-5gc/pull/71) on **[opennetworkinglab/aether-5gc](https://github.com/opennetworkinglab/aether-5gc)** *(1 day ago)*
+- [Remove unused workflow](https://github.com/omec-project/.github/pull/148) on **[omec-project/.github](https://github.com/omec-project/.github)** *(4 days ago)*
+- [Sync up sub-module(s)](https://github.com/opennetworkinglab/aether-onramp/pull/154) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(5 days ago)*
 
 
 
