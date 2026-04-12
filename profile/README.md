@@ -7,22 +7,22 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 day ago)*
 - **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
 - **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(1 day ago)*
-- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(2 days ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(2 days ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(2 days ago)*
-- **[opennetworkinglab/aether-ueransim](https://github.com/opennetworkinglab/aether-ueransim)** - Aether UERANSIM *(3 days ago)*
-- **[opennetworkinglab/aether-ocudu](https://github.com/opennetworkinglab/aether-ocudu)** - OCUDU Blueprint for Aether OnRamp *(3 days ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(2 days ago)*
+- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(3 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(3 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(3 days ago)*
+- **[opennetworkinglab/aether-ueransim](https://github.com/opennetworkinglab/aether-ueransim)** - Aether UERANSIM *(4 days ago)*
+- **[opennetworkinglab/aether-ocudu](https://github.com/opennetworkinglab/aether-ocudu)** - OCUDU Blueprint for Aether OnRamp *(4 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.3.2](https://github.com/omec-project/upf/releases/tag/v2.3.2)) - 4G/5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** ([v3.1.1](https://github.com/omec-project/smf/releases/tag/v3.1.1)) -  *(1 day ago)*
-- **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** ([v0.7.0](https://github.com/opennetworkinglab/srsRAN-docker/releases/tag/v0.7.0)) - Docker build for srsRAN *(3 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.3.2](https://github.com/omec-project/upf/releases/tag/v2.3.2)) - 4G/5G Mobile Core User Plane *(2 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** ([v3.1.1](https://github.com/omec-project/smf/releases/tag/v3.1.1)) -  *(2 days ago)*
+- **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** ([v0.7.0](https://github.com/opennetworkinglab/srsRAN-docker/releases/tag/v0.7.0)) - Docker build for srsRAN *(4 days ago)*
 - **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.22](https://github.com/omec-project/.github/releases/tag/v0.0.22)) -  *(2 weeks ago)*
 - **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.3](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.3)) - PFCP client simulator used for UPF testing *(3 weeks ago)*
 - **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.7.2](https://github.com/omec-project/sctplb/releases/tag/v1.7.2)) - SCTP Load Balancer *(3 weeks ago)*
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Clean up action by removing sed command/replacement](https://github.com/opennetworkinglab/aether-onramp/pull/162) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(today)*
-- [Update documentation for simplify DPDK/SR-IOV deployment](https://github.com/opennetworkinglab/aether-docs/pull/77) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(today)*
-- [Simplify DPDK/SR-IOV deployment](https://github.com/opennetworkinglab/aether-onramp/pull/161) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(today)*
-- [Use new SMF and SCTPLB images](https://github.com/omec-project/sdcore-helm-charts/pull/129) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 day ago)*
-- [Fix issue with deploying UPF in DPDK/SRIOV mode](https://github.com/omec-project/upf/pull/1100) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
-- [Update documentation for onramp monolithic repo instead of using git sub-modules](https://github.com/opennetworkinglab/aether-docs/pull/76) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
-- [Make onramp monolithic repo instead of using git sub-modules](https://github.com/opennetworkinglab/aether-onramp/pull/160) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
-- [Fix racing condition issue in Kafka initialization](https://github.com/omec-project/smf/pull/535) on **[omec-project/smf](https://github.com/omec-project/smf)** *(2 days ago)*
+- [Update sd-core charts version to 3.3.0](https://github.com/opennetworkinglab/aether-docs/pull/78) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
+- [Update sd-core charts version to 3.3.0](https://github.com/opennetworkinglab/aether-onramp/pull/163) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
+- [Clean up action by removing sed command/replacement](https://github.com/opennetworkinglab/aether-onramp/pull/162) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
+- [Update documentation for simplify DPDK/SR-IOV deployment](https://github.com/opennetworkinglab/aether-docs/pull/77) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
+- [Simplify DPDK/SR-IOV deployment](https://github.com/opennetworkinglab/aether-onramp/pull/161) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
+- [Use new SMF and SCTPLB images](https://github.com/omec-project/sdcore-helm-charts/pull/129) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(2 days ago)*
+- [Fix issue with deploying UPF in DPDK/SRIOV mode](https://github.com/omec-project/upf/pull/1100) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
+- [Update documentation for onramp monolithic repo instead of using git sub-modules](https://github.com/opennetworkinglab/aether-docs/pull/76) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(2 days ago)*
 
 
 
