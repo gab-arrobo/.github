@@ -8,22 +8,22 @@ through open-source collaboration, patents, and strategic execution.
 #### 🚀 What I'm currently working on
 
 - **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 day ago)*
 - **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
 - **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(1 day ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(3 days ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(4 days ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(4 days ago)*
-- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(4 days ago)*
-- **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** - Docker build for srsRAN *(5 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 day ago)*
+- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(5 days ago)*
+- **[opennetworkinglab/aether-ueransim](https://github.com/opennetworkinglab/aether-ueransim)** - Aether UERANSIM *(6 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.25](https://github.com/omec-project/.github/releases/tag/v0.0.25)) -  *(today)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.3.2](https://github.com/omec-project/upf/releases/tag/v2.3.2)) - 4G/5G Mobile Core User Plane *(3 days ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** ([v3.1.1](https://github.com/omec-project/smf/releases/tag/v3.1.1)) -  *(3 days ago)*
-- **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** ([v0.7.0](https://github.com/opennetworkinglab/srsRAN-docker/releases/tag/v0.7.0)) - Docker build for srsRAN *(5 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.4.0](https://github.com/omec-project/upf/releases/tag/v2.4.0)) - 4G/5G Mobile Core User Plane *(today)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.26](https://github.com/omec-project/.github/releases/tag/v0.0.26)) -  *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** ([v3.1.1](https://github.com/omec-project/smf/releases/tag/v3.1.1)) -  *(4 days ago)*
+- **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** ([v0.7.0](https://github.com/opennetworkinglab/srsRAN-docker/releases/tag/v0.7.0)) - Docker build for srsRAN *(6 days ago)*
 - **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.3](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.3)) - PFCP client simulator used for UPF testing *(3 weeks ago)*
 - **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.7.2](https://github.com/omec-project/sctplb/releases/tag/v1.7.2)) - SCTP Load Balancer *(3 weeks ago)*
 - **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.8.4](https://github.com/omec-project/nas/releases/tag/v1.8.4)) -  *(1 month ago)*
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Fix issue with processing 5gc-sdcore-values file](https://github.com/omec-project/.github/pull/158) on **[omec-project/.github](https://github.com/omec-project/.github)** *(today)*
-- [Fix issue with Helm due to conflicting versions](https://github.com/omec-project/.github/pull/156) on **[omec-project/.github](https://github.com/omec-project/.github)** *(today)*
-- [Fix E2E test action due to changes in OnRamp](https://github.com/omec-project/.github/pull/154) on **[omec-project/.github](https://github.com/omec-project/.github)** *(today)*
-- [Test srsRAN action](https://github.com/opennetworkinglab/aether-onramp/pull/167) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
-- [Update E2E test action to use latest OnRamp version](https://github.com/omec-project/.github/pull/152) on **[omec-project/.github](https://github.com/omec-project/.github)** *(1 day ago)*
-- [Documentation: Remove reference to UERANSIM from the workflows](https://github.com/opennetworkinglab/aether-docs/pull/81) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
-- [Refactor workflows based on SD-Core E2E workflow/test](https://github.com/opennetworkinglab/aether-onramp/pull/166) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
-- [Refactor workflows to avoid duplication and improve maintainability](https://github.com/opennetworkinglab/aether-docs/pull/80) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
+- [Use newer SD-Core Helm Charts version](https://github.com/opennetworkinglab/aether-onramp/pull/171) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(today)*
+- [Enable Onramp to work with proxy (if/when needed)](https://github.com/opennetworkinglab/aether-onramp/pull/170) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(today)*
+- [Enable Onramp to work with proxy, if needed](https://github.com/opennetworkinglab/aether-docs/pull/83) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(today)*
+- [Use new PFCP image name](https://github.com/omec-project/sdcore-helm-charts/pull/130) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 day ago)*
+- [Some minor formatting changes](https://github.com/omec-project/smf/pull/539) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Use `command` instead of `shell` in Ansible tasks](https://github.com/opennetworkinglab/aether-onramp/pull/169) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
+- [Improve Docker installation process by following steps of Docker official documentation](https://github.com/opennetworkinglab/aether-docs/pull/82) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
+- [Improve Docker installation process by following steps of Docker offi…](https://github.com/opennetworkinglab/aether-onramp/pull/168) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
 
 
 
