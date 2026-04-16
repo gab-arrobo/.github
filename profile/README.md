@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(today)*
-- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(1 day ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(2 days ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(2 days ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(2 days ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(2 days ago)*
+- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** - Metric Function *(today)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(today)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(today)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(today)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(today)*
+- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(today)*
+- **[omec-project/aether-pod-init](https://github.com/omec-project/aether-pod-init)** -  *(today)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(today)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.4.0](https://github.com/omec-project/upf/releases/tag/v2.4.0)) - 4G/5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.26](https://github.com/omec-project/.github/releases/tag/v0.0.26)) -  *(2 days ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** ([v3.1.1](https://github.com/omec-project/smf/releases/tag/v3.1.1)) -  *(5 days ago)*
-- **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** ([v0.7.0](https://github.com/opennetworkinglab/srsRAN-docker/releases/tag/v0.7.0)) - Docker build for srsRAN *(1 week ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.4.3](https://github.com/omec-project/pfcpsim/releases/tag/v1.4.3)) - PFCP client simulator used for UPF testing *(3 weeks ago)*
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.7.2](https://github.com/omec-project/sctplb/releases/tag/v1.7.2)) - SCTP Load Balancer *(4 weeks ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.8.4](https://github.com/omec-project/nas/releases/tag/v1.8.4)) -  *(1 month ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.2](https://github.com/omec-project/util/releases/tag/v1.7.2)) -  *(1 month ago)*
+- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.1.2](https://github.com/omec-project/upfadapter/releases/tag/v2.1.2)) -  *(today)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.4.1](https://github.com/omec-project/upf/releases/tag/v2.4.1)) - 4G/5G Mobile Core User Plane *(today)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** ([v2.1.2](https://github.com/omec-project/udm/releases/tag/v2.1.2)) -  *(today)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v2.1.2](https://github.com/omec-project/webconsole/releases/tag/v2.1.2)) -  *(today)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** ([v3.1.2](https://github.com/omec-project/smf/releases/tag/v3.1.2)) -  *(today)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** ([v2.1.1](https://github.com/omec-project/udr/releases/tag/v2.1.1)) -  *(today)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.7.3](https://github.com/omec-project/simapp/releases/tag/v1.7.3)) - Sim subscription app for Aether *(today)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.7.3](https://github.com/omec-project/sctplb/releases/tag/v1.7.3)) - SCTP Load Balancer *(today)*
 
 #### 🔧 Recent Pull Requests
 
-- [Fix ran_subnet issue that got introduced during the refactoring](https://github.com/opennetworkinglab/aether-onramp/pull/173) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(today)*
-- [make several improvements to building process](https://github.com/omec-project/webconsole/pull/494) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(today)*
-- [make several improvements to building process](https://github.com/omec-project/upfadapter/pull/85) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(today)*
-- [make several improvements to building process](https://github.com/omec-project/upf/pull/1109) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
-- [make several improvements to building process](https://github.com/omec-project/udr/pull/291) on **[omec-project/udr](https://github.com/omec-project/udr)** *(today)*
-- [make several improvements to building process](https://github.com/omec-project/udm/pull/315) on **[omec-project/udm](https://github.com/omec-project/udm)** *(today)*
-- [make several improvements to building process](https://github.com/omec-project/ausf/pull/274) on **[omec-project/ausf](https://github.com/omec-project/ausf)** *(today)*
-- [make several improvements to building process](https://github.com/omec-project/smf/pull/540) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
+- [Update Rancher version](https://github.com/opennetworkinglab/aether-onramp/pull/187) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(today)*
+- [Update image version for n3iwf](https://github.com/opennetworkinglab/aether-docs/pull/87) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(today)*
+- [Update image version for n3iwf](https://github.com/opennetworkinglab/aether-onramp/pull/186) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(today)*
+- [Add amp prefix to follow the same pattern as in the other blueprints](https://github.com/opennetworkinglab/aether-docs/pull/86) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(today)*
+- [Add amp prefix to follow the same pattern as in the other blueprints](https://github.com/opennetworkinglab/aether-onramp/pull/185) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(today)*
+- [Create patch release](https://github.com/omec-project/simapp/pull/232) on **[omec-project/simapp](https://github.com/omec-project/simapp)** *(today)*
+- [Create patch release](https://github.com/omec-project/webconsole/pull/495) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(today)*
+- [Create patch release](https://github.com/omec-project/upfadapter/pull/87) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(today)*
 
 
 
