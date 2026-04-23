@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** -  *(1 day ago)*
-- **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** - Dockerfile that incorporates and packages K8S CNI plugins used in OMEC *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 day ago)*
+- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(1 day ago)*
 - **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 day ago)*
+- **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** - Dockerfile that incorporates and packages K8S CNI plugins used in OMEC *(2 days ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(2 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(2 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(2 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v1.9.0](https://github.com/omec-project/gnbsim/releases/tag/v1.9.0)) - gNB simulator *(today)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v2.2.0](https://github.com/omec-project/amf/releases/tag/v2.2.0)) -  *(1 day ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.9.0](https://github.com/omec-project/nas/releases/tag/v1.9.0)) -  *(1 day ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v1.9.0](https://github.com/omec-project/ngap/releases/tag/v1.9.0)) -  *(1 day ago)*
-- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.1.2](https://github.com/omec-project/upfadapter/releases/tag/v2.1.2)) -  *(6 days ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.4.1](https://github.com/omec-project/upf/releases/tag/v2.4.1)) - 4G/5G Mobile Core User Plane *(6 days ago)*
-- **[omec-project/udm](https://github.com/omec-project/udm)** ([v2.1.2](https://github.com/omec-project/udm/releases/tag/v2.1.2)) -  *(6 days ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v2.1.2](https://github.com/omec-project/webconsole/releases/tag/v2.1.2)) -  *(6 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v2.2.1](https://github.com/omec-project/amf/releases/tag/v2.2.1)) -  *(1 day ago)*
+- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v1.9.0](https://github.com/omec-project/gnbsim/releases/tag/v1.9.0)) - gNB simulator *(1 day ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.9.0](https://github.com/omec-project/nas/releases/tag/v1.9.0)) -  *(2 days ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v1.9.0](https://github.com/omec-project/ngap/releases/tag/v1.9.0)) -  *(2 days ago)*
+- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.1.2](https://github.com/omec-project/upfadapter/releases/tag/v2.1.2)) -  *(1 week ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.4.1](https://github.com/omec-project/upf/releases/tag/v2.4.1)) - 4G/5G Mobile Core User Plane *(1 week ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** ([v2.1.2](https://github.com/omec-project/udm/releases/tag/v2.1.2)) -  *(1 week ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v2.1.2](https://github.com/omec-project/webconsole/releases/tag/v2.1.2)) -  *(1 week ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Update dependencies and address incompatibilities](https://github.com/omec-project/gnbsim/pull/458) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(today)*
-- [Add newly required permission for score analysis](https://github.com/omec-project/webconsole/pull/498) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
-- [Add newly required permission for score analysis](https://github.com/omec-project/util/pull/258) on **[omec-project/util](https://github.com/omec-project/util)** *(1 day ago)*
-- [Rename file and add newly required permission for score analysis](https://github.com/omec-project/upfadapter/pull/90) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(1 day ago)*
-- [Add newly required permission for score analysis](https://github.com/omec-project/upf/pull/1116) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
-- [Add newly required permission for score analysis](https://github.com/omec-project/udr/pull/295) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
-- [Add newly required permission for score analysis](https://github.com/omec-project/udm/pull/319) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
-- [Add newly required permission for score analysis](https://github.com/omec-project/smf/pull/544) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Unify 5GC certs under a shared CA and mount it across control-plane pods](https://github.com/omec-project/sdcore-helm-charts/pull/135) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(today)*
+- [Use latest SD-Core helm charts and gnbsim image](https://github.com/opennetworkinglab/aether-onramp/pull/192) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
+- [Make several improvements to UPF helm charts](https://github.com/omec-project/sdcore-helm-charts/pull/134) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 day ago)*
+- [Install Ansible via apt](https://github.com/opennetworkinglab/aether-docs/pull/88) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
+- [Install Ansible via apt](https://github.com/opennetworkinglab/aether-onramp/pull/191) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
+- [Update tag version for the different images](https://github.com/omec-project/sdcore-helm-charts/pull/133) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 day ago)*
+- [Create patch release](https://github.com/omec-project/amf/pull/668) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [Update dependencies and address incompatibilities](https://github.com/omec-project/gnbsim/pull/458) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(1 day ago)*
 
 
 
