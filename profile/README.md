@@ -7,23 +7,23 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(2 days ago)*
-- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(4 days ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(4 days ago)*
-- **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** - Dockerfile that incorporates and packages K8S CNI plugins used in Aether SD-Core (UPF in DPDK mode) *(5 days ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(5 days ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(5 days ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(5 days ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(2 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(3 days ago)*
+- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(5 days ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(5 days ago)*
+- **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** - Dockerfile that incorporates and packages K8S CNI plugins used in Aether SD-Core (UPF in DPDK mode) *(6 days ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(6 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(6 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(6 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v2.2.2](https://github.com/omec-project/amf/releases/tag/v2.2.2)) -  *(1 day ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v1.9.0](https://github.com/omec-project/gnbsim/releases/tag/v1.9.0)) - gNB simulator *(4 days ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.9.0](https://github.com/omec-project/nas/releases/tag/v1.9.0)) -  *(5 days ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v1.9.0](https://github.com/omec-project/ngap/releases/tag/v1.9.0)) -  *(5 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v2.2.2](https://github.com/omec-project/amf/releases/tag/v2.2.2)) -  *(2 days ago)*
+- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v1.9.0](https://github.com/omec-project/gnbsim/releases/tag/v1.9.0)) - gNB simulator *(5 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.9.0](https://github.com/omec-project/nas/releases/tag/v1.9.0)) -  *(6 days ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v1.9.0](https://github.com/omec-project/ngap/releases/tag/v1.9.0)) -  *(6 days ago)*
 - **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.1.2](https://github.com/omec-project/upfadapter/releases/tag/v2.1.2)) -  *(1 week ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.4.1](https://github.com/omec-project/upf/releases/tag/v2.4.1)) - 4G/5G Mobile Core User Plane *(1 week ago)*
 - **[omec-project/udm](https://github.com/omec-project/udm)** ([v2.1.2](https://github.com/omec-project/udm/releases/tag/v2.1.2)) -  *(1 week ago)*
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Make task to fail when summary is empty](https://github.com/opennetworkinglab/aether-onramp/pull/197) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
-- [Avoid nil crash by snapshotting RegistrationRequest in mobility update](https://github.com/omec-project/amf/pull/686) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
-- [Reduce copy time by ignoring .git directory](https://github.com/opennetworkinglab/aether-onramp/pull/196) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(2 days ago)*
-- [Add GHA for OCUDU (and remove duplicated log collection)](https://github.com/opennetworkinglab/aether-onramp/pull/195) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(3 days ago)*
-- [Unify 5GC certs under a shared CA and mount it across control-plane pods](https://github.com/omec-project/sdcore-helm-charts/pull/135) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(3 days ago)*
-- [Use latest SD-Core helm charts and gnbsim image](https://github.com/opennetworkinglab/aether-onramp/pull/192) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(4 days ago)*
-- [Make several improvements to UPF helm charts](https://github.com/omec-project/sdcore-helm-charts/pull/134) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(4 days ago)*
-- [Install Ansible via apt](https://github.com/opennetworkinglab/aether-docs/pull/88) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(4 days ago)*
+- [Make task to fail when summary is empty](https://github.com/opennetworkinglab/aether-onramp/pull/197) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(2 days ago)*
+- [Avoid nil crash by snapshotting RegistrationRequest in mobility update](https://github.com/omec-project/amf/pull/686) on **[omec-project/amf](https://github.com/omec-project/amf)** *(2 days ago)*
+- [Reduce copy time by ignoring .git directory](https://github.com/opennetworkinglab/aether-onramp/pull/196) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(3 days ago)*
+- [Add GHA for OCUDU (and remove duplicated log collection)](https://github.com/opennetworkinglab/aether-onramp/pull/195) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(4 days ago)*
+- [Unify 5GC certs under a shared CA and mount it across control-plane pods](https://github.com/omec-project/sdcore-helm-charts/pull/135) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(4 days ago)*
+- [Use latest SD-Core helm charts and gnbsim image](https://github.com/opennetworkinglab/aether-onramp/pull/192) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(5 days ago)*
+- [Make several improvements to UPF helm charts](https://github.com/omec-project/sdcore-helm-charts/pull/134) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(5 days ago)*
+- [Install Ansible via apt](https://github.com/opennetworkinglab/aether-docs/pull/88) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(5 days ago)*
 
 
 
