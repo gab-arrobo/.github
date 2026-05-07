@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 day ago)*
-- **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** - Docker build for srsRAN *(1 day ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(2 days ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(5 days ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(6 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 week ago)*
-- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(2 weeks ago)*
-- **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** - Dockerfile that incorporates and packages K8S CNI plugins used in Aether SD-Core (UPF in DPDK mode) *(2 weeks ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 day ago)*
+- **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** - Dockerfile that incorporates and packages K8S CNI plugins used in Aether SD-Core (UPF in DPDK mode) *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 day ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(1 day ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[opennetworkinglab/srsRAN-docker](https://github.com/opennetworkinglab/srsRAN-docker)** ([v0.8.0](https://github.com/opennetworkinglab/srsRAN-docker/releases/tag/v0.8.0)) - Docker build for srsRAN *(1 day ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v1.9.1](https://github.com/omec-project/ngap/releases/tag/v1.9.1)) -  *(6 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v2.2.2](https://github.com/omec-project/amf/releases/tag/v2.2.2)) -  *(1 week ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v1.9.0](https://github.com/omec-project/gnbsim/releases/tag/v1.9.0)) - gNB simulator *(2 weeks ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.9.0](https://github.com/omec-project/nas/releases/tag/v1.9.0)) -  *(2 weeks ago)*
-- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.1.2](https://github.com/omec-project/upfadapter/releases/tag/v2.1.2)) -  *(2 weeks ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.4.1](https://github.com/omec-project/upf/releases/tag/v2.4.1)) - 4G/5G Mobile Core User Plane *(2 weeks ago)*
-- **[omec-project/udm](https://github.com/omec-project/udm)** ([v2.1.2](https://github.com/omec-project/udm/releases/tag/v2.1.2)) -  *(2 weeks ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.0.0](https://github.com/omec-project/openapi/releases/tag/v2.0.0)) -  *(today)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v1.9.2](https://github.com/omec-project/ngap/releases/tag/v1.9.2)) -  *(today)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.9.1](https://github.com/omec-project/nas/releases/tag/v1.9.1)) -  *(today)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.3](https://github.com/omec-project/util/releases/tag/v1.7.3)) -  *(today)*
+- **[omec-project/aether-pod-init](https://github.com/omec-project/aether-pod-init)** ([v1.2.3](https://github.com/omec-project/aether-pod-init/releases/tag/v1.2.3)) -  *(today)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v2.2.3](https://github.com/omec-project/amf/releases/tag/v2.2.3)) -  *(today)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** ([v2.1.2](https://github.com/omec-project/ausf/releases/tag/v2.1.2)) -  *(today)*
+- **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** ([v1.3.1](https://github.com/omec-project/aether-cni/releases/tag/v1.3.1)) - Dockerfile that incorporates and packages K8S CNI plugins used in Aether SD-Core (UPF in DPDK mode) *(today)*
 
 #### 🔧 Recent Pull Requests
 
-- [Verify kubeconfig after bootstrap](https://github.com/opennetworkinglab/aether-onramp/pull/207) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(2 days ago)*
-- [Remove duplicated Dependabot package updates](https://github.com/omec-project/upf/pull/1125) on **[omec-project/upf](https://github.com/omec-project/upf)** *(5 days ago)*
-- [Validate that gnbsim container is running before running tests](https://github.com/opennetworkinglab/aether-onramp/pull/201) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 week ago)*
-- [improve logic for ping_target](https://github.com/opennetworkinglab/aether-onramp/pull/200) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 week ago)*
-- [Update installed package and remove unused make target](https://github.com/opennetworkinglab/aether-onramp/pull/199) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 week ago)*
-- [Make task to fail when summary is empty](https://github.com/opennetworkinglab/aether-onramp/pull/197) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 week ago)*
-- [Avoid nil crash by snapshotting RegistrationRequest in mobility update](https://github.com/omec-project/amf/pull/686) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 week ago)*
-- [Reduce copy time by ignoring .git directory](https://github.com/opennetworkinglab/aether-onramp/pull/196) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 week ago)*
+- [Create new models, APIs, callbacks and other aux files](https://github.com/omec-project/openapi/pull/147) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
+- [Create patch release before 3GPP release upgrade](https://github.com/omec-project/sctplb/pull/242) on **[omec-project/sctplb](https://github.com/omec-project/sctplb)** *(today)*
+- [Create patch release before 3GPP release upgrade](https://github.com/omec-project/webconsole/pull/502) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(today)*
+- [Create patch release before 3GPP release upgrade](https://github.com/omec-project/upfadapter/pull/93) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(today)*
+- [Create patch release before 3GPP release upgrade](https://github.com/omec-project/upf/pull/1128) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
+- [Create patch release before 3GPP release upgrade](https://github.com/omec-project/udr/pull/299) on **[omec-project/udr](https://github.com/omec-project/udr)** *(today)*
+- [Create patch release before 3GPP release upgrade](https://github.com/omec-project/udm/pull/323) on **[omec-project/udm](https://github.com/omec-project/udm)** *(today)*
+- [Create patch release before 3GPP release upgrade](https://github.com/omec-project/smf/pull/553) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
 
 
 
