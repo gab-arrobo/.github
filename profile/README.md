@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 day ago)*
-- **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** - Dockerfile that incorporates and packages K8S CNI plugins used in Aether SD-Core (UPF in DPDK mode) *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 day ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(1 day ago)*
 - **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(1 day ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 day ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(2 days ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(2 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(2 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(2 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(2 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.0.0](https://github.com/omec-project/openapi/releases/tag/v2.0.0)) -  *(today)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v1.9.2](https://github.com/omec-project/ngap/releases/tag/v1.9.2)) -  *(today)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v1.9.1](https://github.com/omec-project/nas/releases/tag/v1.9.1)) -  *(today)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.3](https://github.com/omec-project/util/releases/tag/v1.7.3)) -  *(today)*
-- **[omec-project/aether-pod-init](https://github.com/omec-project/aether-pod-init)** ([v1.2.3](https://github.com/omec-project/aether-pod-init/releases/tag/v1.2.3)) -  *(today)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v2.2.3](https://github.com/omec-project/amf/releases/tag/v2.2.3)) -  *(today)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** ([v2.1.2](https://github.com/omec-project/ausf/releases/tag/v2.1.2)) -  *(today)*
-- **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** ([v1.3.1](https://github.com/omec-project/aether-cni/releases/tag/v1.3.1)) - Dockerfile that incorporates and packages K8S CNI plugins used in Aether SD-Core (UPF in DPDK mode) *(today)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.0.0](https://github.com/omec-project/nas/releases/tag/v2.0.0)) -  *(today)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.0.0](https://github.com/omec-project/ngap/releases/tag/v2.0.0)) -  *(today)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.0.0](https://github.com/omec-project/openapi/releases/tag/v2.0.0)) -  *(1 day ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.3](https://github.com/omec-project/util/releases/tag/v1.7.3)) -  *(1 day ago)*
+- **[omec-project/aether-pod-init](https://github.com/omec-project/aether-pod-init)** ([v1.2.3](https://github.com/omec-project/aether-pod-init/releases/tag/v1.2.3)) -  *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v2.2.3](https://github.com/omec-project/amf/releases/tag/v2.2.3)) -  *(1 day ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** ([v2.1.2](https://github.com/omec-project/ausf/releases/tag/v2.1.2)) -  *(1 day ago)*
+- **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** ([v1.3.1](https://github.com/omec-project/aether-cni/releases/tag/v1.3.1)) - Dockerfile that incorporates and packages K8S CNI plugins used in Aether SD-Core (UPF in DPDK mode) *(1 day ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Create new models, APIs, callbacks and other aux files](https://github.com/omec-project/openapi/pull/147) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
-- [Create patch release before 3GPP release upgrade](https://github.com/omec-project/sctplb/pull/242) on **[omec-project/sctplb](https://github.com/omec-project/sctplb)** *(today)*
-- [Create patch release before 3GPP release upgrade](https://github.com/omec-project/webconsole/pull/502) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(today)*
-- [Create patch release before 3GPP release upgrade](https://github.com/omec-project/upfadapter/pull/93) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(today)*
-- [Create patch release before 3GPP release upgrade](https://github.com/omec-project/upf/pull/1128) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
-- [Create patch release before 3GPP release upgrade](https://github.com/omec-project/udr/pull/299) on **[omec-project/udr](https://github.com/omec-project/udr)** *(today)*
-- [Create patch release before 3GPP release upgrade](https://github.com/omec-project/udm/pull/323) on **[omec-project/udm](https://github.com/omec-project/udm)** *(today)*
-- [Create patch release before 3GPP release upgrade](https://github.com/omec-project/smf/pull/553) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
+- [Changes for release 18 upgrade](https://github.com/omec-project/nas/pull/186) on **[omec-project/nas](https://github.com/omec-project/nas)** *(1 day ago)*
+- [Changes for release 18 upgrade](https://github.com/omec-project/ngap/pull/93) on **[omec-project/ngap](https://github.com/omec-project/ngap)** *(1 day ago)*
+- [Update version](https://github.com/omec-project/openapi/pull/148) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(1 day ago)*
+- [Create new models, APIs, callbacks and other aux files](https://github.com/omec-project/openapi/pull/147) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(1 day ago)*
+- [Create patch release before 3GPP release upgrade](https://github.com/omec-project/sctplb/pull/242) on **[omec-project/sctplb](https://github.com/omec-project/sctplb)** *(1 day ago)*
+- [Create patch release before 3GPP release upgrade](https://github.com/omec-project/webconsole/pull/502) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
+- [Create patch release before 3GPP release upgrade](https://github.com/omec-project/upfadapter/pull/93) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(1 day ago)*
+- [Create patch release before 3GPP release upgrade](https://github.com/omec-project/upf/pull/1128) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
 
 
 
