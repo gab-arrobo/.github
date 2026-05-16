@@ -8,37 +8,37 @@ through open-source collaboration, patents, and strategic execution.
 #### 🚀 What I'm currently working on
 
 - **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(2 days ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(2 days ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(2 days ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(2 days ago)*
-- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(2 days ago)*
-- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** - Metric Function *(3 days ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(6 days ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 day ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(1 day ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 day ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v2.0.0](https://github.com/omec-project/gnbsim/releases/tag/v2.0.0)) - gNB simulator *(2 days ago)*
-- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** ([v2.0.0](https://github.com/omec-project/metricfunc/releases/tag/v2.0.0)) - Metric Function *(3 days ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.0.0](https://github.com/omec-project/nas/releases/tag/v2.0.0)) -  *(6 days ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.0.0](https://github.com/omec-project/ngap/releases/tag/v2.0.0)) -  *(6 days ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.0.0](https://github.com/omec-project/openapi/releases/tag/v2.0.0)) -  *(1 week ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.3](https://github.com/omec-project/util/releases/tag/v1.7.3)) -  *(1 week ago)*
-- **[omec-project/aether-pod-init](https://github.com/omec-project/aether-pod-init)** ([v1.2.3](https://github.com/omec-project/aether-pod-init/releases/tag/v1.2.3)) -  *(1 week ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v2.2.3](https://github.com/omec-project/amf/releases/tag/v2.2.3)) -  *(1 week ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.27](https://github.com/omec-project/.github/releases/tag/v0.0.27)) -  *(1 day ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.0.0](https://github.com/omec-project/udr/releases/tag/v3.0.0)) -  *(1 day ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.0.0](https://github.com/omec-project/webconsole/releases/tag/v3.0.0)) -  *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.0.0](https://github.com/omec-project/smf/releases/tag/v4.0.0)) -  *(1 day ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** ([v3.0.0](https://github.com/omec-project/udm/releases/tag/v3.0.0)) -  *(1 day ago)*
+- **[omec-project/nssf](https://github.com/omec-project/nssf)** ([v3.0.0](https://github.com/omec-project/nssf/releases/tag/v3.0.0)) -  *(1 day ago)*
+- **[omec-project/pcf](https://github.com/omec-project/pcf)** ([v3.0.0](https://github.com/omec-project/pcf/releases/tag/v3.0.0)) -  *(1 day ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** ([v3.0.0](https://github.com/omec-project/nrf/releases/tag/v3.0.0)) -  *(1 day ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Upgrade images to use 3GPP release 18](https://github.com/omec-project/sdcore-helm-charts/pull/138) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 day ago)*
-- [Changes for 3GPP release 18 upgrade](https://github.com/omec-project/webconsole/pull/504) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(6 days ago)*
-- [Changes for 3GPP release 18 upgrade](https://github.com/omec-project/udr/pull/301) on **[omec-project/udr](https://github.com/omec-project/udr)** *(6 days ago)*
-- [Changes for 3GPP release 18 upgrade](https://github.com/omec-project/udm/pull/325) on **[omec-project/udm](https://github.com/omec-project/udm)** *(6 days ago)*
-- [Changes for 3GPP release 18 upgrade](https://github.com/omec-project/smf/pull/555) on **[omec-project/smf](https://github.com/omec-project/smf)** *(6 days ago)*
-- [Changes for 3GPP release 18 upgrade](https://github.com/omec-project/pcf/pull/333) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(6 days ago)*
-- [Changes for 3GPP release 18 upgrade](https://github.com/omec-project/nssf/pull/292) on **[omec-project/nssf](https://github.com/omec-project/nssf)** *(6 days ago)*
-- [Changes for 3GPP release 18 upgrade](https://github.com/omec-project/nrf/pull/328) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(6 days ago)*
+- [Guard stale UE release-complete during handover; harden RanUe attach](https://github.com/omec-project/amf/pull/704) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [Make changes to avoid duplicate `AllowedSnssai`](https://github.com/omec-project/amf/pull/703) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [Consolidate tiny package into main package](https://github.com/omec-project/nssf/pull/299) on **[omec-project/nssf](https://github.com/omec-project/nssf)** *(1 day ago)*
+- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/webconsole/pull/511) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
+- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/util/pull/264) on **[omec-project/util](https://github.com/omec-project/util)** *(1 day ago)*
+- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/upfadapter/pull/97) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(1 day ago)*
+- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/upf/pull/1140) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/udr/pull/307) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
 
 
 
