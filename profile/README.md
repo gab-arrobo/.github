@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(1 day ago)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 day ago)*
 - **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 day ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(1 day ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 day ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(2 days ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(2 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 4G/5G Mobile Core User Plane *(2 days ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(2 days ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(2 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(2 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(2 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.27](https://github.com/omec-project/.github/releases/tag/v0.0.27)) -  *(1 day ago)*
-- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.0.0](https://github.com/omec-project/udr/releases/tag/v3.0.0)) -  *(1 day ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.0.0](https://github.com/omec-project/webconsole/releases/tag/v3.0.0)) -  *(1 day ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.0.0](https://github.com/omec-project/smf/releases/tag/v4.0.0)) -  *(1 day ago)*
-- **[omec-project/udm](https://github.com/omec-project/udm)** ([v3.0.0](https://github.com/omec-project/udm/releases/tag/v3.0.0)) -  *(1 day ago)*
-- **[omec-project/nssf](https://github.com/omec-project/nssf)** ([v3.0.0](https://github.com/omec-project/nssf/releases/tag/v3.0.0)) -  *(1 day ago)*
-- **[omec-project/pcf](https://github.com/omec-project/pcf)** ([v3.0.0](https://github.com/omec-project/pcf/releases/tag/v3.0.0)) -  *(1 day ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** ([v3.0.0](https://github.com/omec-project/nrf/releases/tag/v3.0.0)) -  *(1 day ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.27](https://github.com/omec-project/.github/releases/tag/v0.0.27)) -  *(2 days ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.0.0](https://github.com/omec-project/udr/releases/tag/v3.0.0)) -  *(2 days ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.0.0](https://github.com/omec-project/webconsole/releases/tag/v3.0.0)) -  *(2 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.0.0](https://github.com/omec-project/smf/releases/tag/v4.0.0)) -  *(2 days ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** ([v3.0.0](https://github.com/omec-project/udm/releases/tag/v3.0.0)) -  *(2 days ago)*
+- **[omec-project/nssf](https://github.com/omec-project/nssf)** ([v3.0.0](https://github.com/omec-project/nssf/releases/tag/v3.0.0)) -  *(2 days ago)*
+- **[omec-project/pcf](https://github.com/omec-project/pcf)** ([v3.0.0](https://github.com/omec-project/pcf/releases/tag/v3.0.0)) -  *(2 days ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** ([v3.0.0](https://github.com/omec-project/nrf/releases/tag/v3.0.0)) -  *(2 days ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Guard stale UE release-complete during handover; harden RanUe attach](https://github.com/omec-project/amf/pull/704) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
-- [Make changes to avoid duplicate `AllowedSnssai`](https://github.com/omec-project/amf/pull/703) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
-- [Consolidate tiny package into main package](https://github.com/omec-project/nssf/pull/299) on **[omec-project/nssf](https://github.com/omec-project/nssf)** *(1 day ago)*
-- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/webconsole/pull/511) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
-- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/util/pull/264) on **[omec-project/util](https://github.com/omec-project/util)** *(1 day ago)*
-- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/upfadapter/pull/97) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(1 day ago)*
-- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/upf/pull/1140) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
-- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/udr/pull/307) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
+- [Guard stale UE release-complete during handover; harden RanUe attach](https://github.com/omec-project/amf/pull/704) on **[omec-project/amf](https://github.com/omec-project/amf)** *(2 days ago)*
+- [Make changes to avoid duplicate `AllowedSnssai`](https://github.com/omec-project/amf/pull/703) on **[omec-project/amf](https://github.com/omec-project/amf)** *(2 days ago)*
+- [Consolidate tiny package into main package](https://github.com/omec-project/nssf/pull/299) on **[omec-project/nssf](https://github.com/omec-project/nssf)** *(2 days ago)*
+- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/webconsole/pull/511) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(2 days ago)*
+- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/util/pull/264) on **[omec-project/util](https://github.com/omec-project/util)** *(2 days ago)*
+- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/upfadapter/pull/97) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(2 days ago)*
+- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/upf/pull/1140) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
+- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/udr/pull/307) on **[omec-project/udr](https://github.com/omec-project/udr)** *(2 days ago)*
 
 
 
