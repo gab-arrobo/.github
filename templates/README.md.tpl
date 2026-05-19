@@ -64,6 +64,6 @@ Temporarily hiding this section:
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
 ---
-*This README is automatically updated using [readme-scribe](https://github.com/muesli/readme-scribe)*
+*This README is automatically generated from this template using [markscribe](https://github.com/muesli/markscribe) via GitHub Actions.*
 
 <!-- comments will be preserved -->

@@ -25,12 +25,29 @@ jobs:
           fetch-depth: 0
 
       - name: Generate README
-        uses: muesli/readme-scribe@v0.1
         env:
           GITHUB_TOKEN: ${{ secrets.README_TOKEN }}
-        with:
-          template: "templates/README.md.tpl"
-          writeTo: "profile/README.md"
+        shell: bash
+        run: |
+          attempts=3
+
+          for attempt in $(seq 1 "$attempts"); do
+            if docker run --rm \
+              -e GITHUB_TOKEN \
+              -v "$PWD:/github/workspace" \
+              -w /github/workspace \
+              fribbledom/markscribe \
+              -write profile/README.md templates/README.md.tpl; then
+              exit 0
+            fi
+
+            if [[ "$attempt" -lt "$attempts" ]]; then
+              echo "markscribe failed on attempt $attempt/$attempts; retrying..."
+            fi
+          done
+
+          echo "markscribe failed after $attempts attempts"
+          exit 1
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
