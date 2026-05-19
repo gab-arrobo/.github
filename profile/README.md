@@ -31,6 +31,7 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
+- [Add missing setting to improve OCUDU gnb performance](https://github.com/opennetworkinglab/aether-onramp/pull/215) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(today)*
 - [Guard stale UE release-complete during handover; harden RanUe attach](https://github.com/omec-project/amf/pull/704) on **[omec-project/amf](https://github.com/omec-project/amf)** *(4 days ago)*
 - [Make changes to avoid duplicate `AllowedSnssai`](https://github.com/omec-project/amf/pull/703) on **[omec-project/amf](https://github.com/omec-project/amf)** *(4 days ago)*
 - [Consolidate tiny package into main package](https://github.com/omec-project/nssf/pull/299) on **[omec-project/nssf](https://github.com/omec-project/nssf)** *(4 days ago)*
@@ -38,7 +39,6 @@ through open-source collaboration, patents, and strategic execution.
 - [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/util/pull/264) on **[omec-project/util](https://github.com/omec-project/util)** *(4 days ago)*
 - [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/upfadapter/pull/97) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(4 days ago)*
 - [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/upf/pull/1140) on **[omec-project/upf](https://github.com/omec-project/upf)** *(4 days ago)*
-- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/udr/pull/307) on **[omec-project/udr](https://github.com/omec-project/udr)** *(4 days ago)*
 
 
 
