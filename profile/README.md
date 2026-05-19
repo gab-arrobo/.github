@@ -53,7 +53,7 @@ through open-source collaboration, patents, and strategic execution.
 ---
 
 #### 📊 GitHub Stats
-![Your GitHub Stats](./stats.svg)
+![Your GitHub Stats](profile/stats.svg)
 
 #### 🛠️ Technologies & Tools
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
