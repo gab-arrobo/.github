@@ -44,7 +44,7 @@ Temporarily hiding this section:
 ---
 
 #### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gab-arrobo&show_icons=true&theme=radical)
+![Your GitHub Stats](./stats.svg)
 
 #### 🛠️ Technologies & Tools
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)

@@ -4,8 +4,10 @@ on:
   push:
     branches:
       - main
-    paths-ignore: # Don't run if only README was updated (avoid infinite loops)
+    paths-ignore: # Don't run if only generated artifacts were updated
       - 'README.md'
+      - 'profile/README.md'
+      - 'profile/stats.svg'
   schedule:
     - cron: "0 8 * * *"
   workflow_dispatch: # Allow manual triggering
@@ -23,7 +25,7 @@ jobs:
           fetch-depth: 0
 
       - name: Generate README
-        uses: muesli/readme-scribe@master
+        uses: muesli/readme-scribe@v0.1
         env:
           GITHUB_TOKEN: ${{ secrets.README_TOKEN }}
         with:
