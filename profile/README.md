@@ -7,8 +7,8 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(5 days ago)*
-- **[gab-arrobo/.github](https://github.com/gab-arrobo/.github)** -  *(5 days ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(6 days ago)*
+- **[gab-arrobo/.github](https://github.com/gab-arrobo/.github)** -  *(6 days ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** -  *(1 week ago)*
 - **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 week ago)*
 - **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(1 week ago)*
@@ -31,7 +31,7 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Add missing setting to improve OCUDU gnb performance](https://github.com/opennetworkinglab/aether-onramp/pull/215) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(5 days ago)*
+- [Add missing setting to improve OCUDU gnb performance](https://github.com/opennetworkinglab/aether-onramp/pull/215) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(6 days ago)*
 - [Guard stale UE release-complete during handover; harden RanUe attach](https://github.com/omec-project/amf/pull/704) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 week ago)*
 - [Make changes to avoid duplicate `AllowedSnssai`](https://github.com/omec-project/amf/pull/703) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 week ago)*
 - [Consolidate tiny package into main package](https://github.com/omec-project/nssf/pull/299) on **[omec-project/nssf](https://github.com/omec-project/nssf)** *(1 week ago)*
