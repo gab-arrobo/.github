@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(6 days ago)*
-- **[gab-arrobo/.github](https://github.com/gab-arrobo/.github)** -  *(6 days ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 week ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 week ago)*
-- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(1 week ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 week ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 week ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 week ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 day ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(2 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(2 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(2 days ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(2 days ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(2 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(2 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(2 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.27](https://github.com/omec-project/.github/releases/tag/v0.0.27)) -  *(1 week ago)*
-- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.0.0](https://github.com/omec-project/udr/releases/tag/v3.0.0)) -  *(1 week ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.0.0](https://github.com/omec-project/webconsole/releases/tag/v3.0.0)) -  *(1 week ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.0.0](https://github.com/omec-project/smf/releases/tag/v4.0.0)) -  *(1 week ago)*
-- **[omec-project/udm](https://github.com/omec-project/udm)** ([v3.0.0](https://github.com/omec-project/udm/releases/tag/v3.0.0)) -  *(1 week ago)*
-- **[omec-project/nssf](https://github.com/omec-project/nssf)** ([v3.0.0](https://github.com/omec-project/nssf/releases/tag/v3.0.0)) -  *(1 week ago)*
-- **[omec-project/pcf](https://github.com/omec-project/pcf)** ([v3.0.0](https://github.com/omec-project/pcf/releases/tag/v3.0.0)) -  *(1 week ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** ([v3.0.0](https://github.com/omec-project/nrf/releases/tag/v3.0.0)) -  *(1 week ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v4.0.1](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v4.0.1)) - Helm charts used for SD-Core packaging *(2 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.4.3](https://github.com/omec-project/upf/releases/tag/v2.4.3)) - 5G Mobile Core User Plane *(2 days ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** ([v2.3.0](https://github.com/opennetworkinglab/aether-onramp/releases/tag/v2.3.0)) -  *(4 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.27](https://github.com/omec-project/.github/releases/tag/v0.0.27)) -  *(2 weeks ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.0.0](https://github.com/omec-project/udr/releases/tag/v3.0.0)) -  *(2 weeks ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.0.0](https://github.com/omec-project/webconsole/releases/tag/v3.0.0)) -  *(2 weeks ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.0.0](https://github.com/omec-project/smf/releases/tag/v4.0.0)) -  *(2 weeks ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** ([v3.0.0](https://github.com/omec-project/udm/releases/tag/v3.0.0)) -  *(2 weeks ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Add missing setting to improve OCUDU gnb performance](https://github.com/opennetworkinglab/aether-onramp/pull/215) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(6 days ago)*
-- [Guard stale UE release-complete during handover; harden RanUe attach](https://github.com/omec-project/amf/pull/704) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 week ago)*
-- [Make changes to avoid duplicate `AllowedSnssai`](https://github.com/omec-project/amf/pull/703) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 week ago)*
-- [Consolidate tiny package into main package](https://github.com/omec-project/nssf/pull/299) on **[omec-project/nssf](https://github.com/omec-project/nssf)** *(1 week ago)*
-- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/webconsole/pull/511) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 week ago)*
-- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/util/pull/264) on **[omec-project/util](https://github.com/omec-project/util)** *(1 week ago)*
-- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/upfadapter/pull/97) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(1 week ago)*
-- [Update pre-commit config file and remove branch creation GHA](https://github.com/omec-project/upf/pull/1140) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 week ago)*
+- [Fix vulnerabilities due to indirect dependencies](https://github.com/omec-project/util/pull/267) on **[omec-project/util](https://github.com/omec-project/util)** *(today)*
+- [Fix vulnerabilities due to indirect dependencies](https://github.com/omec-project/webconsole/pull/516) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(today)*
+- [Fix vulnerabilities due to indirect dependencies](https://github.com/omec-project/upf/pull/1149) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
+- [Fix vulnerabilities due to indirect dependencies](https://github.com/omec-project/udr/pull/310) on **[omec-project/udr](https://github.com/omec-project/udr)** *(today)*
+- [Fix vulnerabilities due to indirect dependencies](https://github.com/omec-project/udm/pull/336) on **[omec-project/udm](https://github.com/omec-project/udm)** *(today)*
+- [Fix vulnerabilities due to indirect dependencies](https://github.com/omec-project/smf/pull/564) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
+- [Fix vulnerabilities due to indirect dependencies](https://github.com/omec-project/simapp/pull/250) on **[omec-project/simapp](https://github.com/omec-project/simapp)** *(today)*
+- [Fix vulnerabilities due to indirect dependencies](https://github.com/omec-project/sctplb/pull/253) on **[omec-project/sctplb](https://github.com/omec-project/sctplb)** *(today)*
 
 
 
