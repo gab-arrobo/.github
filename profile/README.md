@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(2 days ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(2 days ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(2 days ago)*
-- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(3 days ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(3 days ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(3 days ago)*
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(4 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(1 day ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(2 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(3 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(3 days ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(3 days ago)*
+- **[omec-project/bess](https://github.com/omec-project/bess)** - BESS: Berkeley Extensible Software Switch, Used to develop 5G NF  UPF (user plane function) *(4 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v4.1.0](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v4.1.0)) - Helm charts used for SD-Core packaging *(3 days ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.1.0](https://github.com/omec-project/smf/releases/tag/v4.1.0)) -  *(3 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.0](https://github.com/omec-project/amf/releases/tag/v3.1.0)) -  *(3 days ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v2.1.0](https://github.com/omec-project/gnbsim/releases/tag/v2.1.0)) - gNB simulator *(3 days ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** ([v1.2.0](https://github.com/omec-project/n3iwf/releases/tag/v1.2.0)) -  *(3 days ago)*
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.8.0](https://github.com/omec-project/sctplb/releases/tag/v1.8.0)) - SCTP Load Balancer *(3 days ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.0](https://github.com/omec-project/ngap/releases/tag/v2.1.0)) -  *(3 days ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.4.3](https://github.com/omec-project/upf/releases/tag/v2.4.3)) - 5G Mobile Core User Plane *(1 week ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.1.0](https://github.com/omec-project/openapi/releases/tag/v2.1.0)) -  *(today)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v4.1.0](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v4.1.0)) - Helm charts used for SD-Core packaging *(4 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.1.0](https://github.com/omec-project/smf/releases/tag/v4.1.0)) -  *(4 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.0](https://github.com/omec-project/amf/releases/tag/v3.1.0)) -  *(4 days ago)*
+- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v2.1.0](https://github.com/omec-project/gnbsim/releases/tag/v2.1.0)) - gNB simulator *(4 days ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** ([v1.2.0](https://github.com/omec-project/n3iwf/releases/tag/v1.2.0)) -  *(4 days ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.8.0](https://github.com/omec-project/sctplb/releases/tag/v1.8.0)) - SCTP Load Balancer *(4 days ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.0](https://github.com/omec-project/ngap/releases/tag/v2.1.0)) -  *(4 days ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Use transactional auth DB writes with retries and add failure logging](https://github.com/omec-project/webconsole/pull/518) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
-- [Wait webui on Mongo and simapp on webui readiness](https://github.com/omec-project/sdcore-helm-charts/pull/150) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 day ago)*
-- [Add GMM snapshot tests and lock NG Setup RAN state reads](https://github.com/omec-project/amf/pull/712) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
-- [Retry Mongo index creation on transient replica-set startup errors](https://github.com/omec-project/webconsole/pull/517) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
-- [Remove default aether.registry imagePullSecret from bess-upf values](https://github.com/omec-project/sdcore-helm-charts/pull/148) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(2 days ago)*
-- [Upgrade codebase to use Ubuntu 26.04](https://github.com/omec-project/upf/pull/1155) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
-- [Fix EAL args aligned to DPDK 25.11 (Ubuntu 26.04)](https://github.com/omec-project/bess/pull/157) on **[omec-project/bess](https://github.com/omec-project/bess)** *(2 days ago)*
-- [Migrate codebase to Ubuntu 26.04](https://github.com/omec-project/bess/pull/156) on **[omec-project/bess](https://github.com/omec-project/bess)** *(2 days ago)*
+- [Add P-CSCF support for IMS](https://github.com/omec-project/openapi/pull/153) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
+- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/openapi/pull/152) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
+- [Improve struct creation and logging](https://github.com/omec-project/smf/pull/569) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Use transactional auth DB writes with retries and add failure logging](https://github.com/omec-project/webconsole/pull/518) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(2 days ago)*
+- [Wait webui on Mongo and simapp on webui readiness](https://github.com/omec-project/sdcore-helm-charts/pull/150) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(2 days ago)*
+- [Add GMM snapshot tests and lock NG Setup RAN state reads](https://github.com/omec-project/amf/pull/712) on **[omec-project/amf](https://github.com/omec-project/amf)** *(2 days ago)*
+- [Retry Mongo index creation on transient replica-set startup errors](https://github.com/omec-project/webconsole/pull/517) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(2 days ago)*
+- [Remove default aether.registry imagePullSecret from bess-upf values](https://github.com/omec-project/sdcore-helm-charts/pull/148) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(3 days ago)*
 
 
 
