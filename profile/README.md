@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(1 day ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(6 days ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(6 days ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(6 days ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 week ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 week ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(3 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(3 days ago)*
+- **[opennetworkinglab/aether-docker-components](https://github.com/opennetworkinglab/aether-docker-components)** - Docker build for srsRAN *(3 days ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(3 days ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(3 days ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(3 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(3 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(3 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.8.0](https://github.com/omec-project/simapp/releases/tag/v1.8.0)) - Sim subscription app for Aether *(today)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.0.1](https://github.com/omec-project/webconsole/releases/tag/v3.0.1)) -  *(1 day ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.1.0](https://github.com/omec-project/openapi/releases/tag/v2.1.0)) -  *(5 days ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.1.1](https://github.com/omec-project/openapi/releases/tag/v2.1.1)) -  *(2 days ago)*
+- **[opennetworkinglab/aether-docker-components](https://github.com/opennetworkinglab/aether-docker-components)** ([v0.8.1](https://github.com/opennetworkinglab/aether-docker-components/releases/tag/v0.8.1)) - Docker build for srsRAN *(3 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.4](https://github.com/omec-project/util/releases/tag/v1.7.4)) -  *(3 days ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.8.0](https://github.com/omec-project/simapp/releases/tag/v1.8.0)) - Sim subscription app for Aether *(3 days ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.0.1](https://github.com/omec-project/webconsole/releases/tag/v3.0.1)) -  *(4 days ago)*
 - **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v4.1.0](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v4.1.0)) - Helm charts used for SD-Core packaging *(1 week ago)*
 - **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.1.0](https://github.com/omec-project/smf/releases/tag/v4.1.0)) -  *(1 week ago)*
 - **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.0](https://github.com/omec-project/amf/releases/tag/v3.1.0)) -  *(1 week ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v2.1.0](https://github.com/omec-project/gnbsim/releases/tag/v2.1.0)) - gNB simulator *(1 week ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** ([v1.2.0](https://github.com/omec-project/n3iwf/releases/tag/v1.2.0)) -  *(1 week ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Enable PCSCF configuration](https://github.com/omec-project/simapp/pull/252) on **[omec-project/simapp](https://github.com/omec-project/simapp)** *(today)*
-- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/amf/pull/715) on **[omec-project/amf](https://github.com/omec-project/amf)** *(today)*
-- [Enable configuration of P-CSCF through API (simapp)](https://github.com/omec-project/webconsole/pull/520) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
-- [Add P-CSCF support for IMS](https://github.com/omec-project/openapi/pull/153) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(5 days ago)*
-- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/openapi/pull/152) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(5 days ago)*
-- [Improve struct creation and logging](https://github.com/omec-project/smf/pull/569) on **[omec-project/smf](https://github.com/omec-project/smf)** *(6 days ago)*
-- [Use transactional auth DB writes with retries and add failure logging](https://github.com/omec-project/webconsole/pull/518) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 week ago)*
-- [Wait webui on Mongo and simapp on webui readiness](https://github.com/omec-project/sdcore-helm-charts/pull/150) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 week ago)*
+- [Avoid double-close error and set proper log level](https://github.com/omec-project/amf/pull/722) on **[omec-project/amf](https://github.com/omec-project/amf)** *(2 days ago)*
+- [Create patch release to include LMF and NWDAF models/APIs](https://github.com/omec-project/openapi/pull/156) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(2 days ago)*
+- [Use ApplyLogSetting function to simplify log setting](https://github.com/omec-project/webconsole/pull/522) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(3 days ago)*
+- [Use ApplyLogSetting function to simplify log setting](https://github.com/omec-project/udr/pull/312) on **[omec-project/udr](https://github.com/omec-project/udr)** *(3 days ago)*
+- [Use ApplyLogSetting function to simplify log setting](https://github.com/omec-project/udm/pull/338) on **[omec-project/udm](https://github.com/omec-project/udm)** *(3 days ago)*
+- [Use ApplyLogSetting function to simplify log setting](https://github.com/omec-project/pcf/pull/345) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(3 days ago)*
+- [Use ApplyLogSetting function to simplify log setting](https://github.com/omec-project/nssf/pull/304) on **[omec-project/nssf](https://github.com/omec-project/nssf)** *(3 days ago)*
+- [Use ApplyLogSetting function to simplify log setting](https://github.com/omec-project/nrf/pull/339) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(3 days ago)*
 
 
 
