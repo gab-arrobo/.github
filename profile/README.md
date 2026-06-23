@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(3 days ago)*
-- **[omec-project/nssf](https://github.com/omec-project/nssf)** -  *(3 days ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(3 days ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(4 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(4 days ago)*
-- **[opennetworkinglab/aether-docker-components](https://github.com/opennetworkinglab/aether-docker-components)** - Docker build for srsRAN *(4 days ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(4 days ago)*
-- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(4 days ago)*
+- **[omec-project/nssf](https://github.com/omec-project/nssf)** -  *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(1 day ago)*
+- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(1 day ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 day ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.1.4](https://github.com/omec-project/openapi/releases/tag/v2.1.4)) -  *(2 days ago)*
-- **[opennetworkinglab/aether-docker-components](https://github.com/opennetworkinglab/aether-docker-components)** ([v1.0.0](https://github.com/opennetworkinglab/aether-docker-components/releases/tag/v1.0.0)) - Docker build for srsRAN *(3 days ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.5](https://github.com/omec-project/util/releases/tag/v1.7.5)) -  *(4 days ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.1.4](https://github.com/omec-project/openapi/releases/tag/v2.1.4)) -  *(4 days ago)*
+- **[opennetworkinglab/aether-docker-components](https://github.com/opennetworkinglab/aether-docker-components)** ([v1.0.0](https://github.com/opennetworkinglab/aether-docker-components/releases/tag/v1.0.0)) - Docker build for srsRAN *(5 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.5](https://github.com/omec-project/util/releases/tag/v1.7.5)) -  *(6 days ago)*
 - **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.8.0](https://github.com/omec-project/simapp/releases/tag/v1.8.0)) - Sim subscription app for Aether *(1 week ago)*
 - **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.0.1](https://github.com/omec-project/webconsole/releases/tag/v3.0.1)) -  *(1 week ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v4.1.0](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v4.1.0)) - Helm charts used for SD-Core packaging *(2 weeks ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.1.0](https://github.com/omec-project/smf/releases/tag/v4.1.0)) -  *(2 weeks ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.0](https://github.com/omec-project/amf/releases/tag/v3.1.0)) -  *(2 weeks ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v4.1.0](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v4.1.0)) - Helm charts used for SD-Core packaging *(3 weeks ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.1.0](https://github.com/omec-project/smf/releases/tag/v4.1.0)) -  *(3 weeks ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.0](https://github.com/omec-project/amf/releases/tag/v3.1.0)) -  *(3 weeks ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Enhance problem functions from openapi repo](https://github.com/omec-project/openapi/pull/162) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(3 days ago)*
-- [Fix endpoint issue found during 3GPP release upgrade](https://github.com/omec-project/udm/pull/349) on **[omec-project/udm](https://github.com/omec-project/udm)** *(3 days ago)*
-- [Use problem functions from openapi repo](https://github.com/omec-project/nssf/pull/312) on **[omec-project/nssf](https://github.com/omec-project/nssf)** *(3 days ago)*
-- [Enhance problem functions in openapi repo](https://github.com/omec-project/openapi/pull/160) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(3 days ago)*
-- [Use problem functions from opnapi repo](https://github.com/omec-project/udm/pull/348) on **[omec-project/udm](https://github.com/omec-project/udm)** *(3 days ago)*
-- [Enhance utils with new problem functions to avoid code duplication](https://github.com/omec-project/openapi/pull/158) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(3 days ago)*
-- [Add explicit return to avoid lint issues](https://github.com/omec-project/amf/pull/726) on **[omec-project/amf](https://github.com/omec-project/amf)** *(4 days ago)*
-- [Add explicit return to avoid lint issues](https://github.com/omec-project/smf/pull/580) on **[omec-project/smf](https://github.com/omec-project/smf)** *(4 days ago)*
+- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/smf/pull/585) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
+- [Use problem functions from openapi repo](https://github.com/omec-project/smf/pull/584) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Use problem functions from openapi repo](https://github.com/omec-project/udm/pull/351) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
+- [Use problem functions from openapi repo](https://github.com/omec-project/pcf/pull/356) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(1 day ago)*
+- [Use problem functions from openapi repo](https://github.com/omec-project/nrf/pull/349) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(1 day ago)*
+- [Use problem functions from openapi repo](https://github.com/omec-project/nssf/pull/315) on **[omec-project/nssf](https://github.com/omec-project/nssf)** *(1 day ago)*
+- [Use problem functions from openapi repo](https://github.com/omec-project/ausf/pull/306) on **[omec-project/ausf](https://github.com/omec-project/ausf)** *(1 day ago)*
+- [Use problem functions from openapi repo](https://github.com/omec-project/amf/pull/730) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
 
 
 
