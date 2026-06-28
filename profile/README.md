@@ -7,14 +7,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/nssf](https://github.com/omec-project/nssf)** -  *(1 day ago)*
-- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(1 day ago)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 day ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(1 day ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
-- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(2 days ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(4 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(5 days ago)*
+- **[omec-project/nssf](https://github.com/omec-project/nssf)** -  *(2 days ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(2 days ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(2 days ago)*
+- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(2 days ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(2 days ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(3 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(5 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(6 days ago)*
 
 
 
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/udm/pull/355) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
-- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/udr/pull/323) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
-- [Use problem functions from openapi repo (missing from previous PR)](https://github.com/omec-project/udm/pull/353) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
-- [Problem functions](https://github.com/omec-project/udm/pull/352) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
-- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/nssf/pull/316) on **[omec-project/nssf](https://github.com/omec-project/nssf)** *(2 days ago)*
-- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/nrf/pull/351) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(2 days ago)*
-- [Use accessors (new, get, set) instead of direct field access, when appropriate](https://github.com/omec-project/gnbsim/pull/489) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(2 days ago)*
-- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/ausf/pull/307) on **[omec-project/ausf](https://github.com/omec-project/ausf)** *(2 days ago)*
+- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/udm/pull/355) on **[omec-project/udm](https://github.com/omec-project/udm)** *(2 days ago)*
+- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/udr/pull/323) on **[omec-project/udr](https://github.com/omec-project/udr)** *(2 days ago)*
+- [Use problem functions from openapi repo (missing from previous PR)](https://github.com/omec-project/udm/pull/353) on **[omec-project/udm](https://github.com/omec-project/udm)** *(2 days ago)*
+- [Problem functions](https://github.com/omec-project/udm/pull/352) on **[omec-project/udm](https://github.com/omec-project/udm)** *(2 days ago)*
+- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/nssf/pull/316) on **[omec-project/nssf](https://github.com/omec-project/nssf)** *(3 days ago)*
+- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/nrf/pull/351) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(3 days ago)*
+- [Use accessors (new, get, set) instead of direct field access, when appropriate](https://github.com/omec-project/gnbsim/pull/489) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(3 days ago)*
+- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/ausf/pull/307) on **[omec-project/ausf](https://github.com/omec-project/ausf)** *(3 days ago)*
 
 
 
