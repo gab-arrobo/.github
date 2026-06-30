@@ -7,13 +7,13 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(1 day ago)*
-- **[omec-project/nssf](https://github.com/omec-project/nssf)** -  *(3 days ago)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(3 days ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(3 days ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(3 days ago)*
-- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(4 days ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(6 days ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(2 days ago)*
+- **[omec-project/nssf](https://github.com/omec-project/nssf)** -  *(4 days ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(4 days ago)*
+- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(4 days ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(4 days ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(5 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 week ago)*
 - **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 week ago)*
 
 
@@ -25,20 +25,20 @@ through open-source collaboration, patents, and strategic execution.
 - **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.5](https://github.com/omec-project/util/releases/tag/v1.7.5)) -  *(1 week ago)*
 - **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.8.0](https://github.com/omec-project/simapp/releases/tag/v1.8.0)) - Sim subscription app for Aether *(2 weeks ago)*
 - **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.0.1](https://github.com/omec-project/webconsole/releases/tag/v3.0.1)) -  *(2 weeks ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v4.1.0](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v4.1.0)) - Helm charts used for SD-Core packaging *(3 weeks ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.1.0](https://github.com/omec-project/smf/releases/tag/v4.1.0)) -  *(3 weeks ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.0](https://github.com/omec-project/amf/releases/tag/v3.1.0)) -  *(3 weeks ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v4.1.0](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v4.1.0)) - Helm charts used for SD-Core packaging *(4 weeks ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.1.0](https://github.com/omec-project/smf/releases/tag/v4.1.0)) -  *(4 weeks ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.0](https://github.com/omec-project/amf/releases/tag/v3.1.0)) -  *(4 weeks ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/udm/pull/355) on **[omec-project/udm](https://github.com/omec-project/udm)** *(3 days ago)*
-- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/udr/pull/323) on **[omec-project/udr](https://github.com/omec-project/udr)** *(3 days ago)*
-- [Use problem functions from openapi repo (missing from previous PR)](https://github.com/omec-project/udm/pull/353) on **[omec-project/udm](https://github.com/omec-project/udm)** *(3 days ago)*
-- [Problem functions](https://github.com/omec-project/udm/pull/352) on **[omec-project/udm](https://github.com/omec-project/udm)** *(3 days ago)*
-- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/nssf/pull/316) on **[omec-project/nssf](https://github.com/omec-project/nssf)** *(4 days ago)*
-- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/nrf/pull/351) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(4 days ago)*
-- [Use accessors (new, get, set) instead of direct field access, when appropriate](https://github.com/omec-project/gnbsim/pull/489) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(4 days ago)*
-- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/ausf/pull/307) on **[omec-project/ausf](https://github.com/omec-project/ausf)** *(4 days ago)*
+- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/udm/pull/355) on **[omec-project/udm](https://github.com/omec-project/udm)** *(4 days ago)*
+- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/udr/pull/323) on **[omec-project/udr](https://github.com/omec-project/udr)** *(4 days ago)*
+- [Use problem functions from openapi repo (missing from previous PR)](https://github.com/omec-project/udm/pull/353) on **[omec-project/udm](https://github.com/omec-project/udm)** *(4 days ago)*
+- [Problem functions](https://github.com/omec-project/udm/pull/352) on **[omec-project/udm](https://github.com/omec-project/udm)** *(4 days ago)*
+- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/nssf/pull/316) on **[omec-project/nssf](https://github.com/omec-project/nssf)** *(5 days ago)*
+- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/nrf/pull/351) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(5 days ago)*
+- [Use accessors (new, get, set) instead of direct field access, when appropriate](https://github.com/omec-project/gnbsim/pull/489) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(5 days ago)*
+- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/ausf/pull/307) on **[omec-project/ausf](https://github.com/omec-project/ausf)** *(5 days ago)*
 
 
 
