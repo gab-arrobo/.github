@@ -7,20 +7,20 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(today)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(4 days ago)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(6 days ago)*
-- **[omec-project/nssf](https://github.com/omec-project/nssf)** -  *(6 days ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(6 days ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(6 days ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(1 day ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(2 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(2 days ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(5 days ago)*
+- **[omec-project/nssf](https://github.com/omec-project/nssf)** -  *(1 week ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 week ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.1.4](https://github.com/omec-project/openapi/releases/tag/v2.1.4)) -  *(1 week ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.1.4](https://github.com/omec-project/openapi/releases/tag/v2.1.4)) -  *(2 weeks ago)*
 - **[opennetworkinglab/aether-docker-components](https://github.com/opennetworkinglab/aether-docker-components)** ([v1.0.0](https://github.com/opennetworkinglab/aether-docker-components/releases/tag/v1.0.0)) - Docker build for srsRAN *(2 weeks ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.5](https://github.com/omec-project/util/releases/tag/v1.7.5)) -  *(2 weeks ago)*
 - **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.8.0](https://github.com/omec-project/simapp/releases/tag/v1.8.0)) - Sim subscription app for Aether *(3 weeks ago)*
@@ -31,24 +31,24 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Use problem functions from openapi repo](https://github.com/omec-project/udr/pull/326) on **[omec-project/udr](https://github.com/omec-project/udr)** *(today)*
-- [Enabled to auto-discover and setting empty data interface for gnbsim](https://github.com/opennetworkinglab/aether-onramp/pull/229) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(today)*
-- [Allow Docker to continue properly working when gnbsim is deployed in an interface different than the default](https://github.com/opennetworkinglab/aether-onramp/pull/228) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(today)*
-- [Improve build efficiency and cache reuse](https://github.com/omec-project/upf/pull/1167) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
-- [Add monitoring services to cover entire SD-Core and update charts version](https://github.com/opennetworkinglab/aether-onramp/pull/227) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
-- [Set node IP based on hosts.ini to set deterministic IP instead of rke2 finding/using default IP in host](https://github.com/opennetworkinglab/aether-onramp/pull/226) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
-- [Enable service monitor for 5G NFs](https://github.com/omec-project/sdcore-helm-charts/pull/152) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 day ago)*
-- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/udm/pull/355) on **[omec-project/udm](https://github.com/omec-project/udm)** *(6 days ago)*
+- [Address Copilot&#39;s comments in #354 related to mongodb queries](https://github.com/omec-project/nrf/pull/356) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(today)*
+- [Use problem functions from openapi repo](https://github.com/omec-project/udr/pull/326) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
+- [Enabled to auto-discover and setting empty data interface for gnbsim](https://github.com/opennetworkinglab/aether-onramp/pull/229) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
+- [Allow Docker to continue properly working when gnbsim is deployed in an interface different than the default](https://github.com/opennetworkinglab/aether-onramp/pull/228) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
+- [Improve build efficiency and cache reuse](https://github.com/omec-project/upf/pull/1167) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Add monitoring services to cover entire SD-Core and update charts version](https://github.com/opennetworkinglab/aether-onramp/pull/227) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(2 days ago)*
+- [Set node IP based on hosts.ini to set deterministic IP instead of rke2 finding/using default IP in host](https://github.com/opennetworkinglab/aether-onramp/pull/226) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(2 days ago)*
+- [Enable service monitor for 5G NFs](https://github.com/omec-project/sdcore-helm-charts/pull/152) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(2 days ago)*
 
 
 
 #### 👥 Recent followers
 
+- [chrisipanaque](https://github.com/chrisipanaque)
 - [donivtech](https://github.com/donivtech)
 - [yhm1620](https://github.com/yhm1620)
 - [Surfndez](https://github.com/Surfndez)
 - [vhPedroGitHub](https://github.com/vhPedroGitHub)
-- [gatici](https://github.com/gatici)
 
 ---
 
