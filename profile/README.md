@@ -7,19 +7,20 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(4 days ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(4 days ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(4 days ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(5 days ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(5 days ago)*
-- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(1 week ago)*
-- **[omec-project/nssf](https://github.com/omec-project/nssf)** -  *(1 week ago)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 week ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(today)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(today)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(1 day ago)*
+- **[omec-project/aether-pod-init](https://github.com/omec-project/aether-pod-init)** -  *(1 day ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 day ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.1](https://github.com/omec-project/amf/releases/tag/v3.1.1)) -  *(1 day ago)*
 - **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.1.4](https://github.com/omec-project/openapi/releases/tag/v2.1.4)) -  *(2 weeks ago)*
 - **[opennetworkinglab/aether-docker-components](https://github.com/opennetworkinglab/aether-docker-components)** ([v1.0.0](https://github.com/opennetworkinglab/aether-docker-components/releases/tag/v1.0.0)) - Docker build for srsRAN *(2 weeks ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.5](https://github.com/omec-project/util/releases/tag/v1.7.5)) -  *(2 weeks ago)*
@@ -27,18 +28,17 @@ through open-source collaboration, patents, and strategic execution.
 - **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.0.1](https://github.com/omec-project/webconsole/releases/tag/v3.0.1)) -  *(3 weeks ago)*
 - **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v4.1.0](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v4.1.0)) - Helm charts used for SD-Core packaging *(1 month ago)*
 - **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.1.0](https://github.com/omec-project/smf/releases/tag/v4.1.0)) -  *(1 month ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.0](https://github.com/omec-project/amf/releases/tag/v3.1.0)) -  *(1 month ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Address Copilot&#39;s comments in #354 related to mongodb queries](https://github.com/omec-project/nrf/pull/356) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(3 days ago)*
-- [Use problem functions from openapi repo](https://github.com/omec-project/udr/pull/326) on **[omec-project/udr](https://github.com/omec-project/udr)** *(4 days ago)*
-- [Enabled to auto-discover and setting empty data interface for gnbsim](https://github.com/opennetworkinglab/aether-onramp/pull/229) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(4 days ago)*
-- [Allow Docker to continue properly working when gnbsim is deployed in an interface different than the default](https://github.com/opennetworkinglab/aether-onramp/pull/228) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(4 days ago)*
-- [Improve build efficiency and cache reuse](https://github.com/omec-project/upf/pull/1167) on **[omec-project/upf](https://github.com/omec-project/upf)** *(4 days ago)*
-- [Add monitoring services to cover entire SD-Core and update charts version](https://github.com/opennetworkinglab/aether-onramp/pull/227) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(5 days ago)*
-- [Set node IP based on hosts.ini to set deterministic IP instead of rke2 finding/using default IP in host](https://github.com/opennetworkinglab/aether-onramp/pull/226) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(5 days ago)*
-- [Enable service monitor for 5G NFs](https://github.com/omec-project/sdcore-helm-charts/pull/152) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(5 days ago)*
+- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/openapi/pull/164) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
+- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/webconsole/pull/536) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(today)*
+- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/util/pull/272) on **[omec-project/util](https://github.com/omec-project/util)** *(today)*
+- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/upfadapter/pull/104) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(today)*
+- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/upf/pull/1172) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
+- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/udr/pull/328) on **[omec-project/udr](https://github.com/omec-project/udr)** *(today)*
+- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/udm/pull/359) on **[omec-project/udm](https://github.com/omec-project/udm)** *(today)*
+- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/smf/pull/590) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
 
 
 
