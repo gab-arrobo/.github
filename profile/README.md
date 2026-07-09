@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 day ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(1 day ago)*
 - **[omec-project/udm](https://github.com/omec-project/udm)** -  *(1 day ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(1 day ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(2 days ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(2 days ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(2 days ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(2 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(2 days ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(2 days ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(2 days ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(3 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(3 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(3 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.0.1](https://github.com/omec-project/nas/releases/tag/v2.0.1)) -  *(today)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.1](https://github.com/omec-project/amf/releases/tag/v3.1.1)) -  *(2 days ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.0.1](https://github.com/omec-project/udr/releases/tag/v3.0.1)) -  *(today)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.0.1](https://github.com/omec-project/nas/releases/tag/v2.0.1)) -  *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.1](https://github.com/omec-project/amf/releases/tag/v3.1.1)) -  *(3 days ago)*
 - **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.1.4](https://github.com/omec-project/openapi/releases/tag/v2.1.4)) -  *(2 weeks ago)*
-- **[opennetworkinglab/aether-docker-components](https://github.com/opennetworkinglab/aether-docker-components)** ([v1.0.0](https://github.com/opennetworkinglab/aether-docker-components/releases/tag/v1.0.0)) - Docker build for srsRAN *(2 weeks ago)*
+- **[opennetworkinglab/aether-docker-components](https://github.com/opennetworkinglab/aether-docker-components)** ([v1.0.0](https://github.com/opennetworkinglab/aether-docker-components/releases/tag/v1.0.0)) - Docker build for srsRAN *(3 weeks ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.5](https://github.com/omec-project/util/releases/tag/v1.7.5)) -  *(3 weeks ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.8.0](https://github.com/omec-project/simapp/releases/tag/v1.8.0)) - Sim subscription app for Aether *(3 weeks ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.8.0](https://github.com/omec-project/simapp/releases/tag/v1.8.0)) - Sim subscription app for Aether *(4 weeks ago)*
 - **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.0.1](https://github.com/omec-project/webconsole/releases/tag/v3.0.1)) -  *(4 weeks ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v4.1.0](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v4.1.0)) - Helm charts used for SD-Core packaging *(1 month ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Remove outdated dependency and modernize for loops](https://github.com/omec-project/nas/pull/195) on **[omec-project/nas](https://github.com/omec-project/nas)** *(today)*
-- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/openapi/pull/164) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(1 day ago)*
-- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/webconsole/pull/536) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
-- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/util/pull/272) on **[omec-project/util](https://github.com/omec-project/util)** *(1 day ago)*
-- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/upfadapter/pull/104) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(1 day ago)*
-- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/upf/pull/1172) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
-- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/udr/pull/328) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
-- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/udm/pull/359) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
+- [Properly handle dot(s) in DNN field names](https://github.com/omec-project/udr/pull/329) on **[omec-project/udr](https://github.com/omec-project/udr)** *(today)*
+- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/udm/pull/362) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
+- [Remove outdated dependency and modernize for loops](https://github.com/omec-project/nas/pull/195) on **[omec-project/nas](https://github.com/omec-project/nas)** *(1 day ago)*
+- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/openapi/pull/164) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(2 days ago)*
+- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/webconsole/pull/536) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(2 days ago)*
+- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/util/pull/272) on **[omec-project/util](https://github.com/omec-project/util)** *(2 days ago)*
+- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/upfadapter/pull/104) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(2 days ago)*
+- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/upf/pull/1172) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
 
 
 
