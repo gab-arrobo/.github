@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
+- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(1 day ago)*
 - **[omec-project/udm](https://github.com/omec-project/udm)** -  *(1 day ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(2 days ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(2 days ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(2 days ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(3 days ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(3 days ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(3 days ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 day ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(2 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(3 days ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(3 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.0.1](https://github.com/omec-project/udr/releases/tag/v3.0.1)) -  *(today)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.0.1](https://github.com/omec-project/nas/releases/tag/v2.0.1)) -  *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.1](https://github.com/omec-project/amf/releases/tag/v3.1.1)) -  *(3 days ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.1.4](https://github.com/omec-project/openapi/releases/tag/v2.1.4)) -  *(2 weeks ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.0.1](https://github.com/omec-project/udr/releases/tag/v3.0.1)) -  *(1 day ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.0.1](https://github.com/omec-project/nas/releases/tag/v2.0.1)) -  *(2 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.1](https://github.com/omec-project/amf/releases/tag/v3.1.1)) -  *(4 days ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.1.4](https://github.com/omec-project/openapi/releases/tag/v2.1.4)) -  *(3 weeks ago)*
 - **[opennetworkinglab/aether-docker-components](https://github.com/opennetworkinglab/aether-docker-components)** ([v1.0.0](https://github.com/opennetworkinglab/aether-docker-components/releases/tag/v1.0.0)) - Docker build for srsRAN *(3 weeks ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.5](https://github.com/omec-project/util/releases/tag/v1.7.5)) -  *(3 weeks ago)*
 - **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.8.0](https://github.com/omec-project/simapp/releases/tag/v1.8.0)) - Sim subscription app for Aether *(4 weeks ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.0.1](https://github.com/omec-project/webconsole/releases/tag/v3.0.1)) -  *(4 weeks ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.0.1](https://github.com/omec-project/webconsole/releases/tag/v3.0.1)) -  *(1 month ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Properly handle dot(s) in DNN field names](https://github.com/omec-project/udr/pull/329) on **[omec-project/udr](https://github.com/omec-project/udr)** *(today)*
-- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/udm/pull/362) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
-- [Remove outdated dependency and modernize for loops](https://github.com/omec-project/nas/pull/195) on **[omec-project/nas](https://github.com/omec-project/nas)** *(1 day ago)*
-- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/openapi/pull/164) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(2 days ago)*
-- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/webconsole/pull/536) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(2 days ago)*
-- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/util/pull/272) on **[omec-project/util](https://github.com/omec-project/util)** *(2 days ago)*
-- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/upfadapter/pull/104) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(2 days ago)*
-- [Add newly required parameter to scorecard analysis action](https://github.com/omec-project/upf/pull/1172) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
+- [Add NewAmfRanDefault function to properly initialize log](https://github.com/omec-project/amf/pull/745) on **[omec-project/amf](https://github.com/omec-project/amf)** *(today)*
+- [Remove unused parameter](https://github.com/opennetworkinglab/aether-onramp/pull/231) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(today)*
+- [Update charts version and image tags](https://github.com/opennetworkinglab/aether-onramp/pull/230) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(today)*
+- [Update image tags and remove not required parameter](https://github.com/omec-project/sdcore-helm-charts/pull/155) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(today)*
+- [Properly initialize logs](https://github.com/omec-project/amf/pull/743) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/amf/pull/742) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [Add a few unit-tests](https://github.com/omec-project/udm/pull/363) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
+- [Properly handle dot(s) in DNN field names](https://github.com/omec-project/udr/pull/329) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
 
 
 
