@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(2 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(2 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(2 days ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(2 days ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(2 days ago)*
-- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(3 days ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(3 days ago)*
-- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(3 days ago)*
+- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(3 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(3 days ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(3 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(3 days ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(4 days ago)*
+- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(4 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.2](https://github.com/omec-project/amf/releases/tag/v3.1.2)) -  *(1 day ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.29](https://github.com/omec-project/.github/releases/tag/v0.0.29)) -  *(2 days ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.0.2](https://github.com/omec-project/nas/releases/tag/v2.0.2)) -  *(2 days ago)*
-- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.0.1](https://github.com/omec-project/udr/releases/tag/v3.0.1)) -  *(3 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.1.1](https://github.com/omec-project/smf/releases/tag/v4.1.1)) -  *(today)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.2](https://github.com/omec-project/amf/releases/tag/v3.1.2)) -  *(2 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.29](https://github.com/omec-project/.github/releases/tag/v0.0.29)) -  *(3 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.0.2](https://github.com/omec-project/nas/releases/tag/v2.0.2)) -  *(3 days ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.0.1](https://github.com/omec-project/udr/releases/tag/v3.0.1)) -  *(4 days ago)*
 - **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.1.4](https://github.com/omec-project/openapi/releases/tag/v2.1.4)) -  *(3 weeks ago)*
 - **[opennetworkinglab/aether-docker-components](https://github.com/opennetworkinglab/aether-docker-components)** ([v1.0.0](https://github.com/opennetworkinglab/aether-docker-components/releases/tag/v1.0.0)) - Docker build for srsRAN *(3 weeks ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.5](https://github.com/omec-project/util/releases/tag/v1.7.5)) -  *(3 weeks ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.8.0](https://github.com/omec-project/simapp/releases/tag/v1.8.0)) - Sim subscription app for Aether *(1 month ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Omit NFServiceVersion.Expiry to prevent decode failure in NRF](https://github.com/omec-project/smf/pull/593) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
-- [Fix handover path: locking, TEID parsing, and PFCP update](https://github.com/omec-project/smf/pull/592) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
-- [Remove AmfRan from pool on SCTP connection close](https://github.com/omec-project/amf/pull/748) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
-- [Skip keystream masking when length is a multiple of 32 to avoid zeroing last word](https://github.com/omec-project/nas/pull/199) on **[omec-project/nas](https://github.com/omec-project/nas)** *(2 days ago)*
-- [Skip empty GUAMI/sNSSAI list conditions in notification URI lookup](https://github.com/omec-project/nrf/pull/361) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(2 days ago)*
-- [Add e2e tests for gnbsim](https://github.com/omec-project/gnbsim/pull/497) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(2 days ago)*
-- [Remove unused dependency and create patch release](https://github.com/omec-project/.github/pull/179) on **[omec-project/.github](https://github.com/omec-project/.github)** *(2 days ago)*
-- [Add support for gnbsim in e2e tests](https://github.com/omec-project/.github/pull/177) on **[omec-project/.github](https://github.com/omec-project/.github)** *(2 days ago)*
+- [Fix vulnerabilities due to indirect dependencies](https://github.com/omec-project/gnbsim/pull/499) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(today)*
+- [Omit NFServiceVersion.Expiry to prevent decode failure in NRF](https://github.com/omec-project/smf/pull/593) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Fix handover path: locking, TEID parsing, and PFCP update](https://github.com/omec-project/smf/pull/592) on **[omec-project/smf](https://github.com/omec-project/smf)** *(2 days ago)*
+- [Remove AmfRan from pool on SCTP connection close](https://github.com/omec-project/amf/pull/748) on **[omec-project/amf](https://github.com/omec-project/amf)** *(2 days ago)*
+- [Skip keystream masking when length is a multiple of 32 to avoid zeroing last word](https://github.com/omec-project/nas/pull/199) on **[omec-project/nas](https://github.com/omec-project/nas)** *(3 days ago)*
+- [Skip empty GUAMI/sNSSAI list conditions in notification URI lookup](https://github.com/omec-project/nrf/pull/361) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(3 days ago)*
+- [Add e2e tests for gnbsim](https://github.com/omec-project/gnbsim/pull/497) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(3 days ago)*
+- [Remove unused dependency and create patch release](https://github.com/omec-project/.github/pull/179) on **[omec-project/.github](https://github.com/omec-project/.github)** *(3 days ago)*
 
 
 
