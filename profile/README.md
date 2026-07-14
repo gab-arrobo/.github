@@ -7,48 +7,48 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(1 day ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(1 day ago)*
 - **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(3 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(3 days ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(3 days ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(3 days ago)*
-- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(4 days ago)*
-- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(4 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 day ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.1.1](https://github.com/omec-project/smf/releases/tag/v4.1.1)) -  *(today)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.2](https://github.com/omec-project/amf/releases/tag/v3.1.2)) -  *(2 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.29](https://github.com/omec-project/.github/releases/tag/v0.0.29)) -  *(3 days ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.0.2](https://github.com/omec-project/nas/releases/tag/v2.0.2)) -  *(3 days ago)*
-- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.0.1](https://github.com/omec-project/udr/releases/tag/v3.0.1)) -  *(4 days ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.1.4](https://github.com/omec-project/openapi/releases/tag/v2.1.4)) -  *(3 weeks ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.0](https://github.com/omec-project/util/releases/tag/v1.8.0)) -  *(today)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.1.5](https://github.com/omec-project/openapi/releases/tag/v2.1.5)) -  *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.1.1](https://github.com/omec-project/smf/releases/tag/v4.1.1)) -  *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.2](https://github.com/omec-project/amf/releases/tag/v3.1.2)) -  *(3 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.29](https://github.com/omec-project/.github/releases/tag/v0.0.29)) -  *(4 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.0.2](https://github.com/omec-project/nas/releases/tag/v2.0.2)) -  *(4 days ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.0.1](https://github.com/omec-project/udr/releases/tag/v3.0.1)) -  *(5 days ago)*
 - **[opennetworkinglab/aether-docker-components](https://github.com/opennetworkinglab/aether-docker-components)** ([v1.0.0](https://github.com/opennetworkinglab/aether-docker-components/releases/tag/v1.0.0)) - Docker build for srsRAN *(3 weeks ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.7.5](https://github.com/omec-project/util/releases/tag/v1.7.5)) -  *(3 weeks ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Fix vulnerabilities due to indirect dependencies](https://github.com/omec-project/gnbsim/pull/499) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(today)*
-- [Omit NFServiceVersion.Expiry to prevent decode failure in NRF](https://github.com/omec-project/smf/pull/593) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
-- [Fix handover path: locking, TEID parsing, and PFCP update](https://github.com/omec-project/smf/pull/592) on **[omec-project/smf](https://github.com/omec-project/smf)** *(2 days ago)*
-- [Remove AmfRan from pool on SCTP connection close](https://github.com/omec-project/amf/pull/748) on **[omec-project/amf](https://github.com/omec-project/amf)** *(2 days ago)*
-- [Skip keystream masking when length is a multiple of 32 to avoid zeroing last word](https://github.com/omec-project/nas/pull/199) on **[omec-project/nas](https://github.com/omec-project/nas)** *(3 days ago)*
-- [Skip empty GUAMI/sNSSAI list conditions in notification URI lookup](https://github.com/omec-project/nrf/pull/361) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(3 days ago)*
-- [Add e2e tests for gnbsim](https://github.com/omec-project/gnbsim/pull/497) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(3 days ago)*
-- [Remove unused dependency and create patch release](https://github.com/omec-project/.github/pull/179) on **[omec-project/.github](https://github.com/omec-project/.github)** *(3 days ago)*
+- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/nrf/pull/364) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(today)*
+- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/webconsole/pull/540) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(today)*
+- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/udr/pull/333) on **[omec-project/udr](https://github.com/omec-project/udr)** *(today)*
+- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/udm/pull/370) on **[omec-project/udm](https://github.com/omec-project/udm)** *(today)*
+- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/smf/pull/597) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
+- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/amf/pull/753) on **[omec-project/amf](https://github.com/omec-project/amf)** *(today)*
+- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/util/pull/274) on **[omec-project/util](https://github.com/omec-project/util)** *(today)*
+- [Update dependencies](https://github.com/omec-project/webconsole/pull/539) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
 
 
 
 #### 👥 Recent followers
 
+- [Cdayz](https://github.com/Cdayz)
 - [chrisipanaque](https://github.com/chrisipanaque)
 - [donivtech](https://github.com/donivtech)
 - [yhm1620](https://github.com/yhm1620)
 - [Surfndez](https://github.com/Surfndez)
-- [vhPedroGitHub](https://github.com/vhPedroGitHub)
 
 ---
 
