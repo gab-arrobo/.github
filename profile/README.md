@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(1 day ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(1 day ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(1 day ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(1 day ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(2 days ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(2 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.0](https://github.com/omec-project/util/releases/tag/v1.8.0)) -  *(today)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.1.5](https://github.com/omec-project/openapi/releases/tag/v2.1.5)) -  *(1 day ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.1.1](https://github.com/omec-project/smf/releases/tag/v4.1.1)) -  *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.2](https://github.com/omec-project/amf/releases/tag/v3.1.2)) -  *(3 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.29](https://github.com/omec-project/.github/releases/tag/v0.0.29)) -  *(4 days ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.0.2](https://github.com/omec-project/nas/releases/tag/v2.0.2)) -  *(4 days ago)*
-- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.0.1](https://github.com/omec-project/udr/releases/tag/v3.0.1)) -  *(5 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.4](https://github.com/omec-project/amf/releases/tag/v3.1.4)) -  *(today)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.1](https://github.com/omec-project/util/releases/tag/v1.8.1)) -  *(1 day ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.1.5](https://github.com/omec-project/openapi/releases/tag/v2.1.5)) -  *(2 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.1.1](https://github.com/omec-project/smf/releases/tag/v4.1.1)) -  *(2 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.29](https://github.com/omec-project/.github/releases/tag/v0.0.29)) -  *(5 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.0.2](https://github.com/omec-project/nas/releases/tag/v2.0.2)) -  *(5 days ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.0.1](https://github.com/omec-project/udr/releases/tag/v3.0.1)) -  *(6 days ago)*
 - **[opennetworkinglab/aether-docker-components](https://github.com/opennetworkinglab/aether-docker-components)** ([v1.0.0](https://github.com/opennetworkinglab/aether-docker-components/releases/tag/v1.0.0)) - Docker build for srsRAN *(3 weeks ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/nrf/pull/364) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(today)*
-- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/webconsole/pull/540) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(today)*
-- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/udr/pull/333) on **[omec-project/udr](https://github.com/omec-project/udr)** *(today)*
-- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/udm/pull/370) on **[omec-project/udm](https://github.com/omec-project/udm)** *(today)*
-- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/smf/pull/597) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
-- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/amf/pull/753) on **[omec-project/amf](https://github.com/omec-project/amf)** *(today)*
-- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/util/pull/274) on **[omec-project/util](https://github.com/omec-project/util)** *(today)*
-- [Update dependencies](https://github.com/omec-project/webconsole/pull/539) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
+- [improve DB decode hooks and add TS 29.510 range validation](https://github.com/omec-project/nrf/pull/365) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(today)*
+- [fix SDM subscription modify to use PATCH and update local state](https://github.com/omec-project/udm/pull/371) on **[omec-project/udm](https://github.com/omec-project/udm)** *(today)*
+- [fix nil dereference in ConnectMongo db client init](https://github.com/omec-project/udr/pull/334) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
+- [Fix nil RanUe dereference in HandleServiceRequest](https://github.com/omec-project/amf/pull/758) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [Fix nil deref in HandleUEContextReleaseComplete](https://github.com/omec-project/amf/pull/756) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [Replaced the silent _ discard with a retry loop instead of giving goroutines a nil client pointer](https://github.com/omec-project/util/pull/276) on **[omec-project/util](https://github.com/omec-project/util)** *(1 day ago)*
+- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/nrf/pull/364) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(1 day ago)*
+- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/webconsole/pull/540) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
 
 
 
