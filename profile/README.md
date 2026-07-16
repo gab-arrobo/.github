@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
-- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(1 day ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(1 day ago)*
-- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(1 day ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(2 days ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(2 days ago)*
+- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(2 days ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(2 days ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(2 days ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(2 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(2 days ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(2 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.4](https://github.com/omec-project/amf/releases/tag/v3.1.4)) -  *(today)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.1](https://github.com/omec-project/util/releases/tag/v1.8.1)) -  *(1 day ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.1.5](https://github.com/omec-project/openapi/releases/tag/v2.1.5)) -  *(2 days ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.1.1](https://github.com/omec-project/smf/releases/tag/v4.1.1)) -  *(2 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.29](https://github.com/omec-project/.github/releases/tag/v0.0.29)) -  *(5 days ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.0.2](https://github.com/omec-project/nas/releases/tag/v2.0.2)) -  *(5 days ago)*
-- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.0.1](https://github.com/omec-project/udr/releases/tag/v3.0.1)) -  *(6 days ago)*
-- **[opennetworkinglab/aether-docker-components](https://github.com/opennetworkinglab/aether-docker-components)** ([v1.0.0](https://github.com/opennetworkinglab/aether-docker-components/releases/tag/v1.0.0)) - Docker build for srsRAN *(3 weeks ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.2.0](https://github.com/omec-project/smf/releases/tag/v4.2.0)) -  *(1 day ago)*
+- **[omec-project/pcf](https://github.com/omec-project/pcf)** ([v3.1.0](https://github.com/omec-project/pcf/releases/tag/v3.1.0)) -  *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.1.4](https://github.com/omec-project/amf/releases/tag/v3.1.4)) -  *(1 day ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.1](https://github.com/omec-project/util/releases/tag/v1.8.1)) -  *(2 days ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.1.5](https://github.com/omec-project/openapi/releases/tag/v2.1.5)) -  *(3 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.29](https://github.com/omec-project/.github/releases/tag/v0.0.29)) -  *(6 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.0.2](https://github.com/omec-project/nas/releases/tag/v2.0.2)) -  *(6 days ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.0.1](https://github.com/omec-project/udr/releases/tag/v3.0.1)) -  *(1 week ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [improve DB decode hooks and add TS 29.510 range validation](https://github.com/omec-project/nrf/pull/365) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(today)*
-- [fix SDM subscription modify to use PATCH and update local state](https://github.com/omec-project/udm/pull/371) on **[omec-project/udm](https://github.com/omec-project/udm)** *(today)*
-- [fix nil dereference in ConnectMongo db client init](https://github.com/omec-project/udr/pull/334) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
-- [Fix nil RanUe dereference in HandleServiceRequest](https://github.com/omec-project/amf/pull/758) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
-- [Fix nil deref in HandleUEContextReleaseComplete](https://github.com/omec-project/amf/pull/756) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
-- [Replaced the silent _ discard with a retry loop instead of giving goroutines a nil client pointer](https://github.com/omec-project/util/pull/276) on **[omec-project/util](https://github.com/omec-project/util)** *(1 day ago)*
-- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/nrf/pull/364) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(1 day ago)*
-- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/webconsole/pull/540) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
+- [improve DB decode hooks and add TS 29.510 range validation](https://github.com/omec-project/nrf/pull/365) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(1 day ago)*
+- [fix SDM subscription modify to use PATCH and update local state](https://github.com/omec-project/udm/pull/371) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
+- [fix nil dereference in ConnectMongo db client init](https://github.com/omec-project/udr/pull/334) on **[omec-project/udr](https://github.com/omec-project/udr)** *(2 days ago)*
+- [Fix nil RanUe dereference in HandleServiceRequest](https://github.com/omec-project/amf/pull/758) on **[omec-project/amf](https://github.com/omec-project/amf)** *(2 days ago)*
+- [Fix nil deref in HandleUEContextReleaseComplete](https://github.com/omec-project/amf/pull/756) on **[omec-project/amf](https://github.com/omec-project/amf)** *(2 days ago)*
+- [Replaced the silent _ discard with a retry loop instead of giving goroutines a nil client pointer](https://github.com/omec-project/util/pull/276) on **[omec-project/util](https://github.com/omec-project/util)** *(2 days ago)*
+- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/nrf/pull/364) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(2 days ago)*
+- [Upgrade MongoDB driver to latest version (v2)](https://github.com/omec-project/webconsole/pull/540) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(2 days ago)*
 
 
 
