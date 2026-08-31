@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(1 day ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
-- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** - Metric Function *(1 day ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 day ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(2 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(2 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(2 days ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(2 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(2 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(2 days ago)*
+- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** - Metric Function *(2 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(2 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.6.0](https://github.com/omec-project/upf/releases/tag/v2.6.0)) - 5G Mobile Core User Plane *(2 days ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.1](https://github.com/omec-project/nas/releases/tag/v2.2.1)) -  *(2 days ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.2.1](https://github.com/omec-project/openapi/releases/tag/v2.2.1)) -  *(2 days ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.4](https://github.com/omec-project/ngap/releases/tag/v2.1.4)) -  *(3 days ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.5](https://github.com/omec-project/util/releases/tag/v1.8.5)) -  *(3 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.6.0](https://github.com/omec-project/upf/releases/tag/v2.6.0)) - 5G Mobile Core User Plane *(3 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.1](https://github.com/omec-project/nas/releases/tag/v2.2.1)) -  *(3 days ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.2.1](https://github.com/omec-project/openapi/releases/tag/v2.2.1)) -  *(3 days ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.4](https://github.com/omec-project/ngap/releases/tag/v2.1.4)) -  *(4 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.5](https://github.com/omec-project/util/releases/tag/v1.8.5)) -  *(4 days ago)*
 - **[omec-project/udm](https://github.com/omec-project/udm)** ([v3.1.0](https://github.com/omec-project/udm/releases/tag/v3.1.0)) -  *(3 weeks ago)*
 - **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.3.0](https://github.com/omec-project/smf/releases/tag/v4.3.0)) -  *(3 weeks ago)*
 - **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.1.0](https://github.com/omec-project/udr/releases/tag/v3.1.0)) -  *(3 weeks ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Update golanci-lint version and fix linting issues](https://github.com/omec-project/webconsole/pull/560) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
-- [Update golanci-lint version and fix linting issues](https://github.com/omec-project/util/pull/296) on **[omec-project/util](https://github.com/omec-project/util)** *(1 day ago)*
-- [Update golanci-lint version and fix linting issues](https://github.com/omec-project/upf/pull/1256) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
-- [Update golanci-lint version and fix linting issues](https://github.com/omec-project/upfadapter/pull/117) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(1 day ago)*
-- [Update golanci-lint version and fix linting issues](https://github.com/omec-project/smf/pull/630) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
-- [Update golanci-lint version and fix linting issues](https://github.com/omec-project/udr/pull/360) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
-- [Update golanci-lint version and fix linting issues](https://github.com/omec-project/udm/pull/394) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
-- [Update golanci-lint version and fix linting issues](https://github.com/omec-project/simapp/pull/282) on **[omec-project/simapp](https://github.com/omec-project/simapp)** *(1 day ago)*
+- [Update golanci-lint version and fix linting issues](https://github.com/omec-project/webconsole/pull/560) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(2 days ago)*
+- [Update golanci-lint version and fix linting issues](https://github.com/omec-project/util/pull/296) on **[omec-project/util](https://github.com/omec-project/util)** *(2 days ago)*
+- [Update golanci-lint version and fix linting issues](https://github.com/omec-project/upf/pull/1256) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
+- [Update golanci-lint version and fix linting issues](https://github.com/omec-project/upfadapter/pull/117) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(2 days ago)*
+- [Update golanci-lint version and fix linting issues](https://github.com/omec-project/smf/pull/630) on **[omec-project/smf](https://github.com/omec-project/smf)** *(2 days ago)*
+- [Update golanci-lint version and fix linting issues](https://github.com/omec-project/udr/pull/360) on **[omec-project/udr](https://github.com/omec-project/udr)** *(2 days ago)*
+- [Update golanci-lint version and fix linting issues](https://github.com/omec-project/udm/pull/394) on **[omec-project/udm](https://github.com/omec-project/udm)** *(2 days ago)*
+- [Update golanci-lint version and fix linting issues](https://github.com/omec-project/simapp/pull/282) on **[omec-project/simapp](https://github.com/omec-project/simapp)** *(2 days ago)*
 
 
 
