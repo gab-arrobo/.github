@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(today)*
-- **[omec-project/nssf](https://github.com/omec-project/nssf)** -  *(1 day ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** -  *(1 day ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 day ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(1 day ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(2 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(2 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(2 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(2 days ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(2 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.5](https://github.com/omec-project/ngap/releases/tag/v2.1.5)) -  *(1 day ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.2](https://github.com/omec-project/nas/releases/tag/v2.2.2)) -  *(1 day ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.6](https://github.com/omec-project/util/releases/tag/v1.8.6)) -  *(1 day ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.1](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.1)) - PFCP client simulator used for UPF testing *(1 day ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.2.2](https://github.com/omec-project/openapi/releases/tag/v2.2.2)) -  *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.6.0](https://github.com/omec-project/upf/releases/tag/v2.6.0)) - 5G Mobile Core User Plane *(4 days ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.5](https://github.com/omec-project/ngap/releases/tag/v2.1.5)) -  *(2 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.2](https://github.com/omec-project/nas/releases/tag/v2.2.2)) -  *(2 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.6](https://github.com/omec-project/util/releases/tag/v1.8.6)) -  *(2 days ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.1](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.1)) - PFCP client simulator used for UPF testing *(2 days ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.2.2](https://github.com/omec-project/openapi/releases/tag/v2.2.2)) -  *(2 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.6.0](https://github.com/omec-project/upf/releases/tag/v2.6.0)) - 5G Mobile Core User Plane *(5 days ago)*
 - **[omec-project/udm](https://github.com/omec-project/udm)** ([v3.1.0](https://github.com/omec-project/udm/releases/tag/v3.1.0)) -  *(3 weeks ago)*
 - **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.3.0](https://github.com/omec-project/smf/releases/tag/v4.3.0)) -  *(3 weeks ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Update dpdk-devbind script](https://github.com/omec-project/upf/pull/1258) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
-- [Update golangci-lint version in GHA to align with pre-commit hooks](https://github.com/omec-project/util/pull/299) on **[omec-project/util](https://github.com/omec-project/util)** *(1 day ago)*
-- [Update golangci-lint version in GHA to align with pre-commit hooks](https://github.com/omec-project/pfcpsim/pull/333) on **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** *(1 day ago)*
-- [Update golangci-lint version in GHA to align with pre-commit hooks](https://github.com/omec-project/openapi/pull/181) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(1 day ago)*
-- [Update golangci-lint version in GHA to align with pre-commit hooks](https://github.com/omec-project/ngap/pull/124) on **[omec-project/ngap](https://github.com/omec-project/ngap)** *(1 day ago)*
-- [Update golangci-lint version in GHA to aligned with pre-commit hooks](https://github.com/omec-project/nas/pull/219) on **[omec-project/nas](https://github.com/omec-project/nas)** *(1 day ago)*
-- [Go version &#43; update dependencies &#43; pre-commit tool bumps](https://github.com/omec-project/webconsole/pull/563) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
-- [Go version &#43; update dependencies &#43; pre-commit tool bumps](https://github.com/omec-project/upfadapter/pull/119) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(1 day ago)*
+- [Address multiple python-releated code improvements (1st round)](https://github.com/omec-project/upf/pull/1261) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
+- [Implement multiple improvements based on Copilot suggestions to different refactoring PRs](https://github.com/omec-project/upf/pull/1260) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Restrict RBAC to least privilege; remove unneeded Roles/tokens](https://github.com/omec-project/sdcore-helm-charts/pull/167) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 day ago)*
+- [Update dpdk-devbind script](https://github.com/omec-project/upf/pull/1258) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Update golangci-lint version in GHA to align with pre-commit hooks](https://github.com/omec-project/util/pull/299) on **[omec-project/util](https://github.com/omec-project/util)** *(2 days ago)*
+- [Update golangci-lint version in GHA to align with pre-commit hooks](https://github.com/omec-project/pfcpsim/pull/333) on **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** *(2 days ago)*
+- [Update golangci-lint version in GHA to align with pre-commit hooks](https://github.com/omec-project/openapi/pull/181) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(2 days ago)*
+- [Update golangci-lint version in GHA to align with pre-commit hooks](https://github.com/omec-project/ngap/pull/124) on **[omec-project/ngap](https://github.com/omec-project/ngap)** *(2 days ago)*
 
 
 
