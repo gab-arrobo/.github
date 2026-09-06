@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(2 days ago)*
-- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(3 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(3 days ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(3 days ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(4 days ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(5 days ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(5 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(2 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(3 days ago)*
+- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(4 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(4 days ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(4 days ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(5 days ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(6 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(6 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.5](https://github.com/omec-project/ngap/releases/tag/v2.1.5)) -  *(5 days ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.2](https://github.com/omec-project/nas/releases/tag/v2.2.2)) -  *(5 days ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.6](https://github.com/omec-project/util/releases/tag/v1.8.6)) -  *(5 days ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.1](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.1)) - PFCP client simulator used for UPF testing *(5 days ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.2.2](https://github.com/omec-project/openapi/releases/tag/v2.2.2)) -  *(5 days ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.5](https://github.com/omec-project/ngap/releases/tag/v2.1.5)) -  *(6 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.2](https://github.com/omec-project/nas/releases/tag/v2.2.2)) -  *(6 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.6](https://github.com/omec-project/util/releases/tag/v1.8.6)) -  *(6 days ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.1](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.1)) - PFCP client simulator used for UPF testing *(6 days ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.2.2](https://github.com/omec-project/openapi/releases/tag/v2.2.2)) -  *(6 days ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.6.0](https://github.com/omec-project/upf/releases/tag/v2.6.0)) - 5G Mobile Core User Plane *(1 week ago)*
 - **[omec-project/udm](https://github.com/omec-project/udm)** ([v3.1.0](https://github.com/omec-project/udm/releases/tag/v3.1.0)) -  *(1 month ago)*
 - **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.3.0](https://github.com/omec-project/smf/releases/tag/v4.3.0)) -  *(1 month ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Update documentation to point to dpdk-devbind.py script instead of using wget](https://github.com/omec-project/upf/pull/1273) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
-- [Add per-table mutexes to synchronize rte_hash access and avoid race between ProcessBatch and CommandReadStats](https://github.com/omec-project/upf/pull/1272) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
-- [Fix duplicate commands.py function names and stream run_module_tests.py command output](https://github.com/omec-project/upf/pull/1271) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
-- [Remove unused local variable assignments across bessctl modules](https://github.com/omec-project/upf/pull/1268) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
-- [Replace broad except Exception with specific exceptions and avoid mutable default args in bessctl](https://github.com/omec-project/upf/pull/1267) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
-- [Update processing script to properly handle GitHub runners computing limitations](https://github.com/omec-project/.github/pull/201) on **[omec-project/.github](https://github.com/omec-project/.github)** *(2 days ago)*
-- [Improve processing script to properly handle pairs of `{{ }}`](https://github.com/omec-project/.github/pull/200) on **[omec-project/.github](https://github.com/omec-project/.github)** *(2 days ago)*
-- [Log swallowed exceptions instead of silent pass](https://github.com/omec-project/upf/pull/1266) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
+- [Update documentation to point to dpdk-devbind.py script instead of using wget](https://github.com/omec-project/upf/pull/1273) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
+- [Add per-table mutexes to synchronize rte_hash access and avoid race between ProcessBatch and CommandReadStats](https://github.com/omec-project/upf/pull/1272) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
+- [Fix duplicate commands.py function names and stream run_module_tests.py command output](https://github.com/omec-project/upf/pull/1271) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
+- [Remove unused local variable assignments across bessctl modules](https://github.com/omec-project/upf/pull/1268) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
+- [Replace broad except Exception with specific exceptions and avoid mutable default args in bessctl](https://github.com/omec-project/upf/pull/1267) on **[omec-project/upf](https://github.com/omec-project/upf)** *(3 days ago)*
+- [Update processing script to properly handle GitHub runners computing limitations](https://github.com/omec-project/.github/pull/201) on **[omec-project/.github](https://github.com/omec-project/.github)** *(3 days ago)*
+- [Improve processing script to properly handle pairs of `{{ }}`](https://github.com/omec-project/.github/pull/200) on **[omec-project/.github](https://github.com/omec-project/.github)** *(3 days ago)*
+- [Log swallowed exceptions instead of silent pass](https://github.com/omec-project/upf/pull/1266) on **[omec-project/upf](https://github.com/omec-project/upf)** *(3 days ago)*
 
 
 
