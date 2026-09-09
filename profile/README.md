@@ -7,14 +7,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(4 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(5 days ago)*
-- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(6 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(6 days ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(6 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(5 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(6 days ago)*
+- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(1 week ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 week ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 week ago)*
 - **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 week ago)*
 - **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(1 week ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 week ago)*
 
 
 
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Update documentation to point to dpdk-devbind.py script instead of using wget](https://github.com/omec-project/upf/pull/1273) on **[omec-project/upf](https://github.com/omec-project/upf)** *(4 days ago)*
-- [Add per-table mutexes to synchronize rte_hash access and avoid race between ProcessBatch and CommandReadStats](https://github.com/omec-project/upf/pull/1272) on **[omec-project/upf](https://github.com/omec-project/upf)** *(4 days ago)*
-- [Fix duplicate commands.py function names and stream run_module_tests.py command output](https://github.com/omec-project/upf/pull/1271) on **[omec-project/upf](https://github.com/omec-project/upf)** *(4 days ago)*
-- [Remove unused local variable assignments across bessctl modules](https://github.com/omec-project/upf/pull/1268) on **[omec-project/upf](https://github.com/omec-project/upf)** *(4 days ago)*
-- [Replace broad except Exception with specific exceptions and avoid mutable default args in bessctl](https://github.com/omec-project/upf/pull/1267) on **[omec-project/upf](https://github.com/omec-project/upf)** *(5 days ago)*
-- [Update processing script to properly handle GitHub runners computing limitations](https://github.com/omec-project/.github/pull/201) on **[omec-project/.github](https://github.com/omec-project/.github)** *(5 days ago)*
-- [Improve processing script to properly handle pairs of `{{ }}`](https://github.com/omec-project/.github/pull/200) on **[omec-project/.github](https://github.com/omec-project/.github)** *(5 days ago)*
-- [Log swallowed exceptions instead of silent pass](https://github.com/omec-project/upf/pull/1266) on **[omec-project/upf](https://github.com/omec-project/upf)** *(5 days ago)*
+- [Fixes after restoration](https://github.com/omec-project/smf/pull/637) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Update documentation to point to dpdk-devbind.py script instead of using wget](https://github.com/omec-project/upf/pull/1273) on **[omec-project/upf](https://github.com/omec-project/upf)** *(5 days ago)*
+- [Add per-table mutexes to synchronize rte_hash access and avoid race between ProcessBatch and CommandReadStats](https://github.com/omec-project/upf/pull/1272) on **[omec-project/upf](https://github.com/omec-project/upf)** *(5 days ago)*
+- [Fix duplicate commands.py function names and stream run_module_tests.py command output](https://github.com/omec-project/upf/pull/1271) on **[omec-project/upf](https://github.com/omec-project/upf)** *(5 days ago)*
+- [Remove unused local variable assignments across bessctl modules](https://github.com/omec-project/upf/pull/1268) on **[omec-project/upf](https://github.com/omec-project/upf)** *(5 days ago)*
+- [Replace broad except Exception with specific exceptions and avoid mutable default args in bessctl](https://github.com/omec-project/upf/pull/1267) on **[omec-project/upf](https://github.com/omec-project/upf)** *(6 days ago)*
+- [Update processing script to properly handle GitHub runners computing limitations](https://github.com/omec-project/.github/pull/201) on **[omec-project/.github](https://github.com/omec-project/.github)** *(6 days ago)*
+- [Improve processing script to properly handle pairs of `{{ }}`](https://github.com/omec-project/.github/pull/200) on **[omec-project/.github](https://github.com/omec-project/.github)** *(6 days ago)*
 
 
 
