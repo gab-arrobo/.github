@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** - Metric Function *(1 day ago)*
 - **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(5 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(6 days ago)*
-- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(1 week ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 week ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 week ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 week ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(1 week ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 day ago)*
+- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(1 day ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.5](https://github.com/omec-project/ngap/releases/tag/v2.1.5)) -  *(1 week ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.2](https://github.com/omec-project/nas/releases/tag/v2.2.2)) -  *(1 week ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.6](https://github.com/omec-project/util/releases/tag/v1.8.6)) -  *(1 week ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.1](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.1)) - PFCP client simulator used for UPF testing *(1 week ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.2.2](https://github.com/omec-project/openapi/releases/tag/v2.2.2)) -  *(1 week ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.6.0](https://github.com/omec-project/upf/releases/tag/v2.6.0)) - 5G Mobile Core User Plane *(1 week ago)*
-- **[omec-project/udm](https://github.com/omec-project/udm)** ([v3.1.0](https://github.com/omec-project/udm/releases/tag/v3.1.0)) -  *(1 month ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.3.0](https://github.com/omec-project/smf/releases/tag/v4.3.0)) -  *(1 month ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.6.2](https://github.com/omec-project/upf/releases/tag/v2.6.2)) - 5G Mobile Core User Plane *(today)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.3.2](https://github.com/omec-project/smf/releases/tag/v4.3.2)) -  *(today)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.1.1](https://github.com/omec-project/udr/releases/tag/v3.1.1)) -  *(today)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** ([v3.1.1](https://github.com/omec-project/udm/releases/tag/v3.1.1)) -  *(today)*
+- **[omec-project/pcf](https://github.com/omec-project/pcf)** ([v3.2.1](https://github.com/omec-project/pcf/releases/tag/v3.2.1)) -  *(today)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.1.1](https://github.com/omec-project/webconsole/releases/tag/v3.1.1)) -  *(today)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** ([v1.3.1](https://github.com/omec-project/n3iwf/releases/tag/v1.3.1)) -  *(today)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** ([v3.1.1](https://github.com/omec-project/nrf/releases/tag/v3.1.1)) -  *(today)*
 
 #### 🔧 Recent Pull Requests
 
-- [Fixes after restoration](https://github.com/omec-project/smf/pull/637) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
-- [Update documentation to point to dpdk-devbind.py script instead of using wget](https://github.com/omec-project/upf/pull/1273) on **[omec-project/upf](https://github.com/omec-project/upf)** *(5 days ago)*
-- [Add per-table mutexes to synchronize rte_hash access and avoid race between ProcessBatch and CommandReadStats](https://github.com/omec-project/upf/pull/1272) on **[omec-project/upf](https://github.com/omec-project/upf)** *(5 days ago)*
-- [Fix duplicate commands.py function names and stream run_module_tests.py command output](https://github.com/omec-project/upf/pull/1271) on **[omec-project/upf](https://github.com/omec-project/upf)** *(5 days ago)*
-- [Remove unused local variable assignments across bessctl modules](https://github.com/omec-project/upf/pull/1268) on **[omec-project/upf](https://github.com/omec-project/upf)** *(5 days ago)*
-- [Replace broad except Exception with specific exceptions and avoid mutable default args in bessctl](https://github.com/omec-project/upf/pull/1267) on **[omec-project/upf](https://github.com/omec-project/upf)** *(6 days ago)*
-- [Update processing script to properly handle GitHub runners computing limitations](https://github.com/omec-project/.github/pull/201) on **[omec-project/.github](https://github.com/omec-project/.github)** *(6 days ago)*
-- [Improve processing script to properly handle pairs of `{{ }}`](https://github.com/omec-project/.github/pull/200) on **[omec-project/.github](https://github.com/omec-project/.github)** *(6 days ago)*
+- [Fix issue with AssociatedSetUpSuccess when it actually is pending (AssociatedSettingUp)](https://github.com/omec-project/smf/pull/641) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
+- [Fix bessd SIGSEGV: unaligned SIMD load on DPDK hash key memory in flowmeasure](https://github.com/omec-project/upf/pull/1287) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
+- [Update stale comment](https://github.com/omec-project/smf/pull/640) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
+- [Update direct and indirect dependencies and create patch release](https://github.com/omec-project/webconsole/pull/566) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(today)*
+- [Update direct and indirect dependencies and create patch release](https://github.com/omec-project/upf/pull/1285) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
+- [Update direct and indirect dependencies and create patch release](https://github.com/omec-project/udr/pull/365) on **[omec-project/udr](https://github.com/omec-project/udr)** *(today)*
+- [Update direct and indirect dependencies and create patch release](https://github.com/omec-project/udm/pull/398) on **[omec-project/udm](https://github.com/omec-project/udm)** *(today)*
+- [Update direct and indirect dependencies and create patch release](https://github.com/omec-project/smf/pull/638) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
 
 
 
