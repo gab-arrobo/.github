@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 day ago)*
-- **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** - Dockerfile that incorporates and packages K8S CNI plugins used in Aether SD-Core (UPF in DPDK mode) *(1 day ago)*
-- **[omec-project/aether-pod-init](https://github.com/omec-project/aether-pod-init)** -  *(1 day ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(2 days ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(2 days ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(2 days ago)*
-- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(2 days ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(2 days ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(2 days ago)*
+- **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** - Dockerfile that incorporates and packages K8S CNI plugins used in Aether SD-Core (UPF in DPDK mode) *(2 days ago)*
+- **[omec-project/aether-pod-init](https://github.com/omec-project/aether-pod-init)** -  *(2 days ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(3 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(3 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(3 days ago)*
+- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(3 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** ([v1.4.1](https://github.com/omec-project/aether-cni/releases/tag/v1.4.1)) - Dockerfile that incorporates and packages K8S CNI plugins used in Aether SD-Core (UPF in DPDK mode) *(1 day ago)*
-- **[omec-project/aether-pod-init](https://github.com/omec-project/aether-pod-init)** ([v1.3.1](https://github.com/omec-project/aether-pod-init/releases/tag/v1.3.1)) -  *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.6.2](https://github.com/omec-project/upf/releases/tag/v2.6.2)) - 5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.3.2](https://github.com/omec-project/smf/releases/tag/v4.3.2)) -  *(1 day ago)*
-- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.1.1](https://github.com/omec-project/udr/releases/tag/v3.1.1)) -  *(1 day ago)*
-- **[omec-project/udm](https://github.com/omec-project/udm)** ([v3.1.1](https://github.com/omec-project/udm/releases/tag/v3.1.1)) -  *(1 day ago)*
-- **[omec-project/pcf](https://github.com/omec-project/pcf)** ([v3.2.1](https://github.com/omec-project/pcf/releases/tag/v3.2.1)) -  *(1 day ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.1.1](https://github.com/omec-project/webconsole/releases/tag/v3.1.1)) -  *(1 day ago)*
+- **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** ([v1.4.1](https://github.com/omec-project/aether-cni/releases/tag/v1.4.1)) - Dockerfile that incorporates and packages K8S CNI plugins used in Aether SD-Core (UPF in DPDK mode) *(2 days ago)*
+- **[omec-project/aether-pod-init](https://github.com/omec-project/aether-pod-init)** ([v1.3.1](https://github.com/omec-project/aether-pod-init/releases/tag/v1.3.1)) -  *(2 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.6.2](https://github.com/omec-project/upf/releases/tag/v2.6.2)) - 5G Mobile Core User Plane *(2 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.3.2](https://github.com/omec-project/smf/releases/tag/v4.3.2)) -  *(2 days ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.1.1](https://github.com/omec-project/udr/releases/tag/v3.1.1)) -  *(2 days ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** ([v3.1.1](https://github.com/omec-project/udm/releases/tag/v3.1.1)) -  *(2 days ago)*
+- **[omec-project/pcf](https://github.com/omec-project/pcf)** ([v3.2.1](https://github.com/omec-project/pcf/releases/tag/v3.2.1)) -  *(2 days ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.1.1](https://github.com/omec-project/webconsole/releases/tag/v3.1.1)) -  *(2 days ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Increase wait timeout for systems with limited compute resources](https://github.com/opennetworkinglab/aether-onramp/pull/246) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
-- [Add Ubuntu 26.04 to the `E2E` testing matrix](https://github.com/opennetworkinglab/aether-onramp/pull/245) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
-- [Update SD-Core Helm Charts](https://github.com/opennetworkinglab/aether-onramp/pull/244) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
-- [Create a new patch version for SD-Core Helm Charts](https://github.com/omec-project/sdcore-helm-charts/pull/168) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 day ago)*
-- [Create patch release](https://github.com/omec-project/aether-pod-init/pull/67) on **[omec-project/aether-pod-init](https://github.com/omec-project/aether-pod-init)** *(1 day ago)*
-- [Create patch release](https://github.com/omec-project/aether-cni/pull/90) on **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** *(1 day ago)*
-- [Fix issue with AssociatedSetUpSuccess when it actually is pending (AssociatedSettingUp)](https://github.com/omec-project/smf/pull/641) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
-- [Fix bessd SIGSEGV: unaligned SIMD load on DPDK hash key memory in flowmeasure](https://github.com/omec-project/upf/pull/1287) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Increase wait timeout for systems with limited compute resources](https://github.com/opennetworkinglab/aether-onramp/pull/246) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(2 days ago)*
+- [Add Ubuntu 26.04 to the `E2E` testing matrix](https://github.com/opennetworkinglab/aether-onramp/pull/245) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(2 days ago)*
+- [Update SD-Core Helm Charts](https://github.com/opennetworkinglab/aether-onramp/pull/244) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(2 days ago)*
+- [Create a new patch version for SD-Core Helm Charts](https://github.com/omec-project/sdcore-helm-charts/pull/168) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(2 days ago)*
+- [Create patch release](https://github.com/omec-project/aether-pod-init/pull/67) on **[omec-project/aether-pod-init](https://github.com/omec-project/aether-pod-init)** *(2 days ago)*
+- [Create patch release](https://github.com/omec-project/aether-cni/pull/90) on **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** *(2 days ago)*
+- [Fix issue with AssociatedSetUpSuccess when it actually is pending (AssociatedSettingUp)](https://github.com/omec-project/smf/pull/641) on **[omec-project/smf](https://github.com/omec-project/smf)** *(2 days ago)*
+- [Fix bessd SIGSEGV: unaligned SIMD load on DPDK hash key memory in flowmeasure](https://github.com/omec-project/upf/pull/1287) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
 
 
 
