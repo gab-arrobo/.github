@@ -7,22 +7,22 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(1 day ago)*
 - **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
 - **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 day ago)*
 - **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(1 day ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(2 days ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(2 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(2 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(2 days ago)*
+- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(3 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(3 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.32](https://github.com/omec-project/.github/releases/tag/v0.0.32)) -  *(1 day ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.8](https://github.com/omec-project/util/releases/tag/v1.8.8)) -  *(1 day ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.4](https://github.com/omec-project/nas/releases/tag/v2.2.4)) -  *(1 day ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.32](https://github.com/omec-project/.github/releases/tag/v0.0.32)) -  *(2 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.8](https://github.com/omec-project/util/releases/tag/v1.8.8)) -  *(2 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.4](https://github.com/omec-project/nas/releases/tag/v2.2.4)) -  *(2 days ago)*
 - **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** ([v1.4.1](https://github.com/omec-project/aether-cni/releases/tag/v1.4.1)) - Dockerfile that incorporates and packages K8S CNI plugins used in Aether SD-Core (UPF in DPDK mode) *(1 week ago)*
 - **[omec-project/aether-pod-init](https://github.com/omec-project/aether-pod-init)** ([v1.3.1](https://github.com/omec-project/aether-pod-init/releases/tag/v1.3.1)) -  *(1 week ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.6.2](https://github.com/omec-project/upf/releases/tag/v2.6.2)) - 5G Mobile Core User Plane *(1 week ago)*
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Fix PDU Session Release Complete leaking SM contexts; make context teardown lock-safe everywhere it is triggered](https://github.com/omec-project/smf/pull/653) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
-- [Harden PFCP UDP transaction retry timing for test stability under -ra…](https://github.com/omec-project/smf/pull/652) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
-- [Clamp legacy device-group rates in nfconfig and subscriber sync](https://github.com/omec-project/webconsole/pull/573) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
-- [Fix requester-nfinstance-fqdn regex matching consistency](https://github.com/omec-project/nrf/pull/395) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(1 day ago)*
-- [Remove the context on PFCP session-create rollback](https://github.com/omec-project/smf/pull/650) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
-- [Fix lost UPF snapshot on a transient DNS cache miss](https://github.com/omec-project/smf/pull/649) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
-- [Preserve nfServiceList field when copying NF profile data](https://github.com/omec-project/nrf/pull/394) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(1 day ago)*
-- [Fix goroutine race in restoration tests](https://github.com/omec-project/smf/pull/648) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Validate cached RanUe in N1N2 transfer Case B](https://github.com/omec-project/amf/pull/830) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [Reject PLMN mismatches on slice/device-group POST](https://github.com/omec-project/webconsole/pull/574) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
+- [Fix PDU Session Release Complete leaking SM contexts; make context teardown lock-safe everywhere it is triggered](https://github.com/omec-project/smf/pull/653) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Harden PFCP UDP transaction retry timing for test stability under -ra…](https://github.com/omec-project/smf/pull/652) on **[omec-project/smf](https://github.com/omec-project/smf)** *(2 days ago)*
+- [Clamp legacy device-group rates in nfconfig and subscriber sync](https://github.com/omec-project/webconsole/pull/573) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(2 days ago)*
+- [Fix requester-nfinstance-fqdn regex matching consistency](https://github.com/omec-project/nrf/pull/395) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(2 days ago)*
+- [Remove the context on PFCP session-create rollback](https://github.com/omec-project/smf/pull/650) on **[omec-project/smf](https://github.com/omec-project/smf)** *(2 days ago)*
+- [Fix lost UPF snapshot on a transient DNS cache miss](https://github.com/omec-project/smf/pull/649) on **[omec-project/smf](https://github.com/omec-project/smf)** *(2 days ago)*
 
 
 
