@@ -7,23 +7,23 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** -  *(1 day ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 day ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(1 day ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(2 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(2 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(2 days ago)*
+- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** -  *(2 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(2 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(2 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(2 days ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(2 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.9](https://github.com/omec-project/util/releases/tag/v1.8.9)) -  *(1 day ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.3](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.3)) - PFCP client simulator used for UPF testing *(1 day ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.32](https://github.com/omec-project/.github/releases/tag/v0.0.32)) -  *(3 days ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.4](https://github.com/omec-project/nas/releases/tag/v2.2.4)) -  *(3 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.9](https://github.com/omec-project/util/releases/tag/v1.8.9)) -  *(2 days ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.3](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.3)) - PFCP client simulator used for UPF testing *(2 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.32](https://github.com/omec-project/.github/releases/tag/v0.0.32)) -  *(4 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.4](https://github.com/omec-project/nas/releases/tag/v2.2.4)) -  *(4 days ago)*
 - **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** ([v1.4.1](https://github.com/omec-project/aether-cni/releases/tag/v1.4.1)) - Dockerfile that incorporates and packages K8S CNI plugins used in Aether SD-Core (UPF in DPDK mode) *(1 week ago)*
 - **[omec-project/aether-pod-init](https://github.com/omec-project/aether-pod-init)** ([v1.3.1](https://github.com/omec-project/aether-pod-init/releases/tag/v1.3.1)) -  *(1 week ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.6.2](https://github.com/omec-project/upf/releases/tag/v2.6.2)) - 5G Mobile Core User Plane *(1 week ago)*
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Update dependencies and increase test race count](https://github.com/omec-project/upf/pull/1308) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
-- [Update dependencies and increase test race count](https://github.com/omec-project/amf/pull/836) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
-- [Update dependencies and increase test race count](https://github.com/omec-project/webconsole/pull/577) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
-- [Update dependencies and increase test race count](https://github.com/omec-project/upfadapter/pull/121) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(1 day ago)*
-- [Update dependencies and increase test race count](https://github.com/omec-project/udm/pull/401) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
-- [Update dependencies and increase test race count](https://github.com/omec-project/udr/pull/370) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
-- [Update dependencies and increase test race count](https://github.com/omec-project/smf/pull/661) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
-- [Update dependencies and increase test race count](https://github.com/omec-project/simapp/pull/289) on **[omec-project/simapp](https://github.com/omec-project/simapp)** *(1 day ago)*
+- [Update dependencies and increase test race count](https://github.com/omec-project/upf/pull/1308) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
+- [Update dependencies and increase test race count](https://github.com/omec-project/amf/pull/836) on **[omec-project/amf](https://github.com/omec-project/amf)** *(2 days ago)*
+- [Update dependencies and increase test race count](https://github.com/omec-project/webconsole/pull/577) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(2 days ago)*
+- [Update dependencies and increase test race count](https://github.com/omec-project/upfadapter/pull/121) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(2 days ago)*
+- [Update dependencies and increase test race count](https://github.com/omec-project/udm/pull/401) on **[omec-project/udm](https://github.com/omec-project/udm)** *(2 days ago)*
+- [Update dependencies and increase test race count](https://github.com/omec-project/udr/pull/370) on **[omec-project/udr](https://github.com/omec-project/udr)** *(2 days ago)*
+- [Update dependencies and increase test race count](https://github.com/omec-project/smf/pull/661) on **[omec-project/smf](https://github.com/omec-project/smf)** *(2 days ago)*
+- [Update dependencies and increase test race count](https://github.com/omec-project/simapp/pull/289) on **[omec-project/simapp](https://github.com/omec-project/simapp)** *(2 days ago)*
 
 
 
