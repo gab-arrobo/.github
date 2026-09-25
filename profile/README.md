@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/nssf](https://github.com/omec-project/nssf)** -  *(today)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 day ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(1 day ago)*
 - **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** - Metric Function *(1 day ago)*
 - **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(1 day ago)*
-- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(1 day ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(2 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 day ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(1 day ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.2.4](https://github.com/omec-project/openapi/releases/tag/v2.2.4)) -  *(today)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.9.3](https://github.com/omec-project/simapp/releases/tag/v1.9.3)) - Sim subscription app for Aether *(2 days ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v4.1.1](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v4.1.1)) - Helm charts used for SD-Core packaging *(3 days ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.1.2](https://github.com/omec-project/webconsole/releases/tag/v3.1.2)) -  *(3 days ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.9](https://github.com/omec-project/util/releases/tag/v1.8.9)) -  *(6 days ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.3](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.3)) - PFCP client simulator used for UPF testing *(6 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.32](https://github.com/omec-project/.github/releases/tag/v0.0.32)) -  *(1 week ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.4](https://github.com/omec-project/nas/releases/tag/v2.2.4)) -  *(1 week ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.6.3](https://github.com/omec-project/upf/releases/tag/v2.6.3)) - 5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** ([v1.3.2](https://github.com/omec-project/n3iwf/releases/tag/v1.3.2)) -  *(1 day ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** ([v3.1.2](https://github.com/omec-project/ausf/releases/tag/v3.1.2)) -  *(1 day ago)*
+- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** ([v2.1.2](https://github.com/omec-project/metricfunc/releases/tag/v2.1.2)) - Metric Function *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.3.2](https://github.com/omec-project/amf/releases/tag/v3.3.2)) -  *(1 day ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.1.3](https://github.com/omec-project/webconsole/releases/tag/v3.1.3)) -  *(1 day ago)*
+- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** ([v2.3.2](https://github.com/omec-project/gnbsim/releases/tag/v2.3.2)) - gNB simulator *(1 day ago)*
+- **[omec-project/nssf](https://github.com/omec-project/nssf)** ([v3.1.2](https://github.com/omec-project/nssf/releases/tag/v3.1.2)) -  *(1 day ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Add support for NfServiceList in NRF profiles](https://github.com/omec-project/udm/pull/403) on **[omec-project/udm](https://github.com/omec-project/udm)** *(today)*
-- [Add support for NfServiceList in NRF profiles](https://github.com/omec-project/nssf/pull/350) on **[omec-project/nssf](https://github.com/omec-project/nssf)** *(today)*
-- [Add support for NfServiceList in NRF profiles](https://github.com/omec-project/nrf/pull/409) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(today)*
-- [Add support for NfServiceList in NRF profiles](https://github.com/omec-project/ausf/pull/346) on **[omec-project/ausf](https://github.com/omec-project/ausf)** *(today)*
-- [Add support for NfServiceList in NRF profiles](https://github.com/omec-project/pcf/pull/399) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(1 day ago)*
-- [unexport internal API, remove dead Close method and create release](https://github.com/omec-project/openapi/pull/187) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(1 day ago)*
-- [Add support for NfServiceList in NRF profiles](https://github.com/omec-project/smf/pull/665) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
-- [Add support for NfServiceList in NRF profiles](https://github.com/omec-project/amf/pull/841) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [Update SD-Core charts and other dependencies](https://github.com/opennetworkinglab/aether-onramp/pull/253) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
+- [Update dependencies and create patch release](https://github.com/omec-project/sdcore-helm-charts/pull/175) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 day ago)*
+- [Update dependencies and create patch release](https://github.com/omec-project/webconsole/pull/582) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
+- [Update dependencies and create patch release](https://github.com/omec-project/upf/pull/1318) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Update dependencies and create patch release](https://github.com/omec-project/udr/pull/373) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
+- [Update dependencies and create patch release](https://github.com/omec-project/udm/pull/404) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
+- [Update dependencies and create patch release](https://github.com/omec-project/smf/pull/670) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Update dependencies and create patch release](https://github.com/omec-project/simapp/pull/295) on **[omec-project/simapp](https://github.com/omec-project/simapp)** *(1 day ago)*
 
 
 
