@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(1 day ago)*
 - **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 day ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(1 day ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(6 days ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(6 days ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(6 days ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(6 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 day ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.2.5](https://github.com/omec-project/openapi/releases/tag/v2.2.5)) -  *(today)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.12](https://github.com/omec-project/util/releases/tag/v1.8.12)) -  *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.6.3](https://github.com/omec-project/upf/releases/tag/v2.6.3)) - 5G Mobile Core User Plane *(6 days ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** ([v1.3.2](https://github.com/omec-project/n3iwf/releases/tag/v1.3.2)) -  *(6 days ago)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** ([v3.1.2](https://github.com/omec-project/ausf/releases/tag/v3.1.2)) -  *(6 days ago)*
-- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** ([v2.1.2](https://github.com/omec-project/metricfunc/releases/tag/v2.1.2)) - Metric Function *(6 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.3.2](https://github.com/omec-project/amf/releases/tag/v3.3.2)) -  *(6 days ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.1.3](https://github.com/omec-project/webconsole/releases/tag/v3.1.3)) -  *(6 days ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v5.0.0](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v5.0.0)) - Helm charts used for SD-Core packaging *(today)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.8](https://github.com/omec-project/ngap/releases/tag/v2.1.8)) -  *(1 day ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.6](https://github.com/omec-project/nas/releases/tag/v2.2.6)) -  *(1 day ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.6](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.6)) - PFCP client simulator used for UPF testing *(1 day ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.13](https://github.com/omec-project/util/releases/tag/v1.8.13)) -  *(1 day ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** ([v3.1.3](https://github.com/omec-project/nrf/releases/tag/v3.1.3)) -  *(1 day ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.2.5](https://github.com/omec-project/openapi/releases/tag/v2.2.5)) -  *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.6.3](https://github.com/omec-project/upf/releases/tag/v2.6.3)) - 5G Mobile Core User Plane *(1 week ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Use a newer openapi-generator version to regenerate models](https://github.com/omec-project/openapi/pull/195) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
-- [Use a newer openapi-generator version to regenerate models](https://github.com/omec-project/openapi/pull/194) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
-- [Use a newer openapi-generator version to regenerate models](https://github.com/omec-project/openapi/pull/193) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
-- [Use a newer openapi-generator version to regenerate models and address parsing a regex expression issue](https://github.com/omec-project/openapi/pull/192) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
-- [Use a newer openapi-generator version to regenerate models and address parsing a regex expression issue](https://github.com/omec-project/openapi/pull/191) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
-- [Use a newer openapi-generator version to regenerate models and address parsing a regex expression issue](https://github.com/omec-project/openapi/pull/190) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
-- [Use a newer openapi-generator version to regenerate models and address parsing a regex expression issue](https://github.com/omec-project/openapi/pull/189) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
-- [Add SBI dropped-handshake-probe metric and update dependencies](https://github.com/omec-project/amf/pull/855) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [Rename variable enb to ran](https://github.com/omec-project/sdcore-helm-charts/pull/187) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(today)*
+- [Close TOCTOU gap between removal check and handler run](https://github.com/omec-project/amf/pull/857) on **[omec-project/amf](https://github.com/omec-project/amf)** *(today)*
+- [Reject accept-with-no-SEID and count native send failures](https://github.com/omec-project/smf/pull/677) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
+- [Update dependencies](https://github.com/omec-project/webconsole/pull/588) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
+- [Update dependencies](https://github.com/omec-project/upf/pull/1332) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Update dependencies](https://github.com/omec-project/udr/pull/377) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
+- [Update dependencies](https://github.com/omec-project/udm/pull/408) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
+- [Update dependencies](https://github.com/omec-project/smf/pull/676) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
 
 
 
