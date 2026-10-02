@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(1 day ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(today)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(today)*
+- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** -  *(today)*
+- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** - Metric Function *(today)*
 - **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(1 day ago)*
 - **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 day ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(2 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v5.0.0](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v5.0.0)) - Helm charts used for SD-Core packaging *(today)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.8](https://github.com/omec-project/ngap/releases/tag/v2.1.8)) -  *(1 day ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.6](https://github.com/omec-project/nas/releases/tag/v2.2.6)) -  *(1 day ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.6](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.6)) - PFCP client simulator used for UPF testing *(1 day ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.8.13](https://github.com/omec-project/util/releases/tag/v1.8.13)) -  *(1 day ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** ([v3.1.3](https://github.com/omec-project/nrf/releases/tag/v3.1.3)) -  *(1 day ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.2.5](https://github.com/omec-project/openapi/releases/tag/v2.2.5)) -  *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.6.3](https://github.com/omec-project/upf/releases/tag/v2.6.3)) - 5G Mobile Core User Plane *(1 week ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.1.4](https://github.com/omec-project/webconsole/releases/tag/v3.1.4)) -  *(today)*
+- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** ([v2.1.3](https://github.com/omec-project/metricfunc/releases/tag/v2.1.3)) - Metric Function *(today)*
+- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.2.1](https://github.com/omec-project/upfadapter/releases/tag/v2.2.1)) -  *(today)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.9.5](https://github.com/omec-project/simapp/releases/tag/v1.9.5)) - Sim subscription app for Aether *(today)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v5.0.0](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v5.0.0)) - Helm charts used for SD-Core packaging *(1 day ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.8](https://github.com/omec-project/ngap/releases/tag/v2.1.8)) -  *(2 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.6](https://github.com/omec-project/nas/releases/tag/v2.2.6)) -  *(2 days ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.6](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.6)) - PFCP client simulator used for UPF testing *(2 days ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Rename variable enb to ran](https://github.com/omec-project/sdcore-helm-charts/pull/187) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(today)*
-- [Close TOCTOU gap between removal check and handler run](https://github.com/omec-project/amf/pull/857) on **[omec-project/amf](https://github.com/omec-project/amf)** *(today)*
-- [Reject accept-with-no-SEID and count native send failures](https://github.com/omec-project/smf/pull/677) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
-- [Update dependencies](https://github.com/omec-project/webconsole/pull/588) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
-- [Update dependencies](https://github.com/omec-project/upf/pull/1332) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
-- [Update dependencies](https://github.com/omec-project/udr/pull/377) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
-- [Update dependencies](https://github.com/omec-project/udm/pull/408) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
-- [Update dependencies](https://github.com/omec-project/smf/pull/676) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Remove unused component from repo](https://github.com/omec-project/util/pull/316) on **[omec-project/util](https://github.com/omec-project/util)** *(today)*
+- [Fix data race on SMContext.LocalPurged using atomic](https://github.com/omec-project/smf/pull/679) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
+- [Replace dependency](https://github.com/omec-project/amf/pull/860) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [Update dependencies](https://github.com/opennetworkinglab/aether-onramp/pull/254) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
+- [Removes the unmaintained github.com/mohae/deepcopy (last release 2017)](https://github.com/omec-project/smf/pull/678) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Removes the unmaintained github.com/mohae/deepcopy (last release 2017)](https://github.com/omec-project/amf/pull/859) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [Rename variable enb to ran](https://github.com/omec-project/sdcore-helm-charts/pull/187) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 day ago)*
+- [Close TOCTOU gap between removal check and handler run](https://github.com/omec-project/amf/pull/857) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
 
 
 
