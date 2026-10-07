@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
+- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** - Metric Function *(1 day ago)*
 - **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
 - **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** -  *(1 day ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(1 day ago)*
-- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** - Metric Function *(4 days ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(4 days ago)*
-- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** -  *(4 days ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(4 days ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(1 day ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.9.0](https://github.com/omec-project/util/releases/tag/v1.9.0)) -  *(today)*
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.9.3](https://github.com/omec-project/sctplb/releases/tag/v1.9.3)) - SCTP Load Balancer *(1 day ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.1.4](https://github.com/omec-project/webconsole/releases/tag/v3.1.4)) -  *(4 days ago)*
-- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** ([v2.1.3](https://github.com/omec-project/metricfunc/releases/tag/v2.1.3)) - Metric Function *(4 days ago)*
-- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.2.1](https://github.com/omec-project/upfadapter/releases/tag/v2.2.1)) -  *(4 days ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.9.5](https://github.com/omec-project/simapp/releases/tag/v1.9.5)) - Sim subscription app for Aether *(4 days ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v5.0.0](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v5.0.0)) - Helm charts used for SD-Core packaging *(5 days ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.8](https://github.com/omec-project/ngap/releases/tag/v2.1.8)) -  *(6 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.9.1](https://github.com/omec-project/util/releases/tag/v1.9.1)) -  *(today)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.7](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.7)) - PFCP client simulator used for UPF testing *(1 day ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.9.3](https://github.com/omec-project/sctplb/releases/tag/v1.9.3)) - SCTP Load Balancer *(2 days ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.1.4](https://github.com/omec-project/webconsole/releases/tag/v3.1.4)) -  *(5 days ago)*
+- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** ([v2.1.3](https://github.com/omec-project/metricfunc/releases/tag/v2.1.3)) - Metric Function *(5 days ago)*
+- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.2.1](https://github.com/omec-project/upfadapter/releases/tag/v2.2.1)) -  *(5 days ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.9.5](https://github.com/omec-project/simapp/releases/tag/v1.9.5)) - Sim subscription app for Aether *(5 days ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v5.0.0](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v5.0.0)) - Helm charts used for SD-Core packaging *(6 days ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Remove dead code from flowdesc, logger, metricinfo, mongoapi; bump VERSION](https://github.com/omec-project/util/pull/317) on **[omec-project/util](https://github.com/omec-project/util)** *(today)*
-- [Count N4 send failures exactly once; response-retention timeout no longer counted as failure](https://github.com/omec-project/smf/pull/683) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
-- [Update mongodb url and package dependencies](https://github.com/omec-project/smf/pull/682) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
-- [Resolve TODOs: use event-subscription Options accessors, document unmapped policy triggers](https://github.com/omec-project/amf/pull/864) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
-- [Update mongodb url and package dependencies](https://github.com/omec-project/amf/pull/863) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
-- [Replace `ngapConvert.UEAmbrToInt64` with `util.BitRateToBps` for AMBR parsing](https://github.com/omec-project/smf/pull/681) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
-- [Rename pktgen.bess to pktgen_sim.bess and fix docs references](https://github.com/omec-project/upf/pull/1339) on **[omec-project/upf](https://github.com/omec-project/upf)** *(4 days ago)*
-- [Remove unused component from repo](https://github.com/omec-project/util/pull/316) on **[omec-project/util](https://github.com/omec-project/util)** *(4 days ago)*
+- [Modernize codebase: replace interface{} with any](https://github.com/omec-project/upf/pull/1344) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
+- [Modernize codebase: replace interface{} with any](https://github.com/omec-project/smf/pull/686) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
+- [Update dependencies](https://github.com/omec-project/webconsole/pull/597) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(today)*
+- [Update dependencies](https://github.com/omec-project/upf/pull/1343) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
+- [Update dependencies](https://github.com/omec-project/udr/pull/380) on **[omec-project/udr](https://github.com/omec-project/udr)** *(today)*
+- [Update dependencies](https://github.com/omec-project/udm/pull/411) on **[omec-project/udm](https://github.com/omec-project/udm)** *(today)*
+- [Update dependencies](https://github.com/omec-project/smf/pull/685) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
+- [Update dependencies](https://github.com/omec-project/simapp/pull/302) on **[omec-project/simapp](https://github.com/omec-project/simapp)** *(today)*
 
 
 
