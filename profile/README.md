@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(1 day ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(1 day ago)*
 - **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
-- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** - Metric Function *(2 days ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(2 days ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(2 days ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(2 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 day ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(2 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(2 days ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(2 days ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(3 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.9](https://github.com/omec-project/ngap/releases/tag/v2.1.9)) -  *(1 day ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.9.1](https://github.com/omec-project/util/releases/tag/v1.9.1)) -  *(1 day ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.7](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.7)) - PFCP client simulator used for UPF testing *(2 days ago)*
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.9.3](https://github.com/omec-project/sctplb/releases/tag/v1.9.3)) - SCTP Load Balancer *(3 days ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.1.4](https://github.com/omec-project/webconsole/releases/tag/v3.1.4)) -  *(6 days ago)*
-- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** ([v2.1.3](https://github.com/omec-project/metricfunc/releases/tag/v2.1.3)) - Metric Function *(6 days ago)*
-- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.2.1](https://github.com/omec-project/upfadapter/releases/tag/v2.2.1)) -  *(6 days ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.9.5](https://github.com/omec-project/simapp/releases/tag/v1.9.5)) - Sim subscription app for Aether *(6 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.33](https://github.com/omec-project/.github/releases/tag/v0.0.33)) -  *(today)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.9](https://github.com/omec-project/ngap/releases/tag/v2.1.9)) -  *(2 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.9.1](https://github.com/omec-project/util/releases/tag/v1.9.1)) -  *(2 days ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.7](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.7)) - PFCP client simulator used for UPF testing *(3 days ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.9.3](https://github.com/omec-project/sctplb/releases/tag/v1.9.3)) - SCTP Load Balancer *(4 days ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.1.4](https://github.com/omec-project/webconsole/releases/tag/v3.1.4)) -  *(1 week ago)*
+- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** ([v2.1.3](https://github.com/omec-project/metricfunc/releases/tag/v2.1.3)) - Metric Function *(1 week ago)*
+- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.2.1](https://github.com/omec-project/upfadapter/releases/tag/v2.2.1)) -  *(1 week ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Aggregate the create establishment verdict across every UPF](https://github.com/omec-project/smf/pull/689) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
-- [Add the create-establishment verdict aggregation primitive](https://github.com/omec-project/smf/pull/688) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
-- [Add vault support for group_vars/all, split into computed.yml&#43;vault.yml](https://github.com/opennetworkinglab/aether-onramp/pull/257) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
-- [Use reflect.Pointer and Ptr* helpers via new()](https://github.com/omec-project/openapi/pull/197) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(1 day ago)*
-- [Fix optional BitString test data and re-enable TestOptional](https://github.com/omec-project/ngap/pull/133) on **[omec-project/ngap](https://github.com/omec-project/ngap)** *(1 day ago)*
-- [Traffic generator: Config-driven bidirectional external-datapath packet generator](https://github.com/omec-project/upf/pull/1345) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
-- [Modernize codebase: replace interface{} with any](https://github.com/omec-project/upf/pull/1344) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
-- [Modernize codebase: replace interface{} with any](https://github.com/omec-project/smf/pull/686) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Add configurable staticcheck_version input, default v0.8.1](https://github.com/omec-project/.github/pull/214) on **[omec-project/.github](https://github.com/omec-project/.github)** *(today)*
+- [Replace openapi pointer helpers with new() and use some model setters](https://github.com/omec-project/pcf/pull/412) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(today)*
+- [Replace some openapi pointer helpers with new() and use strings.Builder](https://github.com/omec-project/pcf/pull/411) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(1 day ago)*
+- [Do not return subscription errors from NF discovery, only log them](https://github.com/omec-project/pcf/pull/410) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(1 day ago)*
+- [Make UPF access/core SR-IOV resource pool names configurable (DPDK)](https://github.com/opennetworkinglab/aether-onramp/pull/258) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(1 day ago)*
+- [Rename log fields to camelCase](https://github.com/omec-project/pcf/pull/409) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(1 day ago)*
+- [Replace boolPointer helper with new(x)](https://github.com/omec-project/smf/pull/690) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Aggregate the create establishment verdict across every UPF](https://github.com/omec-project/smf/pull/689) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
 
 
 
