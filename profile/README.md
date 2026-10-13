@@ -8,22 +8,22 @@ through open-source collaboration, patents, and strategic execution.
 #### 🚀 What I'm currently working on
 
 - **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(today)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(4 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(4 days ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(4 days ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(5 days ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(5 days ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(5 days ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(6 days ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 day ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 day ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(1 day ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.33](https://github.com/omec-project/.github/releases/tag/v0.0.33)) -  *(3 days ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.9](https://github.com/omec-project/ngap/releases/tag/v2.1.9)) -  *(5 days ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.9.1](https://github.com/omec-project/util/releases/tag/v1.9.1)) -  *(5 days ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.7](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.7)) - PFCP client simulator used for UPF testing *(6 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.34](https://github.com/omec-project/.github/releases/tag/v0.0.34)) -  *(1 day ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.9.2](https://github.com/omec-project/util/releases/tag/v1.9.2)) -  *(1 day ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.8](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.8)) - PFCP client simulator used for UPF testing *(1 day ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.9](https://github.com/omec-project/ngap/releases/tag/v2.1.9)) -  *(6 days ago)*
 - **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.9.3](https://github.com/omec-project/sctplb/releases/tag/v1.9.3)) - SCTP Load Balancer *(1 week ago)*
 - **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.1.4](https://github.com/omec-project/webconsole/releases/tag/v3.1.4)) -  *(1 week ago)*
 - **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** ([v2.1.3](https://github.com/omec-project/metricfunc/releases/tag/v2.1.3)) - Metric Function *(1 week ago)*
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Update dependencies and add staticcheck version in calling workflow](https://github.com/omec-project/pfcpsim/pull/355) on **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** *(today)*
-- [Add staticcheck version in calling workflow](https://github.com/omec-project/openapi/pull/198) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
-- [Add configurable staticcheck_version input, default v0.8.1](https://github.com/omec-project/.github/pull/214) on **[omec-project/.github](https://github.com/omec-project/.github)** *(3 days ago)*
-- [Replace openapi pointer helpers with new() and use some model setters](https://github.com/omec-project/pcf/pull/412) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(3 days ago)*
-- [Replace some openapi pointer helpers with new() and use strings.Builder](https://github.com/omec-project/pcf/pull/411) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(4 days ago)*
-- [Do not return subscription errors from NF discovery, only log them](https://github.com/omec-project/pcf/pull/410) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(4 days ago)*
-- [Make UPF access/core SR-IOV resource pool names configurable (DPDK)](https://github.com/opennetworkinglab/aether-onramp/pull/258) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(4 days ago)*
-- [Rename log fields to camelCase](https://github.com/omec-project/pcf/pull/409) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(4 days ago)*
+- [Unexport GetPccRuleId/GetQosId/GetTcId to lowercase, tweak doc comments](https://github.com/omec-project/pcf/pull/416) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(today)*
+- [Handle SIGTERM gracefully: drain connections before exit](https://github.com/omec-project/sctplb/pull/306) on **[omec-project/sctplb](https://github.com/omec-project/sctplb)** *(1 day ago)*
+- [Pin release tag and SBOM checkout to triggering commit SHA](https://github.com/omec-project/.github/pull/219) on **[omec-project/.github](https://github.com/omec-project/.github)** *(1 day ago)*
+- [Update dependencies and add staticcheck version in calling workflow](https://github.com/omec-project/webconsole/pull/600) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
+- [Add staticcheck version in calling workflow](https://github.com/omec-project/upfadapter/pull/131) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(1 day ago)*
+- [Update dependencies and add staticcheck version in calling workflow](https://github.com/omec-project/upf/pull/1353) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Update dependencies and add staticcheck version in calling workflow](https://github.com/omec-project/udr/pull/383) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
+- [Update dependencies and add staticcheck version in calling workflow](https://github.com/omec-project/udm/pull/414) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
 
 
 
