@@ -7,21 +7,21 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(today)*
 - **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(4 days ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(4 days ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(5 days ago)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(5 days ago)*
-- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(5 days ago)*
-- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(5 days ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(5 days ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 day ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(5 days ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(6 days ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(6 days ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(6 days ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(6 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.7](https://github.com/omec-project/nas/releases/tag/v2.2.7)) -  *(6 days ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.10](https://github.com/omec-project/ngap/releases/tag/v2.1.10)) -  *(6 days ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.7](https://github.com/omec-project/nas/releases/tag/v2.2.7)) -  *(1 week ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.10](https://github.com/omec-project/ngap/releases/tag/v2.1.10)) -  *(1 week ago)*
 - **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.9.4](https://github.com/omec-project/sctplb/releases/tag/v1.9.4)) - SCTP Load Balancer *(1 week ago)*
 - **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.34](https://github.com/omec-project/.github/releases/tag/v0.0.34)) -  *(1 week ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** ([v1.9.2](https://github.com/omec-project/util/releases/tag/v1.9.2)) -  *(1 week ago)*
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Ignore retransmitted release requests for already-inactive SM contexts](https://github.com/omec-project/smf/pull/700) on **[omec-project/smf](https://github.com/omec-project/smf)** *(3 days ago)*
-- [Speed up test timings and make retry backoffs configurable for faster tests](https://github.com/omec-project/smf/pull/699) on **[omec-project/smf](https://github.com/omec-project/smf)** *(4 days ago)*
-- [Route PDU session modify for inactive/pending states, reject with cause # 43](https://github.com/omec-project/smf/pull/698) on **[omec-project/smf](https://github.com/omec-project/smf)** *(4 days ago)*
-- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/smf/pull/697) on **[omec-project/smf](https://github.com/omec-project/smf)** *(4 days ago)*
-- [Make retry/backoff delays (RanUe detach grace, index-ensure backoff, NF registration retry) test-overridable](https://github.com/omec-project/amf/pull/880) on **[omec-project/amf](https://github.com/omec-project/amf)** *(4 days ago)*
-- [Fix subscriber auth writes routed to wrong Mongo server via AuthDBClient](https://github.com/omec-project/webconsole/pull/601) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(4 days ago)*
-- [Make retry/polling intervals overridable vars to speed up tests](https://github.com/omec-project/udr/pull/384) on **[omec-project/udr](https://github.com/omec-project/udr)** *(4 days ago)*
-- [Make retry/polling intervals overridable vars to speed up tests](https://github.com/omec-project/udm/pull/415) on **[omec-project/udm](https://github.com/omec-project/udm)** *(4 days ago)*
+- [Fix F-TEID routing to match the responding UPF, not DNS-resolved IP](https://github.com/omec-project/smf/pull/701) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
+- [Add fuzz testing](https://github.com/omec-project/amf/pull/883) on **[omec-project/amf](https://github.com/omec-project/amf)** *(today)*
+- [Add thread safety to UE maps and half-open IKE SA DoS protection](https://github.com/omec-project/n3iwf/pull/238) on **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** *(today)*
+- [Fix nil-deref panics and integer-overflow bugs in IKE/NGAP parsing](https://github.com/omec-project/n3iwf/pull/237) on **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** *(today)*
+- [Ignore retransmitted release requests for already-inactive SM contexts](https://github.com/omec-project/smf/pull/700) on **[omec-project/smf](https://github.com/omec-project/smf)** *(4 days ago)*
+- [Speed up test timings and make retry backoffs configurable for faster tests](https://github.com/omec-project/smf/pull/699) on **[omec-project/smf](https://github.com/omec-project/smf)** *(5 days ago)*
+- [Route PDU session modify for inactive/pending states, reject with cause # 43](https://github.com/omec-project/smf/pull/698) on **[omec-project/smf](https://github.com/omec-project/smf)** *(5 days ago)*
+- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/smf/pull/697) on **[omec-project/smf](https://github.com/omec-project/smf)** *(5 days ago)*
 
 
 
