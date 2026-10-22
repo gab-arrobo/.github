@@ -7,14 +7,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(today)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 day ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(5 days ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(6 days ago)*
-- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(6 days ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(6 days ago)*
-- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(6 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(today)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(1 day ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
+- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(1 day ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(2 days ago)*
 
 
 
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Fix F-TEID routing to match the responding UPF, not DNS-resolved IP](https://github.com/omec-project/smf/pull/701) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
-- [Add fuzz testing](https://github.com/omec-project/amf/pull/883) on **[omec-project/amf](https://github.com/omec-project/amf)** *(today)*
-- [Add thread safety to UE maps and half-open IKE SA DoS protection](https://github.com/omec-project/n3iwf/pull/238) on **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** *(today)*
-- [Fix nil-deref panics and integer-overflow bugs in IKE/NGAP parsing](https://github.com/omec-project/n3iwf/pull/237) on **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** *(today)*
-- [Ignore retransmitted release requests for already-inactive SM contexts](https://github.com/omec-project/smf/pull/700) on **[omec-project/smf](https://github.com/omec-project/smf)** *(4 days ago)*
-- [Speed up test timings and make retry backoffs configurable for faster tests](https://github.com/omec-project/smf/pull/699) on **[omec-project/smf](https://github.com/omec-project/smf)** *(5 days ago)*
-- [Route PDU session modify for inactive/pending states, reject with cause # 43](https://github.com/omec-project/smf/pull/698) on **[omec-project/smf](https://github.com/omec-project/smf)** *(5 days ago)*
-- [Use accessors (new, get, set) instead of direct field access](https://github.com/omec-project/smf/pull/697) on **[omec-project/smf](https://github.com/omec-project/smf)** *(5 days ago)*
+- [Validate index-table hash flags in WildcardMatch (RW_CONCURRENCY only)](https://github.com/omec-project/upf/pull/1361) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
+- [Bump gNB/UE/N3IWF image tags in blueprints; add Ubuntu 26.04 to supported OS](https://github.com/opennetworkinglab/aether-docs/pull/95) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
+- [Implement GET /policy-data/bdt-data with DB error handling and tests](https://github.com/omec-project/udr/pull/386) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
+- [Fix ToSupi panic on HNPublicKeyID 0 and add range tests (66 chars)](https://github.com/omec-project/udm/pull/417) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
+- [Lowercase test error messages in nfregistration tests](https://github.com/omec-project/ausf/pull/362) on **[omec-project/ausf](https://github.com/omec-project/ausf)** *(1 day ago)*
+- [Send HandoverPreparationFailure for unsupported or unknown handover targets](https://github.com/omec-project/amf/pull/885) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [Fix F-TEID routing to match the responding UPF, not DNS-resolved IP](https://github.com/omec-project/smf/pull/701) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Add fuzz testing](https://github.com/omec-project/amf/pull/883) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
 
 
 
