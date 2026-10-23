@@ -7,14 +7,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(today)*
-- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(1 day ago)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
-- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(1 day ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(2 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(2 days ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(2 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(2 days ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(2 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(2 days ago)*
+- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(2 days ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(3 days ago)*
 
 
 
@@ -26,29 +26,29 @@ through open-source collaboration, patents, and strategic execution.
 - **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.34](https://github.com/omec-project/.github/releases/tag/v0.0.34)) -  *(1 week ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** ([v1.9.2](https://github.com/omec-project/util/releases/tag/v1.9.2)) -  *(1 week ago)*
 - **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.8](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.8)) - PFCP client simulator used for UPF testing *(1 week ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.1.4](https://github.com/omec-project/webconsole/releases/tag/v3.1.4)) -  *(2 weeks ago)*
-- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** ([v2.1.3](https://github.com/omec-project/metricfunc/releases/tag/v2.1.3)) - Metric Function *(2 weeks ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** ([v3.1.4](https://github.com/omec-project/webconsole/releases/tag/v3.1.4)) -  *(3 weeks ago)*
+- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** ([v2.1.3](https://github.com/omec-project/metricfunc/releases/tag/v2.1.3)) - Metric Function *(3 weeks ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Validate index-table hash flags in WildcardMatch (RW_CONCURRENCY only)](https://github.com/omec-project/upf/pull/1361) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
-- [Bump gNB/UE/N3IWF image tags in blueprints; add Ubuntu 26.04 to supported OS](https://github.com/opennetworkinglab/aether-docs/pull/95) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(1 day ago)*
-- [Implement GET /policy-data/bdt-data with DB error handling and tests](https://github.com/omec-project/udr/pull/386) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
-- [Fix ToSupi panic on HNPublicKeyID 0 and add range tests (66 chars)](https://github.com/omec-project/udm/pull/417) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
-- [Lowercase test error messages in nfregistration tests](https://github.com/omec-project/ausf/pull/362) on **[omec-project/ausf](https://github.com/omec-project/ausf)** *(1 day ago)*
-- [Send HandoverPreparationFailure for unsupported or unknown handover targets](https://github.com/omec-project/amf/pull/885) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
-- [Fix F-TEID routing to match the responding UPF, not DNS-resolved IP](https://github.com/omec-project/smf/pull/701) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
-- [Add fuzz testing](https://github.com/omec-project/amf/pull/883) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [fix: a modification that cannot be built in full is not sent](https://github.com/omec-project/smf/pull/703) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Validate index-table hash flags in WildcardMatch (RW_CONCURRENCY only)](https://github.com/omec-project/upf/pull/1361) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Bump gNB/UE/N3IWF image tags in blueprints; add Ubuntu 26.04 to supported OS](https://github.com/opennetworkinglab/aether-docs/pull/95) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(2 days ago)*
+- [Implement GET /policy-data/bdt-data with DB error handling and tests](https://github.com/omec-project/udr/pull/386) on **[omec-project/udr](https://github.com/omec-project/udr)** *(2 days ago)*
+- [Fix ToSupi panic on HNPublicKeyID 0 and add range tests (66 chars)](https://github.com/omec-project/udm/pull/417) on **[omec-project/udm](https://github.com/omec-project/udm)** *(2 days ago)*
+- [Lowercase test error messages in nfregistration tests](https://github.com/omec-project/ausf/pull/362) on **[omec-project/ausf](https://github.com/omec-project/ausf)** *(2 days ago)*
+- [Send HandoverPreparationFailure for unsupported or unknown handover targets](https://github.com/omec-project/amf/pull/885) on **[omec-project/amf](https://github.com/omec-project/amf)** *(2 days ago)*
+- [Fix F-TEID routing to match the responding UPF, not DNS-resolved IP](https://github.com/omec-project/smf/pull/701) on **[omec-project/smf](https://github.com/omec-project/smf)** *(2 days ago)*
 
 
 
 #### 👥 Recent followers
 
+- [elnegrogato](https://github.com/elnegrogato)
 - [Cdayz](https://github.com/Cdayz)
 - [donivtech](https://github.com/donivtech)
 - [yhm1620](https://github.com/yhm1620)
 - [Surfndez](https://github.com/Surfndez)
-- [vhPedroGitHub](https://github.com/vhPedroGitHub)
 
 ---
 
