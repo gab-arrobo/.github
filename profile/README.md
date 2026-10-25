@@ -7,14 +7,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(today)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(today)*
-- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(3 days ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(3 days ago)*
-- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(3 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(3 days ago)*
-- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(3 days ago)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(3 days ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(4 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(4 days ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(4 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(4 days ago)*
+- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(4 days ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(4 days ago)*
 
 
 
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Do not wrap a negative PCC rule precedence when building a PDR](https://github.com/omec-project/smf/pull/708) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
-- [Ignore a negative decided precedence instead of wrapping it](https://github.com/omec-project/smf/pull/707) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
-- [check the added uplink Create PDR F-TEID on the wire](https://github.com/omec-project/smf/pull/706) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
-- [fix: name the installed F-TEID on uplink PDRs of added rules](https://github.com/omec-project/smf/pull/705) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
-- [Avoid DNS lookups under SMLock and drop stale verdict in rollback](https://github.com/omec-project/smf/pull/704) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
-- [fix: a modification that cannot be built in full is not sent](https://github.com/omec-project/smf/pull/703) on **[omec-project/smf](https://github.com/omec-project/smf)** *(2 days ago)*
-- [Validate index-table hash flags in WildcardMatch (RW_CONCURRENCY only)](https://github.com/omec-project/upf/pull/1361) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
-- [Bump gNB/UE/N3IWF image tags in blueprints; add Ubuntu 26.04 to supported OS](https://github.com/opennetworkinglab/aether-docs/pull/95) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(3 days ago)*
+- [Do not wrap a negative PCC rule precedence when building a PDR](https://github.com/omec-project/smf/pull/708) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Ignore a negative decided precedence instead of wrapping it](https://github.com/omec-project/smf/pull/707) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [check the added uplink Create PDR F-TEID on the wire](https://github.com/omec-project/smf/pull/706) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [fix: name the installed F-TEID on uplink PDRs of added rules](https://github.com/omec-project/smf/pull/705) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Avoid DNS lookups under SMLock and drop stale verdict in rollback](https://github.com/omec-project/smf/pull/704) on **[omec-project/smf](https://github.com/omec-project/smf)** *(2 days ago)*
+- [fix: a modification that cannot be built in full is not sent](https://github.com/omec-project/smf/pull/703) on **[omec-project/smf](https://github.com/omec-project/smf)** *(3 days ago)*
+- [Validate index-table hash flags in WildcardMatch (RW_CONCURRENCY only)](https://github.com/omec-project/upf/pull/1361) on **[omec-project/upf](https://github.com/omec-project/upf)** *(3 days ago)*
+- [Bump gNB/UE/N3IWF image tags in blueprints; add Ubuntu 26.04 to supported OS](https://github.com/opennetworkinglab/aether-docs/pull/95) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(4 days ago)*
 
 
 
