@@ -7,21 +7,21 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(1 day ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(3 days ago)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(3 days ago)*
-- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(6 days ago)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(6 days ago)*
-- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(6 days ago)*
-- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(6 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(6 days ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(1 day ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 day ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 day ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(2 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(4 days ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(4 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 week ago)*
+- **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(1 week ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.7](https://github.com/omec-project/nas/releases/tag/v2.2.7)) -  *(1 week ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.10](https://github.com/omec-project/ngap/releases/tag/v2.1.10)) -  *(1 week ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.7](https://github.com/omec-project/nas/releases/tag/v2.2.7)) -  *(2 weeks ago)*
+- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.10](https://github.com/omec-project/ngap/releases/tag/v2.1.10)) -  *(2 weeks ago)*
 - **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.9.4](https://github.com/omec-project/sctplb/releases/tag/v1.9.4)) - SCTP Load Balancer *(2 weeks ago)*
 - **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.0.34](https://github.com/omec-project/.github/releases/tag/v0.0.34)) -  *(2 weeks ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** ([v1.9.2](https://github.com/omec-project/util/releases/tag/v1.9.2)) -  *(2 weeks ago)*
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Regenerate models: fix regex escaping and simplify oneOf unmarshal](https://github.com/omec-project/openapi/pull/202) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
-- [Do not wrap a negative PCC rule precedence when building a PDR](https://github.com/omec-project/smf/pull/708) on **[omec-project/smf](https://github.com/omec-project/smf)** *(3 days ago)*
-- [Ignore a negative decided precedence instead of wrapping it](https://github.com/omec-project/smf/pull/707) on **[omec-project/smf](https://github.com/omec-project/smf)** *(3 days ago)*
-- [check the added uplink Create PDR F-TEID on the wire](https://github.com/omec-project/smf/pull/706) on **[omec-project/smf](https://github.com/omec-project/smf)** *(3 days ago)*
-- [fix: name the installed F-TEID on uplink PDRs of added rules](https://github.com/omec-project/smf/pull/705) on **[omec-project/smf](https://github.com/omec-project/smf)** *(3 days ago)*
-- [Avoid DNS lookups under SMLock and drop stale verdict in rollback](https://github.com/omec-project/smf/pull/704) on **[omec-project/smf](https://github.com/omec-project/smf)** *(4 days ago)*
-- [fix: a modification that cannot be built in full is not sent](https://github.com/omec-project/smf/pull/703) on **[omec-project/smf](https://github.com/omec-project/smf)** *(5 days ago)*
-- [Validate index-table hash flags in WildcardMatch (RW_CONCURRENCY only)](https://github.com/omec-project/upf/pull/1361) on **[omec-project/upf](https://github.com/omec-project/upf)** *(5 days ago)*
+- [Add badges to the repo](https://github.com/omec-project/ngap/pull/143) on **[omec-project/ngap](https://github.com/omec-project/ngap)** *(1 day ago)*
+- [Add badges to the repo](https://github.com/omec-project/nas/pull/237) on **[omec-project/nas](https://github.com/omec-project/nas)** *(1 day ago)*
+- [Refactor repeated Service and Deployment YAML into Helm helpers](https://github.com/omec-project/sdcore-helm-charts/pull/208) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 day ago)*
+- [Wait for webui in init containers of NFs that poll its config](https://github.com/omec-project/sdcore-helm-charts/pull/207) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 day ago)*
+- [Regenerate models: fix regex escaping and simplify oneOf unmarshal](https://github.com/omec-project/openapi/pull/202) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(1 day ago)*
+- [Do not wrap a negative PCC rule precedence when building a PDR](https://github.com/omec-project/smf/pull/708) on **[omec-project/smf](https://github.com/omec-project/smf)** *(4 days ago)*
+- [Ignore a negative decided precedence instead of wrapping it](https://github.com/omec-project/smf/pull/707) on **[omec-project/smf](https://github.com/omec-project/smf)** *(4 days ago)*
+- [check the added uplink Create PDR F-TEID on the wire](https://github.com/omec-project/smf/pull/706) on **[omec-project/smf](https://github.com/omec-project/smf)** *(4 days ago)*
 
 
 
