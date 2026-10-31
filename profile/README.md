@@ -8,37 +8,37 @@ through open-source collaboration, patents, and strategic execution.
 #### 🚀 What I'm currently working on
 
 - **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** -  *(1 day ago)*
-- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 day ago)*
+- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** - Documentation for SD-Core project *(1 day ago)*
+- **[omec-project/af](https://github.com/omec-project/af)** -  *(1 day ago)*
 - **[omec-project/.github](https://github.com/omec-project/.github)** -  *(1 day ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(1 day ago)*
-- **[omec-project/aether-cni](https://github.com/omec-project/aether-cni)** - Dockerfile that incorporates and packages K8S CNI plugins used in Aether SD-Core (UPF in DPDK mode) *(2 days ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(2 days ago)*
+- **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** -  *(1 day ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** - Helm charts used for SD-Core packaging *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(2 days ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(2 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.1.1](https://github.com/omec-project/.github/releases/tag/v0.1.1)) -  *(today)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.4.1](https://github.com/omec-project/openapi/releases/tag/v2.4.1)) -  *(today)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v6.0.0](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v6.0.0)) - Helm charts used for SD-Core packaging *(1 day ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.9.3](https://github.com/omec-project/util/releases/tag/v1.9.3)) -  *(2 days ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.9](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.9)) - PFCP client simulator used for UPF testing *(2 days ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v6.1.0](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v6.1.0)) - Helm charts used for SD-Core packaging *(today)*
+- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** ([v1.5.0](https://github.com/omec-project/sdcore-docs/releases/tag/v1.5.0)) - Documentation for SD-Core project *(today)*
+- **[omec-project/af](https://github.com/omec-project/af)** ([v1.0.0](https://github.com/omec-project/af/releases/tag/v1.0.0)) -  *(1 day ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.1.2](https://github.com/omec-project/.github/releases/tag/v0.1.2)) -  *(1 day ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.4.1](https://github.com/omec-project/openapi/releases/tag/v2.4.1)) -  *(1 day ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.9.3](https://github.com/omec-project/util/releases/tag/v1.9.3)) -  *(3 days ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.9](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.9)) - PFCP client simulator used for UPF testing *(3 days ago)*
 - **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.7](https://github.com/omec-project/nas/releases/tag/v2.2.7)) -  *(2 weeks ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.10](https://github.com/omec-project/ngap/releases/tag/v2.1.10)) -  *(2 weeks ago)*
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.9.4](https://github.com/omec-project/sctplb/releases/tag/v1.9.4)) - SCTP Load Balancer *(2 weeks ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Address issue with E2E action](https://github.com/omec-project/.github/pull/227) on **[omec-project/.github](https://github.com/omec-project/.github)** *(today)*
-- [Fix issue with nullable](https://github.com/omec-project/openapi/pull/210) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
-- [Upgrade python version, add pre-commit hooks and create minor release](https://github.com/omec-project/.github/pull/225) on **[omec-project/.github](https://github.com/omec-project/.github)** *(today)*
-- [Enable generateMarshalJSON for models](https://github.com/omec-project/openapi/pull/208) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
-- [Update to SD-Core 6.0.0 and use new mongodb/kafka values keys](https://github.com/opennetworkinglab/aether-docs/pull/99) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(today)*
-- [Update to SD-Core 6.0.0 and use new mongodb/kafka values keys](https://github.com/opennetworkinglab/aether-onramp/pull/268) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(today)*
-- [Create major release](https://github.com/omec-project/sdcore-helm-charts/pull/215) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 day ago)*
-- [Remove Bitnami MongoDB and Kafka, use operators for both](https://github.com/omec-project/sdcore-helm-charts/pull/214) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 day ago)*
+- [Enable missing E2E action](https://github.com/omec-project/af/pull/8) on **[omec-project/af](https://github.com/omec-project/af)** *(today)*
+- [Bump SD-Core and BESS-UPF Helm chart versions to 6.1.0](https://github.com/opennetworkinglab/aether-docs/pull/101) on **[opennetworkinglab/aether-docs](https://github.com/opennetworkinglab/aether-docs)** *(today)*
+- [Bump SD-Core and BESS-UPF Helm chart versions to 6.1.0](https://github.com/opennetworkinglab/aether-onramp/pull/269) on **[opennetworkinglab/aether-onramp](https://github.com/opennetworkinglab/aether-onramp)** *(today)*
+- [Add AF (Application Function) to Aether SD-Core](https://github.com/omec-project/sdcore-docs/pull/127) on **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** *(1 day ago)*
+- [Add AF (Application Function) to Aether SD-Core](https://github.com/omec-project/sdcore-helm-charts/pull/218) on **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** *(1 day ago)*
+- [Create first release](https://github.com/omec-project/af/pull/6) on **[omec-project/af](https://github.com/omec-project/af)** *(1 day ago)*
+- [Add missing E2E action (Temporarily disabled)](https://github.com/omec-project/af/pull/5) on **[omec-project/af](https://github.com/omec-project/af)** *(1 day ago)*
+- [Default CI MongoDB to one member and no arbiter](https://github.com/omec-project/.github/pull/229) on **[omec-project/.github](https://github.com/omec-project/.github)** *(1 day ago)*
 
 
 
