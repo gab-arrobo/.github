@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(today)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(today)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(today)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(today)*
-- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** -  *(1 day ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(1 day ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(1 day ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(1 day ago)*
+- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** -  *(2 days ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(2 days ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(2 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v6.1.2](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v6.1.2)) - Helm charts used for SD-Core packaging *(1 day ago)*
-- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** ([v1.5.0](https://github.com/omec-project/sdcore-docs/releases/tag/v1.5.0)) - Documentation for SD-Core project *(3 days ago)*
-- **[omec-project/af](https://github.com/omec-project/af)** ([v1.0.0](https://github.com/omec-project/af/releases/tag/v1.0.0)) -  *(4 days ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.1.2](https://github.com/omec-project/.github/releases/tag/v0.1.2)) -  *(4 days ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.4.1](https://github.com/omec-project/openapi/releases/tag/v2.4.1)) -  *(4 days ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.9.3](https://github.com/omec-project/util/releases/tag/v1.9.3)) -  *(6 days ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.9](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.9)) - PFCP client simulator used for UPF testing *(6 days ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.7](https://github.com/omec-project/nas/releases/tag/v2.2.7)) -  *(2 weeks ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v6.1.2](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v6.1.2)) - Helm charts used for SD-Core packaging *(2 days ago)*
+- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** ([v1.5.0](https://github.com/omec-project/sdcore-docs/releases/tag/v1.5.0)) - Documentation for SD-Core project *(4 days ago)*
+- **[omec-project/af](https://github.com/omec-project/af)** ([v1.0.0](https://github.com/omec-project/af/releases/tag/v1.0.0)) -  *(5 days ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.1.2](https://github.com/omec-project/.github/releases/tag/v0.1.2)) -  *(5 days ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.4.1](https://github.com/omec-project/openapi/releases/tag/v2.4.1)) -  *(5 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.9.3](https://github.com/omec-project/util/releases/tag/v1.9.3)) -  *(1 week ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.9](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.9)) - PFCP client simulator used for UPF testing *(1 week ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.7](https://github.com/omec-project/nas/releases/tag/v2.2.7)) -  *(3 weeks ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Accept TS 29.514 ascReqData wrapper in app session PATCH body](https://github.com/omec-project/pcf/pull/427) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(today)*
-- [Fix SNOW3G data race, NIA0 zero MAC and NIA1 empty-message panic](https://github.com/omec-project/nas/pull/241) on **[omec-project/nas](https://github.com/omec-project/nas)** *(today)*
-- [Make NRF registration retry interval configurable](https://github.com/omec-project/pcf/pull/426) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(today)*
-- [Bump GO version](https://github.com/omec-project/webconsole/pull/614) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(today)*
-- [Bump GO version](https://github.com/omec-project/upf/pull/1391) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
-- [Bump GO version](https://github.com/omec-project/udr/pull/393) on **[omec-project/udr](https://github.com/omec-project/udr)** *(today)*
-- [Bump GO version](https://github.com/omec-project/udm/pull/424) on **[omec-project/udm](https://github.com/omec-project/udm)** *(today)*
-- [Bump GO version](https://github.com/omec-project/smf/pull/722) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
+- [Fix crash paths from malformed config, REST, NAS and NGAP input](https://github.com/omec-project/gnbsim/pull/558) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(1 day ago)*
+- [Read 2-octet length for unknown TLV-E IEs; fix protected NAS decode](https://github.com/omec-project/nas/pull/243) on **[omec-project/nas](https://github.com/omec-project/nas)** *(1 day ago)*
+- [Return decode errors and skip unknown IEs in NAS decoders](https://github.com/omec-project/nas/pull/242) on **[omec-project/nas](https://github.com/omec-project/nas)** *(1 day ago)*
+- [Strengthen TestSessionRulesToUpdate to check returned rules, not counts](https://github.com/omec-project/pcf/pull/428) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(1 day ago)*
+- [Accept TS 29.514 ascReqData wrapper in app session PATCH body](https://github.com/omec-project/pcf/pull/427) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(1 day ago)*
+- [Fix SNOW3G data race, NIA0 zero MAC and NIA1 empty-message panic](https://github.com/omec-project/nas/pull/241) on **[omec-project/nas](https://github.com/omec-project/nas)** *(1 day ago)*
+- [Make NRF registration retry interval configurable](https://github.com/omec-project/pcf/pull/426) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(1 day ago)*
+- [Bump GO version](https://github.com/omec-project/webconsole/pull/614) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
 
 
 
