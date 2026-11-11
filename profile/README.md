@@ -25,9 +25,9 @@ through open-source collaboration, patents, and strategic execution.
 - **[omec-project/af](https://github.com/omec-project/af)** ([v1.0.0](https://github.com/omec-project/af/releases/tag/v1.0.0)) -  *(1 week ago)*
 - **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.1.2](https://github.com/omec-project/.github/releases/tag/v0.1.2)) -  *(1 week ago)*
 - **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.4.1](https://github.com/omec-project/openapi/releases/tag/v2.4.1)) -  *(1 week ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.9.3](https://github.com/omec-project/util/releases/tag/v1.9.3)) -  *(1 week ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.9](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.9)) - PFCP client simulator used for UPF testing *(1 week ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.7](https://github.com/omec-project/nas/releases/tag/v2.2.7)) -  *(3 weeks ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.9.3](https://github.com/omec-project/util/releases/tag/v1.9.3)) -  *(2 weeks ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.9](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.9)) - PFCP client simulator used for UPF testing *(2 weeks ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.7](https://github.com/omec-project/nas/releases/tag/v2.2.7)) -  *(4 weeks ago)*
 
 #### 🔧 Recent Pull Requests
 
