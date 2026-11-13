@@ -7,14 +7,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/nssf](https://github.com/omec-project/nssf)** -  *(today)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** -  *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 week ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 week ago)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 week ago)*
-- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(1 week ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** -  *(1 week ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(1 day ago)*
+- **[omec-project/nssf](https://github.com/omec-project/nssf)** -  *(1 day ago)*
+- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(1 day ago)*
+- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(1 day ago)*
 
 
 
@@ -22,23 +22,23 @@ through open-source collaboration, patents, and strategic execution.
 
 - **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v6.1.2](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v6.1.2)) - Helm charts used for SD-Core packaging *(1 week ago)*
 - **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** ([v1.5.0](https://github.com/omec-project/sdcore-docs/releases/tag/v1.5.0)) - Documentation for SD-Core project *(1 week ago)*
-- **[omec-project/af](https://github.com/omec-project/af)** ([v1.0.0](https://github.com/omec-project/af/releases/tag/v1.0.0)) -  *(1 week ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.1.2](https://github.com/omec-project/.github/releases/tag/v0.1.2)) -  *(1 week ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.4.1](https://github.com/omec-project/openapi/releases/tag/v2.4.1)) -  *(1 week ago)*
+- **[omec-project/af](https://github.com/omec-project/af)** ([v1.0.0](https://github.com/omec-project/af/releases/tag/v1.0.0)) -  *(2 weeks ago)*
+- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.1.2](https://github.com/omec-project/.github/releases/tag/v0.1.2)) -  *(2 weeks ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.4.1](https://github.com/omec-project/openapi/releases/tag/v2.4.1)) -  *(2 weeks ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** ([v1.9.3](https://github.com/omec-project/util/releases/tag/v1.9.3)) -  *(2 weeks ago)*
 - **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.9](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.9)) - PFCP client simulator used for UPF testing *(2 weeks ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.7](https://github.com/omec-project/nas/releases/tag/v2.2.7)) -  *(4 weeks ago)*
+- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.7](https://github.com/omec-project/nas/releases/tag/v2.2.7)) -  *(1 month ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Make retry/polling intervals overridable vars to speed up tests](https://github.com/omec-project/nssf/pull/372) on **[omec-project/nssf](https://github.com/omec-project/nssf)** *(today)*
-- [Sign tokens with a configured asymmetric key](https://github.com/omec-project/nrf/pull/435) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(1 day ago)*
-- [Fix APER length/range encoding and extensible INTEGER root bounds](https://github.com/omec-project/ngap/pull/148) on **[omec-project/ngap](https://github.com/omec-project/ngap)** *(1 day ago)*
-- [Fix crash paths from malformed config, REST, NAS and NGAP input](https://github.com/omec-project/gnbsim/pull/558) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(1 week ago)*
-- [Read 2-octet length for unknown TLV-E IEs; fix protected NAS decode](https://github.com/omec-project/nas/pull/243) on **[omec-project/nas](https://github.com/omec-project/nas)** *(1 week ago)*
-- [Return decode errors and skip unknown IEs in NAS decoders](https://github.com/omec-project/nas/pull/242) on **[omec-project/nas](https://github.com/omec-project/nas)** *(1 week ago)*
-- [Strengthen TestSessionRulesToUpdate to check returned rules, not counts](https://github.com/omec-project/pcf/pull/428) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(1 week ago)*
-- [Accept TS 29.514 ascReqData wrapper in app session PATCH body](https://github.com/omec-project/pcf/pull/427) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(1 week ago)*
+- [Summarize DRSM pod logs as counts; extend idgenerator reuse test](https://github.com/omec-project/util/pull/334) on **[omec-project/util](https://github.com/omec-project/util)** *(today)*
+- [Require Non-GBR default 5QI, pick by priority level](https://github.com/omec-project/webconsole/pull/616) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(today)*
+- [ Use newer pre-commit hook for clang-format](https://github.com/omec-project/upf/pull/1410) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
+- [PTF dependency baseline: probe imports in a subprocess; make scripts executable](https://github.com/omec-project/upf/pull/1409) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
+- [Inline snssai hex conversion, use model getters, delete util/convert.go](https://github.com/omec-project/pcf/pull/432) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(1 day ago)*
+- [Do not fire URR thresholds for usage no PDR measures](https://github.com/omec-project/upf/pull/1408) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Return 500 when database writes fail instead of reporting success](https://github.com/omec-project/udr/pull/395) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
+- [Enforce NAS integrity checks and bounds on downlink decoding](https://github.com/omec-project/gnbsim/pull/560) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(1 day ago)*
 
 
 
