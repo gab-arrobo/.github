@@ -7,21 +7,21 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(1 day ago)*
-- **[omec-project/udm](https://github.com/omec-project/udm)** -  *(1 day ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
 - **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
 - **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** - PFCP client simulator used for UPF testing *(1 day ago)*
-- **[omec-project/nssf](https://github.com/omec-project/nssf)** -  *(1 day ago)*
-- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(1 day ago)*
-- **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** - gNB simulator *(1 day ago)*
+- **[omec-project/af](https://github.com/omec-project/af)** -  *(1 day ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(1 day ago)*
+- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** - Metric Function *(1 day ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
 - **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v6.1.2](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v6.1.2)) - Helm charts used for SD-Core packaging *(1 week ago)*
-- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** ([v1.5.0](https://github.com/omec-project/sdcore-docs/releases/tag/v1.5.0)) - Documentation for SD-Core project *(1 week ago)*
+- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** ([v1.5.0](https://github.com/omec-project/sdcore-docs/releases/tag/v1.5.0)) - Documentation for SD-Core project *(2 weeks ago)*
 - **[omec-project/af](https://github.com/omec-project/af)** ([v1.0.0](https://github.com/omec-project/af/releases/tag/v1.0.0)) -  *(2 weeks ago)*
 - **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.1.2](https://github.com/omec-project/.github/releases/tag/v0.1.2)) -  *(2 weeks ago)*
 - **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.4.1](https://github.com/omec-project/openapi/releases/tag/v2.4.1)) -  *(2 weeks ago)*
@@ -31,14 +31,14 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🔧 Recent Pull Requests
 
-- [Summarize DRSM pod logs as counts; extend idgenerator reuse test](https://github.com/omec-project/util/pull/334) on **[omec-project/util](https://github.com/omec-project/util)** *(today)*
-- [Require Non-GBR default 5QI, pick by priority level](https://github.com/omec-project/webconsole/pull/616) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(today)*
-- [ Use newer pre-commit hook for clang-format](https://github.com/omec-project/upf/pull/1410) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
-- [PTF dependency baseline: probe imports in a subprocess; make scripts executable](https://github.com/omec-project/upf/pull/1409) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
-- [Inline snssai hex conversion, use model getters, delete util/convert.go](https://github.com/omec-project/pcf/pull/432) on **[omec-project/pcf](https://github.com/omec-project/pcf)** *(1 day ago)*
-- [Do not fire URR thresholds for usage no PDR measures](https://github.com/omec-project/upf/pull/1408) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
-- [Return 500 when database writes fail instead of reporting success](https://github.com/omec-project/udr/pull/395) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
-- [Enforce NAS integrity checks and bounds on downlink decoding](https://github.com/omec-project/gnbsim/pull/560) on **[omec-project/gnbsim](https://github.com/omec-project/gnbsim)** *(1 day ago)*
+- [Add NRF registration and NF config polling packages with loggers](https://github.com/omec-project/openapi/pull/216) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
+- [Support nfServiceList in UDM discovery alongside deprecated nfServices](https://github.com/omec-project/webconsole/pull/621) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
+- [Support nfServiceList in UDM discovery alongside deprecated nfServices](https://github.com/omec-project/ausf/pull/373) on **[omec-project/ausf](https://github.com/omec-project/ausf)** *(1 day ago)*
+- [Bound slice growth in AMF UE concurrency tests by resetting every 50 appends](https://github.com/omec-project/amf/pull/900) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [Add hadolint hook and run Docker image as non-root user (UID 1000)](https://github.com/omec-project/webconsole/pull/620) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
+- [Add hadolint hook and run Docker image as non-root user (UID 1000)](https://github.com/omec-project/upfadapter/pull/142) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(1 day ago)*
+- [Build: harden and speed up Dockerfiles, add hadolint pre-commit hook](https://github.com/omec-project/upf/pull/1414) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Add hadolint hook and run Docker image as non-root user (UID 1000)](https://github.com/omec-project/udr/pull/398) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
 
 
 
