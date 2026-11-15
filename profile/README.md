@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
-- **[omec-project/af](https://github.com/omec-project/af)** -  *(1 day ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(1 day ago)*
-- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** - Metric Function *(1 day ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(1 day ago)*
+- **[omec-project/nssf](https://github.com/omec-project/nssf)** -  *(2 days ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(2 days ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(2 days ago)*
+- **[omec-project/af](https://github.com/omec-project/af)** -  *(2 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(2 days ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(2 days ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(2 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.5.0](https://github.com/omec-project/openapi/releases/tag/v2.5.0)) -  *(today)*
 - **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v6.1.2](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v6.1.2)) - Helm charts used for SD-Core packaging *(1 week ago)*
 - **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** ([v1.5.0](https://github.com/omec-project/sdcore-docs/releases/tag/v1.5.0)) - Documentation for SD-Core project *(2 weeks ago)*
 - **[omec-project/af](https://github.com/omec-project/af)** ([v1.0.0](https://github.com/omec-project/af/releases/tag/v1.0.0)) -  *(2 weeks ago)*
 - **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.1.2](https://github.com/omec-project/.github/releases/tag/v0.1.2)) -  *(2 weeks ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.4.1](https://github.com/omec-project/openapi/releases/tag/v2.4.1)) -  *(2 weeks ago)*
 - **[omec-project/util](https://github.com/omec-project/util)** ([v1.9.3](https://github.com/omec-project/util/releases/tag/v1.9.3)) -  *(2 weeks ago)*
 - **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.9](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.9)) - PFCP client simulator used for UPF testing *(2 weeks ago)*
 - **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.7](https://github.com/omec-project/nas/releases/tag/v2.2.7)) -  *(1 month ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Add NRF registration and NF config polling packages with loggers](https://github.com/omec-project/openapi/pull/216) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
-- [Support nfServiceList in UDM discovery alongside deprecated nfServices](https://github.com/omec-project/webconsole/pull/621) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
-- [Support nfServiceList in UDM discovery alongside deprecated nfServices](https://github.com/omec-project/ausf/pull/373) on **[omec-project/ausf](https://github.com/omec-project/ausf)** *(1 day ago)*
-- [Bound slice growth in AMF UE concurrency tests by resetting every 50 appends](https://github.com/omec-project/amf/pull/900) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
-- [Add hadolint hook and run Docker image as non-root user (UID 1000)](https://github.com/omec-project/webconsole/pull/620) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
-- [Add hadolint hook and run Docker image as non-root user (UID 1000)](https://github.com/omec-project/upfadapter/pull/142) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(1 day ago)*
-- [Build: harden and speed up Dockerfiles, add hadolint pre-commit hook](https://github.com/omec-project/upf/pull/1414) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
-- [Add hadolint hook and run Docker image as non-root user (UID 1000)](https://github.com/omec-project/udr/pull/398) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
+- [Add NRF registration and NF config polling packages with loggers](https://github.com/omec-project/openapi/pull/216) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(1 day ago)*
+- [Support nfServiceList in UDM discovery alongside deprecated nfServices](https://github.com/omec-project/webconsole/pull/621) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(2 days ago)*
+- [Support nfServiceList in UDM discovery alongside deprecated nfServices](https://github.com/omec-project/ausf/pull/373) on **[omec-project/ausf](https://github.com/omec-project/ausf)** *(2 days ago)*
+- [Bound slice growth in AMF UE concurrency tests by resetting every 50 appends](https://github.com/omec-project/amf/pull/900) on **[omec-project/amf](https://github.com/omec-project/amf)** *(2 days ago)*
+- [Add hadolint hook and run Docker image as non-root user (UID 1000)](https://github.com/omec-project/webconsole/pull/620) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(2 days ago)*
+- [Add hadolint hook and run Docker image as non-root user (UID 1000)](https://github.com/omec-project/upfadapter/pull/142) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(2 days ago)*
+- [Build: harden and speed up Dockerfiles, add hadolint pre-commit hook](https://github.com/omec-project/upf/pull/1414) on **[omec-project/upf](https://github.com/omec-project/upf)** *(2 days ago)*
+- [Add hadolint hook and run Docker image as non-root user (UID 1000)](https://github.com/omec-project/udr/pull/398) on **[omec-project/udr](https://github.com/omec-project/udr)** *(2 days ago)*
 
 
 
