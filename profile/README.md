@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/util](https://github.com/omec-project/util)** -  *(today)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(2 days ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(3 days ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(3 days ago)*
-- **[omec-project/af](https://github.com/omec-project/af)** -  *(3 days ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(3 days ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(3 days ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(3 days ago)*
+- **[omec-project/metricfunc](https://github.com/omec-project/metricfunc)** - Metric Function *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/af](https://github.com/omec-project/af)** -  *(1 day ago)*
+- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(1 day ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 day ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.10.0](https://github.com/omec-project/util/releases/tag/v1.10.0)) -  *(today)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.5.0](https://github.com/omec-project/openapi/releases/tag/v2.5.0)) -  *(1 day ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v6.1.2](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v6.1.2)) - Helm charts used for SD-Core packaging *(2 weeks ago)*
-- **[omec-project/sdcore-docs](https://github.com/omec-project/sdcore-docs)** ([v1.5.0](https://github.com/omec-project/sdcore-docs/releases/tag/v1.5.0)) - Documentation for SD-Core project *(2 weeks ago)*
-- **[omec-project/af](https://github.com/omec-project/af)** ([v1.0.0](https://github.com/omec-project/af/releases/tag/v1.0.0)) -  *(2 weeks ago)*
-- **[omec-project/.github](https://github.com/omec-project/.github)** ([v0.1.2](https://github.com/omec-project/.github/releases/tag/v0.1.2)) -  *(2 weeks ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.9](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.9)) - PFCP client simulator used for UPF testing *(2 weeks ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.7](https://github.com/omec-project/nas/releases/tag/v2.2.7)) -  *(1 month ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** ([v3.1.3](https://github.com/omec-project/udr/releases/tag/v3.1.3)) -  *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.6.4](https://github.com/omec-project/upf/releases/tag/v2.6.4)) - 5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.9.6](https://github.com/omec-project/simapp/releases/tag/v1.9.6)) - Sim subscription app for Aether *(1 day ago)*
+- **[omec-project/udm](https://github.com/omec-project/udm)** ([v3.1.3](https://github.com/omec-project/udm/releases/tag/v3.1.3)) -  *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** ([v4.3.4](https://github.com/omec-project/smf/releases/tag/v4.3.4)) -  *(1 day ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.9.5](https://github.com/omec-project/sctplb/releases/tag/v1.9.5)) - SCTP Load Balancer *(1 day ago)*
+- **[omec-project/pcf](https://github.com/omec-project/pcf)** ([v3.2.3](https://github.com/omec-project/pcf/releases/tag/v3.2.3)) -  *(1 day ago)*
+- **[omec-project/nssf](https://github.com/omec-project/nssf)** ([v3.1.3](https://github.com/omec-project/nssf/releases/tag/v3.1.3)) -  *(1 day ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Add shared NF helpers: nfconfig, SBI server, zap logger](https://github.com/omec-project/util/pull/337) on **[omec-project/util](https://github.com/omec-project/util)** *(today)*
-- [Use shared openapi nrfclient, nfpolling and nrfregistration services](https://github.com/omec-project/af/pull/16) on **[omec-project/af](https://github.com/omec-project/af)** *(today)*
-- [Add NRF registration and NF config polling packages with loggers](https://github.com/omec-project/openapi/pull/216) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(2 days ago)*
-- [Support nfServiceList in UDM discovery alongside deprecated nfServices](https://github.com/omec-project/webconsole/pull/621) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(3 days ago)*
-- [Support nfServiceList in UDM discovery alongside deprecated nfServices](https://github.com/omec-project/ausf/pull/373) on **[omec-project/ausf](https://github.com/omec-project/ausf)** *(3 days ago)*
-- [Bound slice growth in AMF UE concurrency tests by resetting every 50 appends](https://github.com/omec-project/amf/pull/900) on **[omec-project/amf](https://github.com/omec-project/amf)** *(3 days ago)*
-- [Add hadolint hook and run Docker image as non-root user (UID 1000)](https://github.com/omec-project/webconsole/pull/620) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(3 days ago)*
-- [Add hadolint hook and run Docker image as non-root user (UID 1000)](https://github.com/omec-project/upfadapter/pull/142) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(3 days ago)*
+- [Modernize concurrency tests with wg.Go and range-over-int loops](https://github.com/omec-project/udr/pull/404) on **[omec-project/udr](https://github.com/omec-project/udr)** *(today)*
+- [Create patch release](https://github.com/omec-project/webconsole/pull/625) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
+- [Create patch release](https://github.com/omec-project/upfadapter/pull/145) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(1 day ago)*
+- [Create patch release](https://github.com/omec-project/upf/pull/1419) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Create patch release](https://github.com/omec-project/udr/pull/402) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
+- [Create patch release](https://github.com/omec-project/udm/pull/432) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
+- [Create patch release](https://github.com/omec-project/smf/pull/732) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Create patch release](https://github.com/omec-project/simapp/pull/319) on **[omec-project/simapp](https://github.com/omec-project/simapp)** *(1 day ago)*
 
 
 
