@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(today)*
 - **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** -  *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
-- **[omec-project/af](https://github.com/omec-project/af)** -  *(1 day ago)*
 - **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
-- **[omec-project/webconsole](https://github.com/omec-project/webconsole)** -  *(1 day ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(1 day ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(1 day ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 day ago)*
 - **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(1 day ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(2 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.6.0](https://github.com/omec-project/openapi/releases/tag/v2.6.0)) -  *(today)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.10.2](https://github.com/omec-project/util/releases/tag/v1.10.2)) -  *(1 day ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.10](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.10)) - PFCP client simulator used for UPF testing *(1 day ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v6.1.3](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v6.1.3)) - Helm charts used for SD-Core packaging *(1 day ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.3.4](https://github.com/omec-project/amf/releases/tag/v3.3.4)) -  *(1 day ago)*
-- **[omec-project/ngap](https://github.com/omec-project/ngap)** ([v2.1.11](https://github.com/omec-project/ngap/releases/tag/v2.1.11)) -  *(1 day ago)*
-- **[omec-project/nas](https://github.com/omec-project/nas)** ([v2.2.8](https://github.com/omec-project/nas/releases/tag/v2.2.8)) -  *(1 day ago)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** ([v2.6.5](https://github.com/omec-project/upf/releases/tag/v2.6.5)) - 5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.3.0](https://github.com/omec-project/upfadapter/releases/tag/v2.3.0)) -  *(1 day ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.10.0](https://github.com/omec-project/simapp/releases/tag/v1.10.0)) - Sim subscription app for Aether *(1 day ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.10.0](https://github.com/omec-project/sctplb/releases/tag/v1.10.0)) - SCTP Load Balancer *(1 day ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.6.0](https://github.com/omec-project/openapi/releases/tag/v2.6.0)) -  *(1 day ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.10.2](https://github.com/omec-project/util/releases/tag/v1.10.2)) -  *(2 days ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.10](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.10)) - PFCP client simulator used for UPF testing *(2 days ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v6.1.3](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v6.1.3)) - Helm charts used for SD-Core packaging *(2 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.3.4](https://github.com/omec-project/amf/releases/tag/v3.3.4)) -  *(2 days ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Run govulncheck pre-commit hook on any .go change](https://github.com/omec-project/util/pull/341) on **[omec-project/util](https://github.com/omec-project/util)** *(1 day ago)*
-- [Run govulncheck pre-commit hook on any .go change](https://github.com/omec-project/pfcpsim/pull/380) on **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** *(1 day ago)*
-- [Run govulncheck pre-commit hook on any .go change](https://github.com/omec-project/openapi/pull/220) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(1 day ago)*
-- [Run govulncheck pre-commit hook on any .go change](https://github.com/omec-project/ngap/pull/151) on **[omec-project/ngap](https://github.com/omec-project/ngap)** *(1 day ago)*
-- [Run govulncheck pre-commit hook on any .go change, not just go.mod/go.sum](https://github.com/omec-project/nas/pull/248) on **[omec-project/nas](https://github.com/omec-project/nas)** *(1 day ago)*
-- [Update go dependencies and add update govulncheck hook](https://github.com/omec-project/amf/pull/909) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
-- [Upgrade go 1.27.4, bump staticcheck/lint, and add govulncheck hook](https://github.com/omec-project/webconsole/pull/627) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
-- [Upgrade go 1.27.4, bump staticcheck/lint, and add govulncheck hook](https://github.com/omec-project/upfadapter/pull/147) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(1 day ago)*
+- [Make NF instances query return TS 29.510 UriList with paging support](https://github.com/omec-project/nrf/pull/445) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(1 day ago)*
+- [Remove legacy link fallback; require TS 29.509 AUSF link names](https://github.com/omec-project/amf/pull/910) on **[omec-project/amf](https://github.com/omec-project/amf)** *(1 day ago)*
+- [Remove legacy link key from UE authentication response links](https://github.com/omec-project/ausf/pull/380) on **[omec-project/ausf](https://github.com/omec-project/ausf)** *(1 day ago)*
+- [Restructure into standard Go layout: move packages under internal/, add cmd/main.go](https://github.com/omec-project/upfadapter/pull/148) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(1 day ago)*
+- [Restructure into standard Go layout: move packages under internal/, add cmd/main.go](https://github.com/omec-project/simapp/pull/322) on **[omec-project/simapp](https://github.com/omec-project/simapp)** *(1 day ago)*
+- [Restructure into standard Go layout: move packages under internal/, add cmd/main.go](https://github.com/omec-project/sctplb/pull/326) on **[omec-project/sctplb](https://github.com/omec-project/sctplb)** *(1 day ago)*
+- [Run govulncheck pre-commit hook on any .go change](https://github.com/omec-project/util/pull/341) on **[omec-project/util](https://github.com/omec-project/util)** *(2 days ago)*
+- [Run govulncheck pre-commit hook on any .go change](https://github.com/omec-project/pfcpsim/pull/380) on **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** *(2 days ago)*
 
 
 
