@@ -8,37 +8,37 @@ through open-source collaboration, patents, and strategic execution.
 #### 🚀 What I'm currently working on
 
 - **[omec-project/openapi](https://github.com/omec-project/openapi)** -  *(1 day ago)*
-- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** -  *(2 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(2 days ago)*
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(2 days ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(2 days ago)*
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(2 days ago)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(2 days ago)*
-- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(3 days ago)*
+- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** -  *(3 days ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(3 days ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** - Sim subscription app for Aether *(3 days ago)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(3 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(3 days ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(3 days ago)*
+- **[omec-project/udr](https://github.com/omec-project/udr)** -  *(4 days ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.7.0](https://github.com/omec-project/openapi/releases/tag/v2.7.0)) -  *(1 day ago)*
-- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.3.0](https://github.com/omec-project/upfadapter/releases/tag/v2.3.0)) -  *(2 days ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.10.0](https://github.com/omec-project/simapp/releases/tag/v1.10.0)) - Sim subscription app for Aether *(2 days ago)*
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.10.0](https://github.com/omec-project/sctplb/releases/tag/v1.10.0)) - SCTP Load Balancer *(2 days ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.10.2](https://github.com/omec-project/util/releases/tag/v1.10.2)) -  *(3 days ago)*
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.10](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.10)) - PFCP client simulator used for UPF testing *(3 days ago)*
-- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v6.1.3](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v6.1.3)) - Helm charts used for SD-Core packaging *(3 days ago)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.3.4](https://github.com/omec-project/amf/releases/tag/v3.3.4)) -  *(3 days ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.8.0](https://github.com/omec-project/openapi/releases/tag/v2.8.0)) -  *(today)*
+- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.3.0](https://github.com/omec-project/upfadapter/releases/tag/v2.3.0)) -  *(3 days ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.10.0](https://github.com/omec-project/simapp/releases/tag/v1.10.0)) - Sim subscription app for Aether *(3 days ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.10.0](https://github.com/omec-project/sctplb/releases/tag/v1.10.0)) - SCTP Load Balancer *(3 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.10.2](https://github.com/omec-project/util/releases/tag/v1.10.2)) -  *(4 days ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.10](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.10)) - PFCP client simulator used for UPF testing *(4 days ago)*
+- **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v6.1.3](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v6.1.3)) - Helm charts used for SD-Core packaging *(4 days ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.3.4](https://github.com/omec-project/amf/releases/tag/v3.3.4)) -  *(4 days ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Add Nchf_ConvergedCharging client and charging models](https://github.com/omec-project/openapi/pull/224) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(1 day ago)*
-- [Make NF instances query return TS 29.510 UriList with paging support](https://github.com/omec-project/nrf/pull/445) on **[omec-project/nrf](https://github.com/omec-project/nrf)** *(2 days ago)*
-- [Remove legacy link fallback; require TS 29.509 AUSF link names](https://github.com/omec-project/amf/pull/910) on **[omec-project/amf](https://github.com/omec-project/amf)** *(2 days ago)*
-- [Remove legacy link key from UE authentication response links](https://github.com/omec-project/ausf/pull/380) on **[omec-project/ausf](https://github.com/omec-project/ausf)** *(2 days ago)*
-- [Restructure into standard Go layout: move packages under internal/, add cmd/main.go](https://github.com/omec-project/upfadapter/pull/148) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(2 days ago)*
-- [Restructure into standard Go layout: move packages under internal/, add cmd/main.go](https://github.com/omec-project/simapp/pull/322) on **[omec-project/simapp](https://github.com/omec-project/simapp)** *(2 days ago)*
-- [Restructure into standard Go layout: move packages under internal/, add cmd/main.go](https://github.com/omec-project/sctplb/pull/326) on **[omec-project/sctplb](https://github.com/omec-project/sctplb)** *(2 days ago)*
-- [Run govulncheck pre-commit hook on any .go change](https://github.com/omec-project/util/pull/341) on **[omec-project/util](https://github.com/omec-project/util)** *(3 days ago)*
+- [Fix ReferenceId and create minor release](https://github.com/omec-project/openapi/pull/236) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
+- [Re-add spec files](https://github.com/omec-project/openapi/pull/235) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
+- [Temporarily delete API specs due to their sizes](https://github.com/omec-project/openapi/pull/234) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
+- [Improve openapi models and APIs with request getters (where missing) - 7](https://github.com/omec-project/openapi/pull/233) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
+- [Improve openapi models and APIs with request getters (where missing) - 6](https://github.com/omec-project/openapi/pull/232) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(today)*
+- [Improve openapi models and APIs with request getters (where missing) - 5](https://github.com/omec-project/openapi/pull/231) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(1 day ago)*
+- [Improve openapi models and APIs with request getters (where missing) - 4](https://github.com/omec-project/openapi/pull/230) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(1 day ago)*
+- [Improve openapi models and APIs with request getters (where missing) - 3](https://github.com/omec-project/openapi/pull/229) on **[omec-project/openapi](https://github.com/omec-project/openapi)** *(1 day ago)*
 
 
 
