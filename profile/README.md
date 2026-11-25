@@ -7,38 +7,38 @@ through open-source collaboration, patents, and strategic execution.
 
 #### 🚀 What I'm currently working on
 
-- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(today)*
-- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(today)*
-- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(today)*
-- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(today)*
-- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(today)*
-- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(today)*
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(today)*
-- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(today)*
+- **[omec-project/ausf](https://github.com/omec-project/ausf)** -  *(1 day ago)*
+- **[omec-project/amf](https://github.com/omec-project/amf)** -  *(1 day ago)*
+- **[omec-project/upf](https://github.com/omec-project/upf)** - 5G Mobile Core User Plane *(1 day ago)*
+- **[omec-project/smf](https://github.com/omec-project/smf)** -  *(1 day ago)*
+- **[omec-project/n3iwf](https://github.com/omec-project/n3iwf)** -  *(1 day ago)*
+- **[omec-project/pcf](https://github.com/omec-project/pcf)** -  *(1 day ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** - SCTP Load Balancer *(1 day ago)*
+- **[omec-project/nrf](https://github.com/omec-project/nrf)** -  *(1 day ago)*
 
 
 
 #### 📦 Latest releases I've contributed to
 
-- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.11](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.11)) - PFCP client simulator used for UPF testing *(1 day ago)*
-- **[omec-project/util](https://github.com/omec-project/util)** ([v1.10.3](https://github.com/omec-project/util/releases/tag/v1.10.3)) -  *(1 day ago)*
-- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.8.0](https://github.com/omec-project/openapi/releases/tag/v2.8.0)) -  *(3 days ago)*
-- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.3.0](https://github.com/omec-project/upfadapter/releases/tag/v2.3.0)) -  *(6 days ago)*
-- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.10.0](https://github.com/omec-project/simapp/releases/tag/v1.10.0)) - Sim subscription app for Aether *(6 days ago)*
-- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.10.0](https://github.com/omec-project/sctplb/releases/tag/v1.10.0)) - SCTP Load Balancer *(6 days ago)*
+- **[omec-project/pfcpsim](https://github.com/omec-project/pfcpsim)** ([v1.5.11](https://github.com/omec-project/pfcpsim/releases/tag/v1.5.11)) - PFCP client simulator used for UPF testing *(2 days ago)*
+- **[omec-project/util](https://github.com/omec-project/util)** ([v1.10.3](https://github.com/omec-project/util/releases/tag/v1.10.3)) -  *(2 days ago)*
+- **[omec-project/openapi](https://github.com/omec-project/openapi)** ([v2.8.0](https://github.com/omec-project/openapi/releases/tag/v2.8.0)) -  *(4 days ago)*
+- **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** ([v2.3.0](https://github.com/omec-project/upfadapter/releases/tag/v2.3.0)) -  *(1 week ago)*
+- **[omec-project/simapp](https://github.com/omec-project/simapp)** ([v1.10.0](https://github.com/omec-project/simapp/releases/tag/v1.10.0)) - Sim subscription app for Aether *(1 week ago)*
+- **[omec-project/sctplb](https://github.com/omec-project/sctplb)** ([v1.10.0](https://github.com/omec-project/sctplb/releases/tag/v1.10.0)) - SCTP Load Balancer *(1 week ago)*
 - **[omec-project/sdcore-helm-charts](https://github.com/omec-project/sdcore-helm-charts)** ([v6.1.3](https://github.com/omec-project/sdcore-helm-charts/releases/tag/v6.1.3)) - Helm charts used for SD-Core packaging *(1 week ago)*
 - **[omec-project/amf](https://github.com/omec-project/amf)** ([v3.3.4](https://github.com/omec-project/amf/releases/tag/v3.3.4)) -  *(1 week ago)*
 
 #### 🔧 Recent Pull Requests
 
-- [Add security policy and README contact section](https://github.com/omec-project/af/pull/21) on **[omec-project/af](https://github.com/omec-project/af)** *(today)*
-- [Bump up Go dependencies](https://github.com/omec-project/webconsole/pull/628) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(today)*
-- [Bump up Go dependencies](https://github.com/omec-project/upfadapter/pull/150) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(today)*
-- [Bump up Go dependencies](https://github.com/omec-project/upf/pull/1431) on **[omec-project/upf](https://github.com/omec-project/upf)** *(today)*
-- [Bump up Go dependencies](https://github.com/omec-project/udr/pull/406) on **[omec-project/udr](https://github.com/omec-project/udr)** *(today)*
-- [Bump up Go dependencies](https://github.com/omec-project/udm/pull/435) on **[omec-project/udm](https://github.com/omec-project/udm)** *(today)*
-- [Bump up Go dependencies](https://github.com/omec-project/smf/pull/737) on **[omec-project/smf](https://github.com/omec-project/smf)** *(today)*
-- [Bump up Go dependencies](https://github.com/omec-project/simapp/pull/324) on **[omec-project/simapp](https://github.com/omec-project/simapp)** *(today)*
+- [Add security policy and README contact section](https://github.com/omec-project/af/pull/21) on **[omec-project/af](https://github.com/omec-project/af)** *(1 day ago)*
+- [Bump up Go dependencies](https://github.com/omec-project/webconsole/pull/628) on **[omec-project/webconsole](https://github.com/omec-project/webconsole)** *(1 day ago)*
+- [Bump up Go dependencies](https://github.com/omec-project/upfadapter/pull/150) on **[omec-project/upfadapter](https://github.com/omec-project/upfadapter)** *(1 day ago)*
+- [Bump up Go dependencies](https://github.com/omec-project/upf/pull/1431) on **[omec-project/upf](https://github.com/omec-project/upf)** *(1 day ago)*
+- [Bump up Go dependencies](https://github.com/omec-project/udr/pull/406) on **[omec-project/udr](https://github.com/omec-project/udr)** *(1 day ago)*
+- [Bump up Go dependencies](https://github.com/omec-project/udm/pull/435) on **[omec-project/udm](https://github.com/omec-project/udm)** *(1 day ago)*
+- [Bump up Go dependencies](https://github.com/omec-project/smf/pull/737) on **[omec-project/smf](https://github.com/omec-project/smf)** *(1 day ago)*
+- [Bump up Go dependencies](https://github.com/omec-project/simapp/pull/324) on **[omec-project/simapp](https://github.com/omec-project/simapp)** *(1 day ago)*
 
 
 
